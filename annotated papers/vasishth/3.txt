@@ -1,0 +1,570 @@
+Association Between Medication Use for Attention-Deficit/Hyperactivity Disorder and Risk of Motor Vehicle Crashes.
+
+Key Points
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Abstract
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Introduction
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+
+Methods
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+Study Sample
+
+We used data from the Truven Health Analytics MarketScan Commercial Claims and Encounters databases. MarketScan is one of the largest collections of deidentified patient data and includes inpatient, outpatient, and filled prescription claims from more than 100 insurers in the United States. There are approximately 146 million unique enrollee observations since 2005, encompassing employees and their spouses and dependents who are covered by employer-sponsored commercial health insurance. As confirmed with The University of Chicago institutional review board, the analysis of MarketScan data is exempt from approval because all records are deidentified, and no informed consent is required.
+
+We identified all patients with ADHD 18 years or older, defined as individuals who received an ADHD diagnosis (code 314 in the International Classification of Diseases, Ninth Edition [ICD-9]) or ADHD medication between January 1, 2005, and December 31, 2014. The first inpatient or outpatient diagnosis or filled prescription was defined as the index date. We followed up each patient from the index date or age 18 years, whichever occurred later, until the first disenrollment or December 31, 2014, whichever occurred first. Disenrollment was defined as zero days of medical or drug coverage in a given month. A non-ADHD control sample (no ADHD diagnosis or medication use), matched 1:1 on sex, calendar year, age at first enrollment, and length of enrollment, was also selected from the MarketScan enrollees.
+
+We defined ADHD medication using national drug codes for the following generic names: amphetamine salt combination, atomoxetine hydrochloride, dexmethylphenidate hydrochloride, dextroamphetamine sulfate, lisdexamfetamine dimesylate, methamphetamine hydrochloride, methylphenidate, and methylphenidate hydrochloride. We required prescription claims to have valid fill dates and days’ supply (≤180 days).
+
+We defined outcome events as emergency department visits for MVCs (ICD-9 codes E810-E825) recorded in the MarketScan database. We included only emergency MVC claims to avoid misclassifying recurring treatment visits as events.
+Statistical Analysis
+
+To examine the association between ADHD and MVCs, we compared the risk of at least one MVC between patients with ADHD and matched controls. Odds ratios (ORs) with 95% CIs were calculated using conditional logistic regression.
+
+To explore the association between ADHD medication use and MVCs among patients with ADHD, we created a monthly person-time data set to compare the risk of MVCs during months in which patients received or did not receive ADHD medication. We allowed MVC events to occur multiple times during the follow-up. A patient was considered to be receiving medication during a given month if a prescription was filled in that month or if there was a carryover from a prior month (ie, days’ supply extended into that month). If a prescription was filled in the month of an MVC event, the medication was considered used only if the prescription was filled before the MVC event. This reclassification occurred in a small number of instances (n = 107) during less than 0.01% of the included months. We began with population-level models to compare the risk of MVCs between medicated months and unmedicated months, with robust standard errors accounting for the correlations among months within individuals. Odds ratios were estimated using discrete-time logistic regression, adjusting for time-varying covariates (age, calendar year, and time since the last MVC event). Because these estimates remained susceptible to between-individual differences in selection into treatment, we then conducted within-individual analyses using conditional logistic models, with each individual entered as a separate stratum. That is, each individual served as his or her own control, and the risk of MVCs during medicated months was compared with the risk in the same individual while unmedicated. This model controlled for all unmeasured confounding factors that were constant within the individual during the follow-up (eg, genetic predisposition and early environment). Because the small changes in years of age and calendar year during the follow-up were unlikely to influence the within-individual ORs, we adjusted only for time since the last MVC event. We calculated the PAF of MVCs in patients with ADHD due to nonmedication (eMethods in the Supplement). To examine the robustness of the within-individual associations between ADHD medication use and MVCs, we performed 12 sensitivity analyses using different definitions of the cohort, exposure, and outcome (eMethods in the Supplement). All analyses were performed using statistical software (SAS, version 9.4; SAS Institute Inc), and all associations were reported separately for men and women.
+
+In addition, we explored the association between ADHD medication use and risk of MVCs 2 years later (long-term association). In patients with more than 2 years of follow-up, we examined the association between the lagged medication status (2-year interval) and MVCs, controlling for concurrent medication status. All person-months in the first 2 years of follow-up were excluded from the model because the lagged medication status was undefined. Again, we estimated the ORs at population and within-individual levels, with the same adjustment for covariates as in the models for the concurrent associations. Furthermore, we examined the long-term associations between ADHD medication use and MVCs in patients without any diagnosis of substance use disorder (SUD) before or during the follow-up to evaluate whether any associations were attributable to medication effects on SUD.
+
+Results
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+
+We used data from the Truven Health Analytics MarketScan Commercial Claims and Encounters databases. MarketScan is one of the largest collections of deidentified patient data and includes inpatient, outpatient, and filled prescription claims from more than 100 insurers in the United States. There are approximately 146 million unique enrollee observations since 2005, encompassing employees and their spouses and dependents who are covered by employer-sponsored commercial health insurance. As confirmed with The University of Chicago institutional review board, the analysis of MarketScan data is exempt from approval because all records are deidentified, and no informed consent is required.
+
+We identified all patients with ADHD 18 years or older, defined as individuals who received an ADHD diagnosis (code 314 in the International Classification of Diseases, Ninth Edition [ICD-9]) or ADHD medication between January 1, 2005, and December 31, 2014. The first inpatient or outpatient diagnosis or filled prescription was defined as the index date. We followed up each patient from the index date or age 18 years, whichever occurred later, until the first disenrollment or December 31, 2014, whichever occurred first. Disenrollment was defined as zero days of medical or drug coverage in a given month. A non-ADHD control sample (no ADHD diagnosis or medication use), matched 1:1 on sex, calendar year, age at first enrollment, and length of enrollment, was also selected from the MarketScan enrollees.
+
+We defined ADHD medication using national drug codes for the following generic names: amphetamine salt combination, atomoxetine hydrochloride, dexmethylphenidate hydrochloride, dextroamphetamine sulfate, lisdexamfetamine dimesylate, methamphetamine hydrochloride, methylphenidate, and methylphenidate hydrochloride. We required prescription claims to have valid fill dates and days’ supply (≤180 days).
+
+We defined outcome events as emergency department visits for MVCs (ICD-9 codes E810-E825) recorded in the MarketScan database. We included only emergency MVC claims to avoid misclassifying recurring treatment visits as events.
+
+To examine the association between ADHD and MVCs, we compared the risk of at least one MVC between patients with ADHD and matched controls. Odds ratios (ORs) with 95% CIs were calculated using conditional logistic regression.
+
+To explore the association between ADHD medication use and MVCs among patients with ADHD, we created a monthly person-time data set to compare the risk of MVCs during months in which patients received or did not receive ADHD medication. We allowed MVC events to occur multiple times during the follow-up. A patient was considered to be receiving medication during a given month if a prescription was filled in that month or if there was a carryover from a prior month (ie, days’ supply extended into that month). If a prescription was filled in the month of an MVC event, the medication was considered used only if the prescription was filled before the MVC event. This reclassification occurred in a small number of instances (n = 107) during less than 0.01% of the included months. We began with population-level models to compare the risk of MVCs between medicated months and unmedicated months, with robust standard errors accounting for the correlations among months within individuals. Odds ratios were estimated using discrete-time logistic regression, adjusting for time-varying covariates (age, calendar year, and time since the last MVC event). Because these estimates remained susceptible to between-individual differences in selection into treatment, we then conducted within-individual analyses using conditional logistic models, with each individual entered as a separate stratum. That is, each individual served as his or her own control, and the risk of MVCs during medicated months was compared with the risk in the same individual while unmedicated. This model controlled for all unmeasured confounding factors that were constant within the individual during the follow-up (eg, genetic predisposition and early environment). Because the small changes in years of age and calendar year during the follow-up were unlikely to influence the within-individual ORs, we adjusted only for time since the last MVC event. We calculated the PAF of MVCs in patients with ADHD due to nonmedication (eMethods in the Supplement). To examine the robustness of the within-individual associations between ADHD medication use and MVCs, we performed 12 sensitivity analyses using different definitions of the cohort, exposure, and outcome (eMethods in the Supplement). All analyses were performed using statistical software (SAS, version 9.4; SAS Institute Inc), and all associations were reported separately for men and women.
+
+In addition, we explored the association between ADHD medication use and risk of MVCs 2 years later (long-term association). In patients with more than 2 years of follow-up, we examined the association between the lagged medication status (2-year interval) and MVCs, controlling for concurrent medication status. All person-months in the first 2 years of follow-up were excluded from the model because the lagged medication status was undefined. Again, we estimated the ORs at population and within-individual levels, with the same adjustment for covariates as in the models for the concurrent associations. Furthermore, we examined the long-term associations between ADHD medication use and MVCs in patients without any diagnosis of substance use disorder (SUD) before or during the follow-up to evaluate whether any associations were attributable to medication effects on SUD.
+
+The study cohort consisted of 2 319 450 patients with ADHD (1 121 053 men and 1 198 397 women) observed for a total of 50 667 665 person-months. Their mean (SD) age was 32.5 (12.8) years. During the follow-up, 1 946 198 patients (83.9%) received at least one prescription for ADHD medication. A total of 11 224 patients (0.5%) had at least one emergency department visit for an MVC event (Table 1). Patients with ADHD had a significantly higher risk of an MVC than their matched controls (OR, 1.49; 95% CI, 1.46-1.54 for men and OR, 1.44; 95% CI, 1.41-1.48 for women) (eTable 1 in the Supplement), and untreated patients with ADHD had the highest risk of an MVC compared with medicated patients with ADHD and controls (eTable 2 in the Supplement).
+
+Abbreviations: ED, emergency department; IQR, interquartile range; MVC, motor vehicle crash.
+Concurrent Associations Between ADHD Medication Use and MVC Events
+
+At the population level, months with ADHD medication were associated with a 12% (OR, 0.88; 95% CI, 0.84-0.93) lower risk of MVCs in male patients with ADHD relative to unmedicated months and a 14% (OR, 0.86; 95% CI, 0.82-0.90) lower risk of MVCs in female patients with ADHD (Table 2). More important, the within-individual analyses showed that men with ADHD were 38% (OR, 0.62; 95% CI, 0.56-0.67) less likely to have MVC events during medicated months relative to unmedicated months, suggesting that, within an individual (ie, after controlling for all unmeasured static and measured time-varying confounding factors), ADHD medication use was associated with a significant reduction in the risk of MVCs. Our PAF estimated that 22.2% of the MVCs among male patients with ADHD were attributable to lack of medication treatment, assuming that the association was causal. A similar reduction (42%) was found among female patients with ADHD (OR, 0.58; 95% CI, 0.53-0.62), which corresponded to a PAF estimate of 22.1%.
+
+We observed comparable within-individual estimates of the association between ADHD medication use and decreased MVCs in patients without other psychiatric medications or psychotherapy, in patients with incident diagnoses of ADHD, and in patients with different ages or index dates (Table 3). Analyses using alternative definitions of the exposure (ie, extended medicated periods and stimulant medications only) and outcome (ie, injuries of motorcyclists and the broader MVC event definition) also produced results similar to the main findings. Finally, there was no statistically significant association between selective serotonin reuptake inhibitor (SSRI) use and MVCs in men, but we found a moderate association between SSRI use and MVCs in women (OR, 0.77; 95% CI, 0.69-0.86).
+
+Abbreviations: ED, emergency department; SSRIs, selective serotonin reuptake inhibitors.
+Long-term Associations Between ADHD Medication Use and MVC Events
+
+At the population level, there were no significant associations between ADHD medication use and MVC events 2 years later. However, the within-individual analyses showed that ADHD medication use was associated with a 34% (OR, 0.66; 95% CI, 0.58-0.76) lower risk of MVCs 2 years later in male patients with ADHD and a 27% (OR, 0.73; 95% CI, 0.64-0.84) lower risk of MVCs in female patients with ADHD (Table 4), even after controlling for concurrent ADHD medication use. The results were similar when we excluded patients with SUD, suggesting that associations between ADHD medication use and decreased MVCs were unlikely to be fully explained by an effect of ADHD medication on SUD.
+
+Abbreviation: SUD, substance use disorder.
+
+Discussion
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+
+We used data from the Truven Health Analytics MarketScan Commercial Claims and Encounters databases. MarketScan is one of the largest collections of deidentified patient data and includes inpatient, outpatient, and filled prescription claims from more than 100 insurers in the United States. There are approximately 146 million unique enrollee observations since 2005, encompassing employees and their spouses and dependents who are covered by employer-sponsored commercial health insurance. As confirmed with The University of Chicago institutional review board, the analysis of MarketScan data is exempt from approval because all records are deidentified, and no informed consent is required.
+
+We identified all patients with ADHD 18 years or older, defined as individuals who received an ADHD diagnosis (code 314 in the International Classification of Diseases, Ninth Edition [ICD-9]) or ADHD medication between January 1, 2005, and December 31, 2014. The first inpatient or outpatient diagnosis or filled prescription was defined as the index date. We followed up each patient from the index date or age 18 years, whichever occurred later, until the first disenrollment or December 31, 2014, whichever occurred first. Disenrollment was defined as zero days of medical or drug coverage in a given month. A non-ADHD control sample (no ADHD diagnosis or medication use), matched 1:1 on sex, calendar year, age at first enrollment, and length of enrollment, was also selected from the MarketScan enrollees.
+
+We defined ADHD medication using national drug codes for the following generic names: amphetamine salt combination, atomoxetine hydrochloride, dexmethylphenidate hydrochloride, dextroamphetamine sulfate, lisdexamfetamine dimesylate, methamphetamine hydrochloride, methylphenidate, and methylphenidate hydrochloride. We required prescription claims to have valid fill dates and days’ supply (≤180 days).
+
+We defined outcome events as emergency department visits for MVCs (ICD-9 codes E810-E825) recorded in the MarketScan database. We included only emergency MVC claims to avoid misclassifying recurring treatment visits as events.
+
+To examine the association between ADHD and MVCs, we compared the risk of at least one MVC between patients with ADHD and matched controls. Odds ratios (ORs) with 95% CIs were calculated using conditional logistic regression.
+
+To explore the association between ADHD medication use and MVCs among patients with ADHD, we created a monthly person-time data set to compare the risk of MVCs during months in which patients received or did not receive ADHD medication. We allowed MVC events to occur multiple times during the follow-up. A patient was considered to be receiving medication during a given month if a prescription was filled in that month or if there was a carryover from a prior month (ie, days’ supply extended into that month). If a prescription was filled in the month of an MVC event, the medication was considered used only if the prescription was filled before the MVC event. This reclassification occurred in a small number of instances (n = 107) during less than 0.01% of the included months. We began with population-level models to compare the risk of MVCs between medicated months and unmedicated months, with robust standard errors accounting for the correlations among months within individuals. Odds ratios were estimated using discrete-time logistic regression, adjusting for time-varying covariates (age, calendar year, and time since the last MVC event). Because these estimates remained susceptible to between-individual differences in selection into treatment, we then conducted within-individual analyses using conditional logistic models, with each individual entered as a separate stratum. That is, each individual served as his or her own control, and the risk of MVCs during medicated months was compared with the risk in the same individual while unmedicated. This model controlled for all unmeasured confounding factors that were constant within the individual during the follow-up (eg, genetic predisposition and early environment). Because the small changes in years of age and calendar year during the follow-up were unlikely to influence the within-individual ORs, we adjusted only for time since the last MVC event. We calculated the PAF of MVCs in patients with ADHD due to nonmedication (eMethods in the Supplement). To examine the robustness of the within-individual associations between ADHD medication use and MVCs, we performed 12 sensitivity analyses using different definitions of the cohort, exposure, and outcome (eMethods in the Supplement). All analyses were performed using statistical software (SAS, version 9.4; SAS Institute Inc), and all associations were reported separately for men and women.
+
+In addition, we explored the association between ADHD medication use and risk of MVCs 2 years later (long-term association). In patients with more than 2 years of follow-up, we examined the association between the lagged medication status (2-year interval) and MVCs, controlling for concurrent medication status. All person-months in the first 2 years of follow-up were excluded from the model because the lagged medication status was undefined. Again, we estimated the ORs at population and within-individual levels, with the same adjustment for covariates as in the models for the concurrent associations. Furthermore, we examined the long-term associations between ADHD medication use and MVCs in patients without any diagnosis of substance use disorder (SUD) before or during the follow-up to evaluate whether any associations were attributable to medication effects on SUD.
+
+The study cohort consisted of 2 319 450 patients with ADHD (1 121 053 men and 1 198 397 women) observed for a total of 50 667 665 person-months. Their mean (SD) age was 32.5 (12.8) years. During the follow-up, 1 946 198 patients (83.9%) received at least one prescription for ADHD medication. A total of 11 224 patients (0.5%) had at least one emergency department visit for an MVC event (Table 1). Patients with ADHD had a significantly higher risk of an MVC than their matched controls (OR, 1.49; 95% CI, 1.46-1.54 for men and OR, 1.44; 95% CI, 1.41-1.48 for women) (eTable 1 in the Supplement), and untreated patients with ADHD had the highest risk of an MVC compared with medicated patients with ADHD and controls (eTable 2 in the Supplement).
+
+Abbreviations: ED, emergency department; IQR, interquartile range; MVC, motor vehicle crash.
+
+At the population level, months with ADHD medication were associated with a 12% (OR, 0.88; 95% CI, 0.84-0.93) lower risk of MVCs in male patients with ADHD relative to unmedicated months and a 14% (OR, 0.86; 95% CI, 0.82-0.90) lower risk of MVCs in female patients with ADHD (Table 2). More important, the within-individual analyses showed that men with ADHD were 38% (OR, 0.62; 95% CI, 0.56-0.67) less likely to have MVC events during medicated months relative to unmedicated months, suggesting that, within an individual (ie, after controlling for all unmeasured static and measured time-varying confounding factors), ADHD medication use was associated with a significant reduction in the risk of MVCs. Our PAF estimated that 22.2% of the MVCs among male patients with ADHD were attributable to lack of medication treatment, assuming that the association was causal. A similar reduction (42%) was found among female patients with ADHD (OR, 0.58; 95% CI, 0.53-0.62), which corresponded to a PAF estimate of 22.1%.
+
+We observed comparable within-individual estimates of the association between ADHD medication use and decreased MVCs in patients without other psychiatric medications or psychotherapy, in patients with incident diagnoses of ADHD, and in patients with different ages or index dates (Table 3). Analyses using alternative definitions of the exposure (ie, extended medicated periods and stimulant medications only) and outcome (ie, injuries of motorcyclists and the broader MVC event definition) also produced results similar to the main findings. Finally, there was no statistically significant association between selective serotonin reuptake inhibitor (SSRI) use and MVCs in men, but we found a moderate association between SSRI use and MVCs in women (OR, 0.77; 95% CI, 0.69-0.86).
+
+Abbreviations: ED, emergency department; SSRIs, selective serotonin reuptake inhibitors.
+
+At the population level, there were no significant associations between ADHD medication use and MVC events 2 years later. However, the within-individual analyses showed that ADHD medication use was associated with a 34% (OR, 0.66; 95% CI, 0.58-0.76) lower risk of MVCs 2 years later in male patients with ADHD and a 27% (OR, 0.73; 95% CI, 0.64-0.84) lower risk of MVCs in female patients with ADHD (Table 4), even after controlling for concurrent ADHD medication use. The results were similar when we excluded patients with SUD, suggesting that associations between ADHD medication use and decreased MVCs were unlikely to be fully explained by an effect of ADHD medication on SUD.
+
+Abbreviation: SUD, substance use disorder.
+
+In this large, nationwide cohort study over 10 years, patients with ADHD had a higher risk of MVCs compared with controls without ADHD. However, in male and female patients with ADHD, medication use for the disorder was associated with a significantly reduced risk of MVCs. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs.
+
+For many people, driving a motor vehicle is a necessary and important activity of daily living. However, core symptoms of ADHD (eg, inattention and impulsivity) may interfere with the competencies necessary to drive safely, predisposing those with the disorder to greater risk of crashes and injuries. Therefore, the use of medications that alleviate ADHD symptoms could be expected to reduce unsafe driving behaviors and consequently lower risks of crashes. Our results showed that ADHD medication use was associated with reduced risk of MVCs. In contrast, research has demonstrated that psychosocial interventions for ADHD have not addressed driving problems. Our results are in line with previous clinical investigations and one population-based study from Sweden and further extend the previous findings in 3 important ways. First, this study is the initial one to date to clarify the association between ADHD medication use and decreased MVCs in a large sample of women with ADHD, and we found that the association in women was as strong as that in men. This pattern is in line with randomized clinical trials showing that ADHD medication is efficacious for and well tolerated by male and female patients. Second, to our knowledge, this study is the first to examine the association between ADHD medication use and risk of MVCs in a population-based US sample. Assuming a causal association, our estimates of PAF suggested that up to 22% of the MVCs in patients with ADHD could have been avoided if those patients had received medication during their entire follow-up. The PAF was lower than the estimate in Sweden (up to 49% in men with ADHD). The strengths of the association between ADHD medication use and decreased MVCs were similar in this study and the Swedish study, and the difference in PAFs is mainly due to the fact that the proportion of medicated time in patients with ADHD in the United States (50.5%) was higher than that in Sweden (21.1%). Third, this study is the first to date to demonstrate a long-term association between receiving ADHD medication and decreased MVCs. If this result indeed reflects a protective effect, it is possible that sustained ADHD medication use might lead to lower risk of comorbid problems (eg, SUD) or contribute to long-term improvements in life functioning. Previous research has suggested that stimulant medication use might reduce the risk of later substance abuse, but we found similar long-term associations in patients with ADHD without any SUD diagnoses, suggesting that the association with decreased MVCs was not fully explained by SUD. The estimate of the long-term association also depends on how consistently a patient was medicated during the 2-year interval and should not be interpreted as the effect of medication use at a single prior time point on its own.
+
+Our finding that individuals with ADHD had an increased risk of MVCs compared with individuals without ADHD (1.44 times in men and 1.49 times in women) is consistent with the results from a meta-analysis and some population-based studies. However, our estimates were lower than in some earlier investigations. The difference in the effect sizes of ADHD could partly be explained by methodological differences in study designs, such as variations in sample selection or confounding adjustment. In addition, the diagnosis and treatment of ADHD in adults was not a common practice until recent years, so earlier studies were likely to have included patients with ADHD with more severe symptoms and therefore found higher risk associated with ADHD. The awareness of ADHD in adults has rapidly increased and influenced clinical practice across the world. With an estimated prevalence of 2.5% to 3.4%, ADHD is one of the most common mental health problems in adults. Failure to recognize and treat ADHD in adults is detrimental to their well-being, and efficacious treatment might help reduce preventable mortality.
+Strengths and Limitations
+
+This study has a number of strengths. We investigated a national sample of commercially insured patients in the United States. The sample size is substantial and representative of the largest segment of US health care users, an estimated 49% of the US population. The design established the temporal correlation between ADHD medication use and decreased MVCs, and information on filled prescriptions was independent of the outcome and free from recall bias. Moreover, we used within-individual analyses, which adjust for all potential confounders that are static during the follow-up (eg, genetic predisposition and early environment). However, because of the observational nature of these data, we could not account for all of the possible confounders that select individuals into treatment. It is possible that some unmeasured factors (eg, engagement with the health care system) that motivate individuals to use or stop medications may also decrease or increase the risk of MVCs. We tested this alternative explanation by using SSRIs as a comparator. If such unmeasured factors were a main explanation of the observed association with ADHD medication use, then we would expect a similar association with SSRIs. We found no association between SSRI use and MVCs in men but observed a moderate association between SSRI use and MVCs in women, which was substantially weaker than the association with ADHD medication. One possible explanation is that the association between ADHD medication use and decreased MVCs in women was partly explained by some general effect of receiving medical attention. Another possibility is that prescription of SSRIs occurred more frequently with ADHD medication use in women (20.0% in our sample) than in men (11.3%). Therefore, unmeasured confounding is unlikely to fully explain the observed associations between ADHD medication use and decreased MVCs. Nevertheless, observational studies like this one cannot prove causality. Validation in other samples and triangulation with other designs are needed to confirm our findings. From a clinical perspective, it is important to consider the combined effects of illness, medication use, and associated changes in lifestyle so that our results can assist patients and clinicians in making informed decisions about treatment and driving safety.
+
+There are other limitations to consider. First, the use of ADHD medication was measured by filled prescriptions and defined at the monthly level. If some patients did not take the medication as prescribed or only took the medication sporadically, this limitation would introduce misclassification of exposure and reduce the effect estimates; hence, our results are likely to be conservative estimates of the actual effects of medication use on MVCs. Second, we used emergency department visits due to MVCs as our primary outcome. Although we conducted sensitivity analyses using a broader definition of MVCs, crashes that did not require medical services (eg, less severe crashes or some fatal crashes) were not included in our study. Third, the findings are based on data for patients with commercial health insurance, and generalizations to other patient groups should be made with caution.
+
+Conclusions
+
+In a large, national sample of patients with ADHD in the United States, medication use for the disorder was associated with a reduced risk of MVCs in men and women in the short term and the long term. These findings call attention to a prevalent and preventable cause of mortality and morbidity among patients with ADHD. If replicated, our results should be considered along with other potential benefits and harms associated with ADHD medication use.
+
+Notes
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+
+We used data from the Truven Health Analytics MarketScan Commercial Claims and Encounters databases. MarketScan is one of the largest collections of deidentified patient data and includes inpatient, outpatient, and filled prescription claims from more than 100 insurers in the United States. There are approximately 146 million unique enrollee observations since 2005, encompassing employees and their spouses and dependents who are covered by employer-sponsored commercial health insurance. As confirmed with The University of Chicago institutional review board, the analysis of MarketScan data is exempt from approval because all records are deidentified, and no informed consent is required.
+
+We identified all patients with ADHD 18 years or older, defined as individuals who received an ADHD diagnosis (code 314 in the International Classification of Diseases, Ninth Edition [ICD-9]) or ADHD medication between January 1, 2005, and December 31, 2014. The first inpatient or outpatient diagnosis or filled prescription was defined as the index date. We followed up each patient from the index date or age 18 years, whichever occurred later, until the first disenrollment or December 31, 2014, whichever occurred first. Disenrollment was defined as zero days of medical or drug coverage in a given month. A non-ADHD control sample (no ADHD diagnosis or medication use), matched 1:1 on sex, calendar year, age at first enrollment, and length of enrollment, was also selected from the MarketScan enrollees.
+
+We defined ADHD medication using national drug codes for the following generic names: amphetamine salt combination, atomoxetine hydrochloride, dexmethylphenidate hydrochloride, dextroamphetamine sulfate, lisdexamfetamine dimesylate, methamphetamine hydrochloride, methylphenidate, and methylphenidate hydrochloride. We required prescription claims to have valid fill dates and days’ supply (≤180 days).
+
+We defined outcome events as emergency department visits for MVCs (ICD-9 codes E810-E825) recorded in the MarketScan database. We included only emergency MVC claims to avoid misclassifying recurring treatment visits as events.
+
+To examine the association between ADHD and MVCs, we compared the risk of at least one MVC between patients with ADHD and matched controls. Odds ratios (ORs) with 95% CIs were calculated using conditional logistic regression.
+
+To explore the association between ADHD medication use and MVCs among patients with ADHD, we created a monthly person-time data set to compare the risk of MVCs during months in which patients received or did not receive ADHD medication. We allowed MVC events to occur multiple times during the follow-up. A patient was considered to be receiving medication during a given month if a prescription was filled in that month or if there was a carryover from a prior month (ie, days’ supply extended into that month). If a prescription was filled in the month of an MVC event, the medication was considered used only if the prescription was filled before the MVC event. This reclassification occurred in a small number of instances (n = 107) during less than 0.01% of the included months. We began with population-level models to compare the risk of MVCs between medicated months and unmedicated months, with robust standard errors accounting for the correlations among months within individuals. Odds ratios were estimated using discrete-time logistic regression, adjusting for time-varying covariates (age, calendar year, and time since the last MVC event). Because these estimates remained susceptible to between-individual differences in selection into treatment, we then conducted within-individual analyses using conditional logistic models, with each individual entered as a separate stratum. That is, each individual served as his or her own control, and the risk of MVCs during medicated months was compared with the risk in the same individual while unmedicated. This model controlled for all unmeasured confounding factors that were constant within the individual during the follow-up (eg, genetic predisposition and early environment). Because the small changes in years of age and calendar year during the follow-up were unlikely to influence the within-individual ORs, we adjusted only for time since the last MVC event. We calculated the PAF of MVCs in patients with ADHD due to nonmedication (eMethods in the Supplement). To examine the robustness of the within-individual associations between ADHD medication use and MVCs, we performed 12 sensitivity analyses using different definitions of the cohort, exposure, and outcome (eMethods in the Supplement). All analyses were performed using statistical software (SAS, version 9.4; SAS Institute Inc), and all associations were reported separately for men and women.
+
+In addition, we explored the association between ADHD medication use and risk of MVCs 2 years later (long-term association). In patients with more than 2 years of follow-up, we examined the association between the lagged medication status (2-year interval) and MVCs, controlling for concurrent medication status. All person-months in the first 2 years of follow-up were excluded from the model because the lagged medication status was undefined. Again, we estimated the ORs at population and within-individual levels, with the same adjustment for covariates as in the models for the concurrent associations. Furthermore, we examined the long-term associations between ADHD medication use and MVCs in patients without any diagnosis of substance use disorder (SUD) before or during the follow-up to evaluate whether any associations were attributable to medication effects on SUD.
+
+The study cohort consisted of 2 319 450 patients with ADHD (1 121 053 men and 1 198 397 women) observed for a total of 50 667 665 person-months. Their mean (SD) age was 32.5 (12.8) years. During the follow-up, 1 946 198 patients (83.9%) received at least one prescription for ADHD medication. A total of 11 224 patients (0.5%) had at least one emergency department visit for an MVC event (Table 1). Patients with ADHD had a significantly higher risk of an MVC than their matched controls (OR, 1.49; 95% CI, 1.46-1.54 for men and OR, 1.44; 95% CI, 1.41-1.48 for women) (eTable 1 in the Supplement), and untreated patients with ADHD had the highest risk of an MVC compared with medicated patients with ADHD and controls (eTable 2 in the Supplement).
+
+Abbreviations: ED, emergency department; IQR, interquartile range; MVC, motor vehicle crash.
+
+At the population level, months with ADHD medication were associated with a 12% (OR, 0.88; 95% CI, 0.84-0.93) lower risk of MVCs in male patients with ADHD relative to unmedicated months and a 14% (OR, 0.86; 95% CI, 0.82-0.90) lower risk of MVCs in female patients with ADHD (Table 2). More important, the within-individual analyses showed that men with ADHD were 38% (OR, 0.62; 95% CI, 0.56-0.67) less likely to have MVC events during medicated months relative to unmedicated months, suggesting that, within an individual (ie, after controlling for all unmeasured static and measured time-varying confounding factors), ADHD medication use was associated with a significant reduction in the risk of MVCs. Our PAF estimated that 22.2% of the MVCs among male patients with ADHD were attributable to lack of medication treatment, assuming that the association was causal. A similar reduction (42%) was found among female patients with ADHD (OR, 0.58; 95% CI, 0.53-0.62), which corresponded to a PAF estimate of 22.1%.
+
+We observed comparable within-individual estimates of the association between ADHD medication use and decreased MVCs in patients without other psychiatric medications or psychotherapy, in patients with incident diagnoses of ADHD, and in patients with different ages or index dates (Table 3). Analyses using alternative definitions of the exposure (ie, extended medicated periods and stimulant medications only) and outcome (ie, injuries of motorcyclists and the broader MVC event definition) also produced results similar to the main findings. Finally, there was no statistically significant association between selective serotonin reuptake inhibitor (SSRI) use and MVCs in men, but we found a moderate association between SSRI use and MVCs in women (OR, 0.77; 95% CI, 0.69-0.86).
+
+Abbreviations: ED, emergency department; SSRIs, selective serotonin reuptake inhibitors.
+
+At the population level, there were no significant associations between ADHD medication use and MVC events 2 years later. However, the within-individual analyses showed that ADHD medication use was associated with a 34% (OR, 0.66; 95% CI, 0.58-0.76) lower risk of MVCs 2 years later in male patients with ADHD and a 27% (OR, 0.73; 95% CI, 0.64-0.84) lower risk of MVCs in female patients with ADHD (Table 4), even after controlling for concurrent ADHD medication use. The results were similar when we excluded patients with SUD, suggesting that associations between ADHD medication use and decreased MVCs were unlikely to be fully explained by an effect of ADHD medication on SUD.
+
+Abbreviation: SUD, substance use disorder.
+
+In this large, nationwide cohort study over 10 years, patients with ADHD had a higher risk of MVCs compared with controls without ADHD. However, in male and female patients with ADHD, medication use for the disorder was associated with a significantly reduced risk of MVCs. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs.
+
+For many people, driving a motor vehicle is a necessary and important activity of daily living. However, core symptoms of ADHD (eg, inattention and impulsivity) may interfere with the competencies necessary to drive safely, predisposing those with the disorder to greater risk of crashes and injuries. Therefore, the use of medications that alleviate ADHD symptoms could be expected to reduce unsafe driving behaviors and consequently lower risks of crashes. Our results showed that ADHD medication use was associated with reduced risk of MVCs. In contrast, research has demonstrated that psychosocial interventions for ADHD have not addressed driving problems. Our results are in line with previous clinical investigations and one population-based study from Sweden and further extend the previous findings in 3 important ways. First, this study is the initial one to date to clarify the association between ADHD medication use and decreased MVCs in a large sample of women with ADHD, and we found that the association in women was as strong as that in men. This pattern is in line with randomized clinical trials showing that ADHD medication is efficacious for and well tolerated by male and female patients. Second, to our knowledge, this study is the first to examine the association between ADHD medication use and risk of MVCs in a population-based US sample. Assuming a causal association, our estimates of PAF suggested that up to 22% of the MVCs in patients with ADHD could have been avoided if those patients had received medication during their entire follow-up. The PAF was lower than the estimate in Sweden (up to 49% in men with ADHD). The strengths of the association between ADHD medication use and decreased MVCs were similar in this study and the Swedish study, and the difference in PAFs is mainly due to the fact that the proportion of medicated time in patients with ADHD in the United States (50.5%) was higher than that in Sweden (21.1%). Third, this study is the first to date to demonstrate a long-term association between receiving ADHD medication and decreased MVCs. If this result indeed reflects a protective effect, it is possible that sustained ADHD medication use might lead to lower risk of comorbid problems (eg, SUD) or contribute to long-term improvements in life functioning. Previous research has suggested that stimulant medication use might reduce the risk of later substance abuse, but we found similar long-term associations in patients with ADHD without any SUD diagnoses, suggesting that the association with decreased MVCs was not fully explained by SUD. The estimate of the long-term association also depends on how consistently a patient was medicated during the 2-year interval and should not be interpreted as the effect of medication use at a single prior time point on its own.
+
+Our finding that individuals with ADHD had an increased risk of MVCs compared with individuals without ADHD (1.44 times in men and 1.49 times in women) is consistent with the results from a meta-analysis and some population-based studies. However, our estimates were lower than in some earlier investigations. The difference in the effect sizes of ADHD could partly be explained by methodological differences in study designs, such as variations in sample selection or confounding adjustment. In addition, the diagnosis and treatment of ADHD in adults was not a common practice until recent years, so earlier studies were likely to have included patients with ADHD with more severe symptoms and therefore found higher risk associated with ADHD. The awareness of ADHD in adults has rapidly increased and influenced clinical practice across the world. With an estimated prevalence of 2.5% to 3.4%, ADHD is one of the most common mental health problems in adults. Failure to recognize and treat ADHD in adults is detrimental to their well-being, and efficacious treatment might help reduce preventable mortality.
+
+This study has a number of strengths. We investigated a national sample of commercially insured patients in the United States. The sample size is substantial and representative of the largest segment of US health care users, an estimated 49% of the US population. The design established the temporal correlation between ADHD medication use and decreased MVCs, and information on filled prescriptions was independent of the outcome and free from recall bias. Moreover, we used within-individual analyses, which adjust for all potential confounders that are static during the follow-up (eg, genetic predisposition and early environment). However, because of the observational nature of these data, we could not account for all of the possible confounders that select individuals into treatment. It is possible that some unmeasured factors (eg, engagement with the health care system) that motivate individuals to use or stop medications may also decrease or increase the risk of MVCs. We tested this alternative explanation by using SSRIs as a comparator. If such unmeasured factors were a main explanation of the observed association with ADHD medication use, then we would expect a similar association with SSRIs. We found no association between SSRI use and MVCs in men but observed a moderate association between SSRI use and MVCs in women, which was substantially weaker than the association with ADHD medication. One possible explanation is that the association between ADHD medication use and decreased MVCs in women was partly explained by some general effect of receiving medical attention. Another possibility is that prescription of SSRIs occurred more frequently with ADHD medication use in women (20.0% in our sample) than in men (11.3%). Therefore, unmeasured confounding is unlikely to fully explain the observed associations between ADHD medication use and decreased MVCs. Nevertheless, observational studies like this one cannot prove causality. Validation in other samples and triangulation with other designs are needed to confirm our findings. From a clinical perspective, it is important to consider the combined effects of illness, medication use, and associated changes in lifestyle so that our results can assist patients and clinicians in making informed decisions about treatment and driving safety.
+
+There are other limitations to consider. First, the use of ADHD medication was measured by filled prescriptions and defined at the monthly level. If some patients did not take the medication as prescribed or only took the medication sporadically, this limitation would introduce misclassification of exposure and reduce the effect estimates; hence, our results are likely to be conservative estimates of the actual effects of medication use on MVCs. Second, we used emergency department visits due to MVCs as our primary outcome. Although we conducted sensitivity analyses using a broader definition of MVCs, crashes that did not require medical services (eg, less severe crashes or some fatal crashes) were not included in our study. Third, the findings are based on data for patients with commercial health insurance, and generalizations to other patient groups should be made with caution.
+
+In a large, national sample of patients with ADHD in the United States, medication use for the disorder was associated with a reduced risk of MVCs in men and women in the short term and the long term. These findings call attention to a prevalent and preventable cause of mortality and morbidity among patients with ADHD. If replicated, our results should be considered along with other potential benefits and harms associated with ADHD medication use.
+
+eMethods. Supplemental Methods
+
+eTable 1. Associations Between ADHD and Motor Vehicle Crashes (MVCs)
+
+eTable 2. Risk of Motor Vehicle Crashes (MVCs) in ADHD Patients With and Without Medication Compared With Population Controls
+
+References
+
+Accepted for Publication: March 1, 2017.
+
+Published Online: May 10, 2017. doi:10.1001/jamapsychiatry.2017.0659
+
+Author Contributions: Drs Chang and Hur had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Chang, Quinn, Gibbons, Sjölander, D’Onofrio.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Chang, Gibbons, Sjölander.
+
+Critical revision of the manuscript for important intellectual content: Quinn, Hur, Gibbons, Sjölander, Larsson, D’Onofrio.
+
+Statistical analysis: Chang, Hur, Gibbons, Sjölander.
+
+Obtained funding: Chang, Quinn, Gibbons, Larsson, D’Onofrio.
+
+Administrative, technical, or material support: Gibbons.
+
+Study supervision: Gibbons, Larsson.
+
+Conflict of Interest Disclosures: Dr Larsson reported serving as a speaker for Eli Lilly and Shire and reported receiving a research grant from Shire, all outside of the submitted work. No other disclosures were reported.
+
+Funding/Support: This work was supported by grants from the Swedish Research Council (2013-2280) and the National Institute of Mental Health (1R01MH102221). Dr Chang was supported by the Swedish Research Council for Health, Working Life and Welfare (2014-2780). Dr Quinn was supported by the National Institute on Drug Abuse (K99DA040727).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Is the use of attention-deficit/hyperactivity disorder medication associated with a reduced risk of motor vehicle crashes in patients with the disorder?
+
+In a national cohort study of 2 319 450 patients with attention-deficit/hyperactivity disorder, the use of medication for the disorder was associated with a significant reduction in the risk of motor vehicle crashes in male and female patients.
+
+Attention-deficit/hyperactivity disorder medication use may lower the risk of motor vehicle crashes, a prevalent and preventable cause of mortality and morbidity among patients with the disorder.
+
+Motor vehicle crashes (MVCs) are a major public health problem. Research has demonstrated that individuals with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience MVCs, but the effect of ADHD medication treatment on the risk of MVCs remains unclear.
+
+To explore associations between ADHD medication use and risk of MVCs in a large cohort of patients with ADHD.
+
+For this study, a US national cohort of patients with ADHD (n = 2 319 450) was identified from commercial health insurance claims between January 1, 2005, and December 31, 2014, and followed up for emergency department visits for MVCs. The study used within-individual analyses to compare the risk of MVCs during months in which patients received ADHD medication with the risk of MVCs during months in which they did not receive ADHD medication.
+
+Dispensed prescription of ADHD medications.
+
+Emergency department visits for MVCs.
+
+Among 2 319 450 patients identified with ADHD, the mean (SD) age was 32.5 (12.8) years, and 51.7% were female. In the within-individual analyses, male patients with ADHD had a 38% (odds ratio, 0.62; 95% CI, 0.56-0.67) lower risk of MVCs in months when receiving ADHD medication compared with months when not receiving medication, and female patients had a 42% (odds ratio, 0.58; 95% CI, 0.53-0.62) lower risk of MVCs in months when receiving ADHD medication. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs. Estimates of the population-attributable fraction suggested that up to 22.1% of the MVCs in patients with ADHD could have been avoided if they had received medication during the entire follow-up.
+
+Among patients with ADHD, rates of MVCs were lower during periods when they received ADHD medication. Considering the high prevalence of ADHD and its association with MVCs, these findings warrant attention to this prevalent and preventable cause of mortality and morbidity.
+
+Approximately 1.25 million people die each year globally as a result of motor vehicle crashes (MVCs). In the United States, more than 33 700 individuals died from MVCs in 2014 alone, with an additional 2.4 million visiting the emergency department as a result. In addition, MVCs are a major cause of the gap in life expectancy between the United States and other high-income countries.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder comprising symptoms that include poor sustained attention, impaired impulse control, and hyperactivity. The disorder affects 5% to 7% of children and adolescents and persists into adulthood in a substantial proportion of affected individuals. Previous studies have demonstrated that individuals with ADHD are more likely to experience MVCs. However, the magnitude of this association has varied substantially because of differences in outcome measures, sample selection, and confounding adjustment.
+
+Pharmacotherapy is considered the first-line treatment for ADHD in many countries, and rates of ADHD medication prescription have increased significantly during the last decade in the United States and other countries. Evidence from controlled trials has shown that pharmacotherapy has marked beneficial effects on core symptoms of ADHD; to some extent, it also improves driving performance in virtual reality driving simulators. The use of population-based health record data and self-controlled designs provides an innovative and informative approach to evaluate the effect of medication use on important outcomes in real-world situations. A Swedish register-based study found that ADHD medication use was associated with lower risk of traffic crashes in men. However, the association in women was not clear. Moreover, there are cross-national differences in ADHD treatment practices and rates of MVCs between Sweden and the United States. In addition, it is unclear whether ADHD medication treatment will change the long-term course of the patients and lower the risk of MVCs. Therefore, additional population-based studies in the United States are needed to evaluate the effect of ADHD medication use on MVCs.
+
+In the present study, we followed up a national cohort of patients with ADHD between January 1, 2005, and December 31, 2014, using data from commercial health care claims in the United States. Specifically, we used a within-individual design to account for confounding by indication in examining associations between ADHD medication use and risk of MVCs and estimated the population-attributable fraction (PAF) of MVCs in patients with ADHD due to lack of medication treatment.
+
+We used data from the Truven Health Analytics MarketScan Commercial Claims and Encounters databases. MarketScan is one of the largest collections of deidentified patient data and includes inpatient, outpatient, and filled prescription claims from more than 100 insurers in the United States. There are approximately 146 million unique enrollee observations since 2005, encompassing employees and their spouses and dependents who are covered by employer-sponsored commercial health insurance. As confirmed with The University of Chicago institutional review board, the analysis of MarketScan data is exempt from approval because all records are deidentified, and no informed consent is required.
+
+We identified all patients with ADHD 18 years or older, defined as individuals who received an ADHD diagnosis (code 314 in the International Classification of Diseases, Ninth Edition [ICD-9]) or ADHD medication between January 1, 2005, and December 31, 2014. The first inpatient or outpatient diagnosis or filled prescription was defined as the index date. We followed up each patient from the index date or age 18 years, whichever occurred later, until the first disenrollment or December 31, 2014, whichever occurred first. Disenrollment was defined as zero days of medical or drug coverage in a given month. A non-ADHD control sample (no ADHD diagnosis or medication use), matched 1:1 on sex, calendar year, age at first enrollment, and length of enrollment, was also selected from the MarketScan enrollees.
+
+We defined ADHD medication using national drug codes for the following generic names: amphetamine salt combination, atomoxetine hydrochloride, dexmethylphenidate hydrochloride, dextroamphetamine sulfate, lisdexamfetamine dimesylate, methamphetamine hydrochloride, methylphenidate, and methylphenidate hydrochloride. We required prescription claims to have valid fill dates and days’ supply (≤180 days).
+
+We defined outcome events as emergency department visits for MVCs (ICD-9 codes E810-E825) recorded in the MarketScan database. We included only emergency MVC claims to avoid misclassifying recurring treatment visits as events.
+
+To examine the association between ADHD and MVCs, we compared the risk of at least one MVC between patients with ADHD and matched controls. Odds ratios (ORs) with 95% CIs were calculated using conditional logistic regression.
+
+To explore the association between ADHD medication use and MVCs among patients with ADHD, we created a monthly person-time data set to compare the risk of MVCs during months in which patients received or did not receive ADHD medication. We allowed MVC events to occur multiple times during the follow-up. A patient was considered to be receiving medication during a given month if a prescription was filled in that month or if there was a carryover from a prior month (ie, days’ supply extended into that month). If a prescription was filled in the month of an MVC event, the medication was considered used only if the prescription was filled before the MVC event. This reclassification occurred in a small number of instances (n = 107) during less than 0.01% of the included months. We began with population-level models to compare the risk of MVCs between medicated months and unmedicated months, with robust standard errors accounting for the correlations among months within individuals. Odds ratios were estimated using discrete-time logistic regression, adjusting for time-varying covariates (age, calendar year, and time since the last MVC event). Because these estimates remained susceptible to between-individual differences in selection into treatment, we then conducted within-individual analyses using conditional logistic models, with each individual entered as a separate stratum. That is, each individual served as his or her own control, and the risk of MVCs during medicated months was compared with the risk in the same individual while unmedicated. This model controlled for all unmeasured confounding factors that were constant within the individual during the follow-up (eg, genetic predisposition and early environment). Because the small changes in years of age and calendar year during the follow-up were unlikely to influence the within-individual ORs, we adjusted only for time since the last MVC event. We calculated the PAF of MVCs in patients with ADHD due to nonmedication (eMethods in the Supplement). To examine the robustness of the within-individual associations between ADHD medication use and MVCs, we performed 12 sensitivity analyses using different definitions of the cohort, exposure, and outcome (eMethods in the Supplement). All analyses were performed using statistical software (SAS, version 9.4; SAS Institute Inc), and all associations were reported separately for men and women.
+
+In addition, we explored the association between ADHD medication use and risk of MVCs 2 years later (long-term association). In patients with more than 2 years of follow-up, we examined the association between the lagged medication status (2-year interval) and MVCs, controlling for concurrent medication status. All person-months in the first 2 years of follow-up were excluded from the model because the lagged medication status was undefined. Again, we estimated the ORs at population and within-individual levels, with the same adjustment for covariates as in the models for the concurrent associations. Furthermore, we examined the long-term associations between ADHD medication use and MVCs in patients without any diagnosis of substance use disorder (SUD) before or during the follow-up to evaluate whether any associations were attributable to medication effects on SUD.
+
+The study cohort consisted of 2 319 450 patients with ADHD (1 121 053 men and 1 198 397 women) observed for a total of 50 667 665 person-months. Their mean (SD) age was 32.5 (12.8) years. During the follow-up, 1 946 198 patients (83.9%) received at least one prescription for ADHD medication. A total of 11 224 patients (0.5%) had at least one emergency department visit for an MVC event (Table 1). Patients with ADHD had a significantly higher risk of an MVC than their matched controls (OR, 1.49; 95% CI, 1.46-1.54 for men and OR, 1.44; 95% CI, 1.41-1.48 for women) (eTable 1 in the Supplement), and untreated patients with ADHD had the highest risk of an MVC compared with medicated patients with ADHD and controls (eTable 2 in the Supplement).
+
+Abbreviations: ED, emergency department; IQR, interquartile range; MVC, motor vehicle crash.
+
+At the population level, months with ADHD medication were associated with a 12% (OR, 0.88; 95% CI, 0.84-0.93) lower risk of MVCs in male patients with ADHD relative to unmedicated months and a 14% (OR, 0.86; 95% CI, 0.82-0.90) lower risk of MVCs in female patients with ADHD (Table 2). More important, the within-individual analyses showed that men with ADHD were 38% (OR, 0.62; 95% CI, 0.56-0.67) less likely to have MVC events during medicated months relative to unmedicated months, suggesting that, within an individual (ie, after controlling for all unmeasured static and measured time-varying confounding factors), ADHD medication use was associated with a significant reduction in the risk of MVCs. Our PAF estimated that 22.2% of the MVCs among male patients with ADHD were attributable to lack of medication treatment, assuming that the association was causal. A similar reduction (42%) was found among female patients with ADHD (OR, 0.58; 95% CI, 0.53-0.62), which corresponded to a PAF estimate of 22.1%.
+
+We observed comparable within-individual estimates of the association between ADHD medication use and decreased MVCs in patients without other psychiatric medications or psychotherapy, in patients with incident diagnoses of ADHD, and in patients with different ages or index dates (Table 3). Analyses using alternative definitions of the exposure (ie, extended medicated periods and stimulant medications only) and outcome (ie, injuries of motorcyclists and the broader MVC event definition) also produced results similar to the main findings. Finally, there was no statistically significant association between selective serotonin reuptake inhibitor (SSRI) use and MVCs in men, but we found a moderate association between SSRI use and MVCs in women (OR, 0.77; 95% CI, 0.69-0.86).
+
+Abbreviations: ED, emergency department; SSRIs, selective serotonin reuptake inhibitors.
+
+At the population level, there were no significant associations between ADHD medication use and MVC events 2 years later. However, the within-individual analyses showed that ADHD medication use was associated with a 34% (OR, 0.66; 95% CI, 0.58-0.76) lower risk of MVCs 2 years later in male patients with ADHD and a 27% (OR, 0.73; 95% CI, 0.64-0.84) lower risk of MVCs in female patients with ADHD (Table 4), even after controlling for concurrent ADHD medication use. The results were similar when we excluded patients with SUD, suggesting that associations between ADHD medication use and decreased MVCs were unlikely to be fully explained by an effect of ADHD medication on SUD.
+
+Abbreviation: SUD, substance use disorder.
+
+In this large, nationwide cohort study over 10 years, patients with ADHD had a higher risk of MVCs compared with controls without ADHD. However, in male and female patients with ADHD, medication use for the disorder was associated with a significantly reduced risk of MVCs. Similar reductions were found across all age groups, across multiple sensitivity analyses, and when considering the long-term association between ADHD medication use and MVCs.
+
+For many people, driving a motor vehicle is a necessary and important activity of daily living. However, core symptoms of ADHD (eg, inattention and impulsivity) may interfere with the competencies necessary to drive safely, predisposing those with the disorder to greater risk of crashes and injuries. Therefore, the use of medications that alleviate ADHD symptoms could be expected to reduce unsafe driving behaviors and consequently lower risks of crashes. Our results showed that ADHD medication use was associated with reduced risk of MVCs. In contrast, research has demonstrated that psychosocial interventions for ADHD have not addressed driving problems. Our results are in line with previous clinical investigations and one population-based study from Sweden and further extend the previous findings in 3 important ways. First, this study is the initial one to date to clarify the association between ADHD medication use and decreased MVCs in a large sample of women with ADHD, and we found that the association in women was as strong as that in men. This pattern is in line with randomized clinical trials showing that ADHD medication is efficacious for and well tolerated by male and female patients. Second, to our knowledge, this study is the first to examine the association between ADHD medication use and risk of MVCs in a population-based US sample. Assuming a causal association, our estimates of PAF suggested that up to 22% of the MVCs in patients with ADHD could have been avoided if those patients had received medication during their entire follow-up. The PAF was lower than the estimate in Sweden (up to 49% in men with ADHD). The strengths of the association between ADHD medication use and decreased MVCs were similar in this study and the Swedish study, and the difference in PAFs is mainly due to the fact that the proportion of medicated time in patients with ADHD in the United States (50.5%) was higher than that in Sweden (21.1%). Third, this study is the first to date to demonstrate a long-term association between receiving ADHD medication and decreased MVCs. If this result indeed reflects a protective effect, it is possible that sustained ADHD medication use might lead to lower risk of comorbid problems (eg, SUD) or contribute to long-term improvements in life functioning. Previous research has suggested that stimulant medication use might reduce the risk of later substance abuse, but we found similar long-term associations in patients with ADHD without any SUD diagnoses, suggesting that the association with decreased MVCs was not fully explained by SUD. The estimate of the long-term association also depends on how consistently a patient was medicated during the 2-year interval and should not be interpreted as the effect of medication use at a single prior time point on its own.
+
+Our finding that individuals with ADHD had an increased risk of MVCs compared with individuals without ADHD (1.44 times in men and 1.49 times in women) is consistent with the results from a meta-analysis and some population-based studies. However, our estimates were lower than in some earlier investigations. The difference in the effect sizes of ADHD could partly be explained by methodological differences in study designs, such as variations in sample selection or confounding adjustment. In addition, the diagnosis and treatment of ADHD in adults was not a common practice until recent years, so earlier studies were likely to have included patients with ADHD with more severe symptoms and therefore found higher risk associated with ADHD. The awareness of ADHD in adults has rapidly increased and influenced clinical practice across the world. With an estimated prevalence of 2.5% to 3.4%, ADHD is one of the most common mental health problems in adults. Failure to recognize and treat ADHD in adults is detrimental to their well-being, and efficacious treatment might help reduce preventable mortality.
+
+This study has a number of strengths. We investigated a national sample of commercially insured patients in the United States. The sample size is substantial and representative of the largest segment of US health care users, an estimated 49% of the US population. The design established the temporal correlation between ADHD medication use and decreased MVCs, and information on filled prescriptions was independent of the outcome and free from recall bias. Moreover, we used within-individual analyses, which adjust for all potential confounders that are static during the follow-up (eg, genetic predisposition and early environment). However, because of the observational nature of these data, we could not account for all of the possible confounders that select individuals into treatment. It is possible that some unmeasured factors (eg, engagement with the health care system) that motivate individuals to use or stop medications may also decrease or increase the risk of MVCs. We tested this alternative explanation by using SSRIs as a comparator. If such unmeasured factors were a main explanation of the observed association with ADHD medication use, then we would expect a similar association with SSRIs. We found no association between SSRI use and MVCs in men but observed a moderate association between SSRI use and MVCs in women, which was substantially weaker than the association with ADHD medication. One possible explanation is that the association between ADHD medication use and decreased MVCs in women was partly explained by some general effect of receiving medical attention. Another possibility is that prescription of SSRIs occurred more frequently with ADHD medication use in women (20.0% in our sample) than in men (11.3%). Therefore, unmeasured confounding is unlikely to fully explain the observed associations between ADHD medication use and decreased MVCs. Nevertheless, observational studies like this one cannot prove causality. Validation in other samples and triangulation with other designs are needed to confirm our findings. From a clinical perspective, it is important to consider the combined effects of illness, medication use, and associated changes in lifestyle so that our results can assist patients and clinicians in making informed decisions about treatment and driving safety.
+
+There are other limitations to consider. First, the use of ADHD medication was measured by filled prescriptions and defined at the monthly level. If some patients did not take the medication as prescribed or only took the medication sporadically, this limitation would introduce misclassification of exposure and reduce the effect estimates; hence, our results are likely to be conservative estimates of the actual effects of medication use on MVCs. Second, we used emergency department visits due to MVCs as our primary outcome. Although we conducted sensitivity analyses using a broader definition of MVCs, crashes that did not require medical services (eg, less severe crashes or some fatal crashes) were not included in our study. Third, the findings are based on data for patients with commercial health insurance, and generalizations to other patient groups should be made with caution.
+
+In a large, national sample of patients with ADHD in the United States, medication use for the disorder was associated with a reduced risk of MVCs in men and women in the short term and the long term. These findings call attention to a prevalent and preventable cause of mortality and morbidity among patients with ADHD. If replicated, our results should be considered along with other potential benefits and harms associated with ADHD medication use.
+
+eMethods. Supplemental Methods
+
+eTable 1. Associations Between ADHD and Motor Vehicle Crashes (MVCs)
+
+eTable 2. Risk of Motor Vehicle Crashes (MVCs) in ADHD Patients With and Without Medication Compared With Population Controls
+
+http://www.ncbi.nlm.nih.gov/pubmed/28492937

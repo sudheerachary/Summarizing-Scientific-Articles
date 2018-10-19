@@ -1,0 +1,343 @@
+Asthma, corticosteroid use and schizophrenia: A nationwide population-based study in Taiwan.
+
+Abstract
+
+
+
+
+Asthma and corticosteroid use have been implicated as possible risk factors for schizophrenia. The retrospective cohort study herein aimed to investigate the association between asthma, corticosteroid use, and schizophrenia.
+
+Longitudinal data (2000 to 2007) from adults with asthma (n = 50,046) and without asthma (n = 50,046) were compared on measures of schizophrenia incidence using Taiwan’s National Health Insurance Research Database (NHIRD). Incidence of schizophrenia diagnosis (ICD-9 codes 295.XX) between 2000 and 2007 were compared between groups. Competing risk-adjusted Cox regression analyses were conducted, adjusting for sex, age, residence, socioeconomic status, corticosteroid use, outpatient and emergency room visit frequency, Charlson comorbidity index, and total length of hospital stays days for any disorder.
+
+Of the 75,069 subjects, 238 received a diagnosis of schizophrenia. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. After adjusting for potential confounding factors, asthma was associated with significantly greater hazard ratio for incident schizophrenia 1.40 (95% CI = 1.05, 1.87). Additional factors associated with greater incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence. Corticosteroid use was not associated with increased risk for schizophrenia.
+
+Asthma was associated with increased risk for schizophrenia. The results herein suggest that a convergent disturbance in the immune-inflammatory system may contribute to the pathoetiology of asthma and schizophrenia.
+
+Introduction
+
+Schizophrenia is a severe and chronic mental disorder that affects approximately one percent of the general population globally [1]. Schizophrenia is significantly associated with excess and premature mortality, higher rates of medical comorbidity, and deficits in cognitive and psychosocial functioning [2, 3]. Several hypotheses have been proposed to explain the neurodegenerative and abnormal neurodevelopmental processes that subserve the pathogenesis of schizophrenia [4, 5]. One hypothesis posits that inflammatory disturbances may contribute to the etiology of schizophrenia.
+
+Complex interactions between the immune system and the brain have been implicated in the pathoetiology of several psychiatric disorders [6]. For example, several epidemiological studies have reported on an increased risk for schizophrenia among those with autoimmune disorders and/or severe infections [7, 8]. The association between schizophrenia and autoimmune/infectious disorder suggests that there may be a convergent neurobiological substrate [9]. In addition, peripheral inflammation has been associated with greater permeability of the blood—brain barrier, facilitating the entry of immune molecules into the brain [10]. A disturbance in innate and adaptive immunity might contribute to the pathogenesis of schizophrenia [11].
+
+Studies have reported a strong positive correlation between asthma and other mental illnesses such as bipolar disorder and dementia [12–14]. However, only two previous reports (a single case-control design and separate cohort study) have documented an association between asthma and schizophrenia [15, 16]. Both of the foregoing studies reported on a positive correlation between schizophrenia and asthma. Similarly, other studies have reported that asthma patients more likely to develop psychosis experience than non-asthma patients [17–20]. In addition, some reports have reported on the potential impact of corticosteroids, which are commonly used by asthma patients, on the emergence of psychosis [19, 21]. However, no previous study, to our knowledge, has investigated the association between corticosteroid use and schizophrenia. Herein, we investigate the association between the incidence of schizophrenia among individuals with asthma, as well as the possible association between corticosteroid therapy and the incidence of schizophrenia, within a large, retrospective cohort study.
+
+Materials and methods
+
+
+
+
+Asthma and corticosteroid use have been implicated as possible risk factors for schizophrenia. The retrospective cohort study herein aimed to investigate the association between asthma, corticosteroid use, and schizophrenia.
+
+Longitudinal data (2000 to 2007) from adults with asthma (n = 50,046) and without asthma (n = 50,046) were compared on measures of schizophrenia incidence using Taiwan’s National Health Insurance Research Database (NHIRD). Incidence of schizophrenia diagnosis (ICD-9 codes 295.XX) between 2000 and 2007 were compared between groups. Competing risk-adjusted Cox regression analyses were conducted, adjusting for sex, age, residence, socioeconomic status, corticosteroid use, outpatient and emergency room visit frequency, Charlson comorbidity index, and total length of hospital stays days for any disorder.
+
+Of the 75,069 subjects, 238 received a diagnosis of schizophrenia. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. After adjusting for potential confounding factors, asthma was associated with significantly greater hazard ratio for incident schizophrenia 1.40 (95% CI = 1.05, 1.87). Additional factors associated with greater incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence. Corticosteroid use was not associated with increased risk for schizophrenia.
+
+Asthma was associated with increased risk for schizophrenia. The results herein suggest that a convergent disturbance in the immune-inflammatory system may contribute to the pathoetiology of asthma and schizophrenia.
+
+Schizophrenia is a severe and chronic mental disorder that affects approximately one percent of the general population globally [1]. Schizophrenia is significantly associated with excess and premature mortality, higher rates of medical comorbidity, and deficits in cognitive and psychosocial functioning [2, 3]. Several hypotheses have been proposed to explain the neurodegenerative and abnormal neurodevelopmental processes that subserve the pathogenesis of schizophrenia [4, 5]. One hypothesis posits that inflammatory disturbances may contribute to the etiology of schizophrenia.
+
+Complex interactions between the immune system and the brain have been implicated in the pathoetiology of several psychiatric disorders [6]. For example, several epidemiological studies have reported on an increased risk for schizophrenia among those with autoimmune disorders and/or severe infections [7, 8]. The association between schizophrenia and autoimmune/infectious disorder suggests that there may be a convergent neurobiological substrate [9]. In addition, peripheral inflammation has been associated with greater permeability of the blood—brain barrier, facilitating the entry of immune molecules into the brain [10]. A disturbance in innate and adaptive immunity might contribute to the pathogenesis of schizophrenia [11].
+
+Studies have reported a strong positive correlation between asthma and other mental illnesses such as bipolar disorder and dementia [12–14]. However, only two previous reports (a single case-control design and separate cohort study) have documented an association between asthma and schizophrenia [15, 16]. Both of the foregoing studies reported on a positive correlation between schizophrenia and asthma. Similarly, other studies have reported that asthma patients more likely to develop psychosis experience than non-asthma patients [17–20]. In addition, some reports have reported on the potential impact of corticosteroids, which are commonly used by asthma patients, on the emergence of psychosis [19, 21]. However, no previous study, to our knowledge, has investigated the association between corticosteroid use and schizophrenia. Herein, we investigate the association between the incidence of schizophrenia among individuals with asthma, as well as the possible association between corticosteroid therapy and the incidence of schizophrenia, within a large, retrospective cohort study.
+Participants
+
+A retrospective cohort study was assembled using data from the Taiwan National Health Insurance Research Database (NHIRD) provided by the National Health Research Institute (NHRI). The NHIRD includes longitudinal data since its establishment in March 1997 from outpatient, ambulatory, hospital inpatient care, as well as dental services, covered by the National Health Insurance (NHI) program, which includes approximately 98% of Taiwan’s national population. In cooperation with the Bureau of NHI, the NHRI extracted a systematically sampled and nationally representative database of 1,000,000 people from the registry of all NHI enrollees to create the Longitudinal Health Insurance Database (LHID). There were no statistically significant differences in age, sex, or health care utilization costs between the sample comprising the LHID and all enrollees of the NHI [22].
+
+Incidence of schizophrenia diagnosis was measured and compared between individuals with and without asthma during the study period (i.e. 1997 to 2007). A diagnosis was operationalized as having a medical claim with the relevant diagnostic code on one occasion through inpatient services or on multiple occasions spread over at least one year through outpatient services; this operationalization is consistent with other research publications using the LHIRD [23]. Asthma was operationalized using the International Classification of Disease, Ninth revision (ICD-9) codes 493.XX. A diagnosis of schizophrenia was operationalized using the ICD-9 codes 295.XX. To assess the incidence of asthma within the study cohort, we excluded data from individuals with a diagnosis of asthma between 1997 and 1999 to make sure our asthma patients were new cases. We excluded data from individuals with a diagnosis of schizophrenia between 1997 and 1999 or with a diagnosis of schizophrenia prior to the diagnosis of asthma. Individuals without asthma (i.e. controls) were randomly sampled from the LHID and matched to individuals with asthma (i.e. cases) on measures of sex, age (+/- 1 year), residence (urban/rural) and insurance premium category. The method of data collection is illustrated in Fig 1.
+
+Covariates considered in this analysis included age, sex, area of residence (urban/rural), economic status, corticosteroid use, outpatient visits, emergency room visits, Charlson comorbidity index and length of the total length of hospital stays for any disorder. In addition, the insurance premium class was classified into three categories and used to proxy economic status: lower income (i.e. requiring social welfare support, no stable salary); middle income (less than 20,000 New Taiwan Dollars [1 USD = 32.1 NTD in 2008] per month); and higher income (20,000 NTD or greater per month).
+
+Corticosteroid use was operationalized and dichotomized as having (or not having) a prescription for corticosteroid for a minimum duration of one year; dose of corticosteroid use was quantified using the annual average cumulative defined daily dose (DDD), defined by the World Health Organization as the dispensed sum of DDDs within one year.
+
+To assess the general physical health of participants during the study period, we used the number of outpatient visits and emergency room visits, total length of hospitalization(s), and Charlson comorbidity index. The foregoing variables were also considered as proxy severity of underlying inflammation. The Charlson comorbidity index comprises a summation of diseases [24].
+
+The NHIRD consists of anonymized data released to the public for research purposes. This study was approved by the Institutional Review Board of Chung Shan Medical University Hospital.
+Statistical analysis
+
+For cases, the index date was operationalized as the date of the incident diagnosis of asthma. The same index date was assigned to the respective matched controls. The outcome of analysis was an incident diagnosis of schizophrenia. The risks for schizophrenia were calculated using survival analyses, with the time function calculated as the number of years from the index date to December 31, 2008 (end of study period) or date of death/ migration (if applicable and earlier than December 31, 2008).
+
+Death prior to incidence of schizophrenia was considered a competing risk event. The death date was retrieved from the national mortality database. The death-adjusted cumulative incidences of schizophrenia were calculated using the Fine and Gray method [25]. Competing risk-adjusted Cox regression models [25] were fitted to evaluate the associations between asthma and schizophrenia incidence, adjusting for covariates. We calculated the hazard ratios with 95% confidence intervals. The model was tested first with all the sample cases included; we subsequently conducted subgroup analyses stratified by sex and age. All data were analyzed using SAS 9.3 software (SAS Institute Inc., Cary, NC, USA). To calculate cumulative incidence and Cox models in the competing risk analysis, we used the R package “cmprsk”[26].
+
+Results
+
+
+
+
+Asthma and corticosteroid use have been implicated as possible risk factors for schizophrenia. The retrospective cohort study herein aimed to investigate the association between asthma, corticosteroid use, and schizophrenia.
+
+Longitudinal data (2000 to 2007) from adults with asthma (n = 50,046) and without asthma (n = 50,046) were compared on measures of schizophrenia incidence using Taiwan’s National Health Insurance Research Database (NHIRD). Incidence of schizophrenia diagnosis (ICD-9 codes 295.XX) between 2000 and 2007 were compared between groups. Competing risk-adjusted Cox regression analyses were conducted, adjusting for sex, age, residence, socioeconomic status, corticosteroid use, outpatient and emergency room visit frequency, Charlson comorbidity index, and total length of hospital stays days for any disorder.
+
+Of the 75,069 subjects, 238 received a diagnosis of schizophrenia. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. After adjusting for potential confounding factors, asthma was associated with significantly greater hazard ratio for incident schizophrenia 1.40 (95% CI = 1.05, 1.87). Additional factors associated with greater incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence. Corticosteroid use was not associated with increased risk for schizophrenia.
+
+Asthma was associated with increased risk for schizophrenia. The results herein suggest that a convergent disturbance in the immune-inflammatory system may contribute to the pathoetiology of asthma and schizophrenia.
+
+Schizophrenia is a severe and chronic mental disorder that affects approximately one percent of the general population globally [1]. Schizophrenia is significantly associated with excess and premature mortality, higher rates of medical comorbidity, and deficits in cognitive and psychosocial functioning [2, 3]. Several hypotheses have been proposed to explain the neurodegenerative and abnormal neurodevelopmental processes that subserve the pathogenesis of schizophrenia [4, 5]. One hypothesis posits that inflammatory disturbances may contribute to the etiology of schizophrenia.
+
+Complex interactions between the immune system and the brain have been implicated in the pathoetiology of several psychiatric disorders [6]. For example, several epidemiological studies have reported on an increased risk for schizophrenia among those with autoimmune disorders and/or severe infections [7, 8]. The association between schizophrenia and autoimmune/infectious disorder suggests that there may be a convergent neurobiological substrate [9]. In addition, peripheral inflammation has been associated with greater permeability of the blood—brain barrier, facilitating the entry of immune molecules into the brain [10]. A disturbance in innate and adaptive immunity might contribute to the pathogenesis of schizophrenia [11].
+
+Studies have reported a strong positive correlation between asthma and other mental illnesses such as bipolar disorder and dementia [12–14]. However, only two previous reports (a single case-control design and separate cohort study) have documented an association between asthma and schizophrenia [15, 16]. Both of the foregoing studies reported on a positive correlation between schizophrenia and asthma. Similarly, other studies have reported that asthma patients more likely to develop psychosis experience than non-asthma patients [17–20]. In addition, some reports have reported on the potential impact of corticosteroids, which are commonly used by asthma patients, on the emergence of psychosis [19, 21]. However, no previous study, to our knowledge, has investigated the association between corticosteroid use and schizophrenia. Herein, we investigate the association between the incidence of schizophrenia among individuals with asthma, as well as the possible association between corticosteroid therapy and the incidence of schizophrenia, within a large, retrospective cohort study.
+
+A retrospective cohort study was assembled using data from the Taiwan National Health Insurance Research Database (NHIRD) provided by the National Health Research Institute (NHRI). The NHIRD includes longitudinal data since its establishment in March 1997 from outpatient, ambulatory, hospital inpatient care, as well as dental services, covered by the National Health Insurance (NHI) program, which includes approximately 98% of Taiwan’s national population. In cooperation with the Bureau of NHI, the NHRI extracted a systematically sampled and nationally representative database of 1,000,000 people from the registry of all NHI enrollees to create the Longitudinal Health Insurance Database (LHID). There were no statistically significant differences in age, sex, or health care utilization costs between the sample comprising the LHID and all enrollees of the NHI [22].
+
+Incidence of schizophrenia diagnosis was measured and compared between individuals with and without asthma during the study period (i.e. 1997 to 2007). A diagnosis was operationalized as having a medical claim with the relevant diagnostic code on one occasion through inpatient services or on multiple occasions spread over at least one year through outpatient services; this operationalization is consistent with other research publications using the LHIRD [23]. Asthma was operationalized using the International Classification of Disease, Ninth revision (ICD-9) codes 493.XX. A diagnosis of schizophrenia was operationalized using the ICD-9 codes 295.XX. To assess the incidence of asthma within the study cohort, we excluded data from individuals with a diagnosis of asthma between 1997 and 1999 to make sure our asthma patients were new cases. We excluded data from individuals with a diagnosis of schizophrenia between 1997 and 1999 or with a diagnosis of schizophrenia prior to the diagnosis of asthma. Individuals without asthma (i.e. controls) were randomly sampled from the LHID and matched to individuals with asthma (i.e. cases) on measures of sex, age (+/- 1 year), residence (urban/rural) and insurance premium category. The method of data collection is illustrated in Fig 1.
+
+Covariates considered in this analysis included age, sex, area of residence (urban/rural), economic status, corticosteroid use, outpatient visits, emergency room visits, Charlson comorbidity index and length of the total length of hospital stays for any disorder. In addition, the insurance premium class was classified into three categories and used to proxy economic status: lower income (i.e. requiring social welfare support, no stable salary); middle income (less than 20,000 New Taiwan Dollars [1 USD = 32.1 NTD in 2008] per month); and higher income (20,000 NTD or greater per month).
+
+Corticosteroid use was operationalized and dichotomized as having (or not having) a prescription for corticosteroid for a minimum duration of one year; dose of corticosteroid use was quantified using the annual average cumulative defined daily dose (DDD), defined by the World Health Organization as the dispensed sum of DDDs within one year.
+
+To assess the general physical health of participants during the study period, we used the number of outpatient visits and emergency room visits, total length of hospitalization(s), and Charlson comorbidity index. The foregoing variables were also considered as proxy severity of underlying inflammation. The Charlson comorbidity index comprises a summation of diseases [24].
+
+The NHIRD consists of anonymized data released to the public for research purposes. This study was approved by the Institutional Review Board of Chung Shan Medical University Hospital.
+
+For cases, the index date was operationalized as the date of the incident diagnosis of asthma. The same index date was assigned to the respective matched controls. The outcome of analysis was an incident diagnosis of schizophrenia. The risks for schizophrenia were calculated using survival analyses, with the time function calculated as the number of years from the index date to December 31, 2008 (end of study period) or date of death/ migration (if applicable and earlier than December 31, 2008).
+
+Death prior to incidence of schizophrenia was considered a competing risk event. The death date was retrieved from the national mortality database. The death-adjusted cumulative incidences of schizophrenia were calculated using the Fine and Gray method [25]. Competing risk-adjusted Cox regression models [25] were fitted to evaluate the associations between asthma and schizophrenia incidence, adjusting for covariates. We calculated the hazard ratios with 95% confidence intervals. The model was tested first with all the sample cases included; we subsequently conducted subgroup analyses stratified by sex and age. All data were analyzed using SAS 9.3 software (SAS Institute Inc., Cary, NC, USA). To calculate cumulative incidence and Cox models in the competing risk analysis, we used the R package “cmprsk”[26].
+Characteristics of subjects
+
+We identified 25,023 individuals with asthma and 50,046 matched controls in the LHID. Study cohort characteristics are described in Table 1. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. Of the total 75,069 subjects, 238 were diagnosed with schizophrenia during the study period: 100 (0.40%) of subjects were in the asthma cohort and 138 (0.28%) in the non-asthma cohort. 2,918 (11.66%) individuals with asthma used corticosteroid during the study period, compared to 904 (1.81) individuals without asthma. The annual average cumulative DDD of asthma group 16.17±48.91 was greater than non-asthma group as 3.20±16.71. Individuals with asthma were also more likely than individuals without asthma to have poorer outcomes on measures of general health quality as assessed by the mean of outpatient visits, emergency room visits, Charlson comorbidity indices and total length of hospital stays.
+
+a Matched by sex and age (±1 years old), residence, and insurance premium
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+Association between asthma and risk of schizophrenia
+
+Analyses of associations of interest are presented in Table 2 and Fig 2. In the fully adjusted Cox regression model for competing risk analysis (i.e. sex, age group, residence, insurance premium, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index, the total length of hospital stays and mortality), asthma was positively associated with schizophrenia. Additional factors associated with the incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+In secondary analyses within the asthma cohort, factors associated with incidence of schizophrenia included: older age (i.e. ≥65 years), rural residence, lower economic status and poor general health (Table 3). In stratified analyses, the association of interest was statistical significance in men and in the 18–64 year age group (Table 4).
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+CI: Confidence interval.
+
+Discussion
+
+
+
+
+Asthma and corticosteroid use have been implicated as possible risk factors for schizophrenia. The retrospective cohort study herein aimed to investigate the association between asthma, corticosteroid use, and schizophrenia.
+
+Longitudinal data (2000 to 2007) from adults with asthma (n = 50,046) and without asthma (n = 50,046) were compared on measures of schizophrenia incidence using Taiwan’s National Health Insurance Research Database (NHIRD). Incidence of schizophrenia diagnosis (ICD-9 codes 295.XX) between 2000 and 2007 were compared between groups. Competing risk-adjusted Cox regression analyses were conducted, adjusting for sex, age, residence, socioeconomic status, corticosteroid use, outpatient and emergency room visit frequency, Charlson comorbidity index, and total length of hospital stays days for any disorder.
+
+Of the 75,069 subjects, 238 received a diagnosis of schizophrenia. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. After adjusting for potential confounding factors, asthma was associated with significantly greater hazard ratio for incident schizophrenia 1.40 (95% CI = 1.05, 1.87). Additional factors associated with greater incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence. Corticosteroid use was not associated with increased risk for schizophrenia.
+
+Asthma was associated with increased risk for schizophrenia. The results herein suggest that a convergent disturbance in the immune-inflammatory system may contribute to the pathoetiology of asthma and schizophrenia.
+
+Schizophrenia is a severe and chronic mental disorder that affects approximately one percent of the general population globally [1]. Schizophrenia is significantly associated with excess and premature mortality, higher rates of medical comorbidity, and deficits in cognitive and psychosocial functioning [2, 3]. Several hypotheses have been proposed to explain the neurodegenerative and abnormal neurodevelopmental processes that subserve the pathogenesis of schizophrenia [4, 5]. One hypothesis posits that inflammatory disturbances may contribute to the etiology of schizophrenia.
+
+Complex interactions between the immune system and the brain have been implicated in the pathoetiology of several psychiatric disorders [6]. For example, several epidemiological studies have reported on an increased risk for schizophrenia among those with autoimmune disorders and/or severe infections [7, 8]. The association between schizophrenia and autoimmune/infectious disorder suggests that there may be a convergent neurobiological substrate [9]. In addition, peripheral inflammation has been associated with greater permeability of the blood—brain barrier, facilitating the entry of immune molecules into the brain [10]. A disturbance in innate and adaptive immunity might contribute to the pathogenesis of schizophrenia [11].
+
+Studies have reported a strong positive correlation between asthma and other mental illnesses such as bipolar disorder and dementia [12–14]. However, only two previous reports (a single case-control design and separate cohort study) have documented an association between asthma and schizophrenia [15, 16]. Both of the foregoing studies reported on a positive correlation between schizophrenia and asthma. Similarly, other studies have reported that asthma patients more likely to develop psychosis experience than non-asthma patients [17–20]. In addition, some reports have reported on the potential impact of corticosteroids, which are commonly used by asthma patients, on the emergence of psychosis [19, 21]. However, no previous study, to our knowledge, has investigated the association between corticosteroid use and schizophrenia. Herein, we investigate the association between the incidence of schizophrenia among individuals with asthma, as well as the possible association between corticosteroid therapy and the incidence of schizophrenia, within a large, retrospective cohort study.
+
+A retrospective cohort study was assembled using data from the Taiwan National Health Insurance Research Database (NHIRD) provided by the National Health Research Institute (NHRI). The NHIRD includes longitudinal data since its establishment in March 1997 from outpatient, ambulatory, hospital inpatient care, as well as dental services, covered by the National Health Insurance (NHI) program, which includes approximately 98% of Taiwan’s national population. In cooperation with the Bureau of NHI, the NHRI extracted a systematically sampled and nationally representative database of 1,000,000 people from the registry of all NHI enrollees to create the Longitudinal Health Insurance Database (LHID). There were no statistically significant differences in age, sex, or health care utilization costs between the sample comprising the LHID and all enrollees of the NHI [22].
+
+Incidence of schizophrenia diagnosis was measured and compared between individuals with and without asthma during the study period (i.e. 1997 to 2007). A diagnosis was operationalized as having a medical claim with the relevant diagnostic code on one occasion through inpatient services or on multiple occasions spread over at least one year through outpatient services; this operationalization is consistent with other research publications using the LHIRD [23]. Asthma was operationalized using the International Classification of Disease, Ninth revision (ICD-9) codes 493.XX. A diagnosis of schizophrenia was operationalized using the ICD-9 codes 295.XX. To assess the incidence of asthma within the study cohort, we excluded data from individuals with a diagnosis of asthma between 1997 and 1999 to make sure our asthma patients were new cases. We excluded data from individuals with a diagnosis of schizophrenia between 1997 and 1999 or with a diagnosis of schizophrenia prior to the diagnosis of asthma. Individuals without asthma (i.e. controls) were randomly sampled from the LHID and matched to individuals with asthma (i.e. cases) on measures of sex, age (+/- 1 year), residence (urban/rural) and insurance premium category. The method of data collection is illustrated in Fig 1.
+
+Covariates considered in this analysis included age, sex, area of residence (urban/rural), economic status, corticosteroid use, outpatient visits, emergency room visits, Charlson comorbidity index and length of the total length of hospital stays for any disorder. In addition, the insurance premium class was classified into three categories and used to proxy economic status: lower income (i.e. requiring social welfare support, no stable salary); middle income (less than 20,000 New Taiwan Dollars [1 USD = 32.1 NTD in 2008] per month); and higher income (20,000 NTD or greater per month).
+
+Corticosteroid use was operationalized and dichotomized as having (or not having) a prescription for corticosteroid for a minimum duration of one year; dose of corticosteroid use was quantified using the annual average cumulative defined daily dose (DDD), defined by the World Health Organization as the dispensed sum of DDDs within one year.
+
+To assess the general physical health of participants during the study period, we used the number of outpatient visits and emergency room visits, total length of hospitalization(s), and Charlson comorbidity index. The foregoing variables were also considered as proxy severity of underlying inflammation. The Charlson comorbidity index comprises a summation of diseases [24].
+
+The NHIRD consists of anonymized data released to the public for research purposes. This study was approved by the Institutional Review Board of Chung Shan Medical University Hospital.
+
+For cases, the index date was operationalized as the date of the incident diagnosis of asthma. The same index date was assigned to the respective matched controls. The outcome of analysis was an incident diagnosis of schizophrenia. The risks for schizophrenia were calculated using survival analyses, with the time function calculated as the number of years from the index date to December 31, 2008 (end of study period) or date of death/ migration (if applicable and earlier than December 31, 2008).
+
+Death prior to incidence of schizophrenia was considered a competing risk event. The death date was retrieved from the national mortality database. The death-adjusted cumulative incidences of schizophrenia were calculated using the Fine and Gray method [25]. Competing risk-adjusted Cox regression models [25] were fitted to evaluate the associations between asthma and schizophrenia incidence, adjusting for covariates. We calculated the hazard ratios with 95% confidence intervals. The model was tested first with all the sample cases included; we subsequently conducted subgroup analyses stratified by sex and age. All data were analyzed using SAS 9.3 software (SAS Institute Inc., Cary, NC, USA). To calculate cumulative incidence and Cox models in the competing risk analysis, we used the R package “cmprsk”[26].
+
+We identified 25,023 individuals with asthma and 50,046 matched controls in the LHID. Study cohort characteristics are described in Table 1. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. Of the total 75,069 subjects, 238 were diagnosed with schizophrenia during the study period: 100 (0.40%) of subjects were in the asthma cohort and 138 (0.28%) in the non-asthma cohort. 2,918 (11.66%) individuals with asthma used corticosteroid during the study period, compared to 904 (1.81) individuals without asthma. The annual average cumulative DDD of asthma group 16.17±48.91 was greater than non-asthma group as 3.20±16.71. Individuals with asthma were also more likely than individuals without asthma to have poorer outcomes on measures of general health quality as assessed by the mean of outpatient visits, emergency room visits, Charlson comorbidity indices and total length of hospital stays.
+
+a Matched by sex and age (±1 years old), residence, and insurance premium
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+Analyses of associations of interest are presented in Table 2 and Fig 2. In the fully adjusted Cox regression model for competing risk analysis (i.e. sex, age group, residence, insurance premium, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index, the total length of hospital stays and mortality), asthma was positively associated with schizophrenia. Additional factors associated with the incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+In secondary analyses within the asthma cohort, factors associated with incidence of schizophrenia included: older age (i.e. ≥65 years), rural residence, lower economic status and poor general health (Table 3). In stratified analyses, the association of interest was statistical significance in men and in the 18–64 year age group (Table 4).
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+CI: Confidence interval.
+
+In our cohort study using the NHIRD, a diagnosis of asthma was significantly associated with a greater risk for schizophrenia (unadjusted hazard ratio = 1.43, 95% CI = 1.10 to 1.84). After adjusting for possibly confounding variables (i.e. sex, age, residence, economic status, corticosteroid use, general health quality), the adjusted hazard ratio was only modestly diminished to 1.40 (95% CI = 1.05–1.87). Corticosteroid use was not associated with greater risk for schizophrenia.
+
+To our knowledge, this is one of few population-based cohort studies to report on an association between asthma and schizophrenia. In addition, to our knowledge, no previous study has reported on the moderation role of corticosteroid use on the foregoing association. Our results replicate findings from previous studies [15, 16] For example, Chen et al. [15] reported that, within a cross-sectional dataset, patients with schizophrenia had a 1.3-fold increased risk for concurrent asthma. A separate longitudinal study using [16] two nationwide population-based registers in Denmark reported that asthma is associated with increased risk for schizophrenia (HR = 1.59, 95% CI = 1.31–1.90).
+
+The association of corticosteroid use and psychosis has been reported in several previous studies [19, 21]. However, our findings did not find a statistically significant association between corticosteroid use and schizophrenia among asthma population. Bag et al. [21], showed a case report with steroid-induced psychosis in a 12-year-old boy and this may not be diagnosed as schizophrenia in clinical practice. Drozdowicz LB et al. [19], reported the review regrading psychiatric adverse effects of pediatric corticosteroid use. They found most of the evidence is still at the level of case reports, case series, and small trials. The psychosis experience, such as paranoid ideation, cannot be diagnosed as schizophrenia. Since the limitation of previous reports and most of them described the psychosis symptoms rather than schizophrenia, the association of corticosteroid use and schizophrenia is still unknown. We used the population-based cohort study to demonstrate that corticosteroid use is not linked to schizophrenia.
+
+Immune-inflammatory processes may subserve the pathogenesis of asthma and schizophrenia [27–29] Emerging evidence suggests that infectious/autoimmune processes play an important role in the etiopathogenesis of subpopulations with schizophrenia [30, 31]. Among inflammatory peptides, cytokines are believed to contribute to the pathophysiology of many psychiatric illnesses, especially schizophrenia [32–36]. Available evidence indicates that abnormalities in the balance of pro- and anti-inflammatory cytokines in both central and peripheral compartments contribute to the abnormal neural structure and function reported in schizophrenia.
+Limitations and strengths
+
+This is one of few cohort studies using a nationally representative sample and longitudinal dataset to investigate the association between asthma and schizophrenia as well as the possible moderation role of corticosteroid use. The method of using the national database from NHIRD limits selection bias which is demonstrated from the similar prevalence of schizophrenia from the present study (0.27%) to that (0.2–0.3%) from community survey [37]. Furthermore, in our cohort study, we reduced the possibility of reverse casualty by using a longitudinal design in which the diagnosis of asthma predated the diagnosis of schizophrenia.
+
+There are important limitations to our methodology that may limit inferences that may be made from our findings. The NHIRD did not contain data on possibly confounding variables such as smoking, dietary habits, family history and maternal condition. Another limitation is that although our data are based on physicians’ diagnoses, we cannot control for variability between clinicians in establishing a clinical diagnosis of asthma. Moreover, the severity of schizophrenia and asthma are unknown and could not be evaluated directly in the analysis herein. In epidemiological studies, the time of first symptom onset of asthma is most relevant. However, our study database did not contain information regarding first symptom onset of asthma.
+
+Conclusions
+
+The study suggests that the clinical care of patients with an asthma diagnosis necessitates monitoring for emerging psychopathology including, but not limited to schizophrenia. The future research vista is to identify convergent etipoathogenic mechanism subserving and or mediation the association between asthma and schizophrenia e.g immuno-inflammatory systems.
+
+Funding Statement
+
+This study was supported by grants from Chiayi Chang Gung Memorial Hospital, Chiayi, Taiwan (grant number: CMRPG6E0271). The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Data Availability
+
+The data underlying this study is from the National Health Insurance Research Database (NHIRD). Interested researchers can obtain the data through formal application to the National Health Research Institute (NHRI), Taiwan. Additional information may be found at http://nhird.nhri.org.tw/date_01.html.
+
+References
+
+
+
+
+Asthma and corticosteroid use have been implicated as possible risk factors for schizophrenia. The retrospective cohort study herein aimed to investigate the association between asthma, corticosteroid use, and schizophrenia.
+
+Longitudinal data (2000 to 2007) from adults with asthma (n = 50,046) and without asthma (n = 50,046) were compared on measures of schizophrenia incidence using Taiwan’s National Health Insurance Research Database (NHIRD). Incidence of schizophrenia diagnosis (ICD-9 codes 295.XX) between 2000 and 2007 were compared between groups. Competing risk-adjusted Cox regression analyses were conducted, adjusting for sex, age, residence, socioeconomic status, corticosteroid use, outpatient and emergency room visit frequency, Charlson comorbidity index, and total length of hospital stays days for any disorder.
+
+Of the 75,069 subjects, 238 received a diagnosis of schizophrenia. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. After adjusting for potential confounding factors, asthma was associated with significantly greater hazard ratio for incident schizophrenia 1.40 (95% CI = 1.05, 1.87). Additional factors associated with greater incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence. Corticosteroid use was not associated with increased risk for schizophrenia.
+
+Asthma was associated with increased risk for schizophrenia. The results herein suggest that a convergent disturbance in the immune-inflammatory system may contribute to the pathoetiology of asthma and schizophrenia.
+
+Schizophrenia is a severe and chronic mental disorder that affects approximately one percent of the general population globally [1]. Schizophrenia is significantly associated with excess and premature mortality, higher rates of medical comorbidity, and deficits in cognitive and psychosocial functioning [2, 3]. Several hypotheses have been proposed to explain the neurodegenerative and abnormal neurodevelopmental processes that subserve the pathogenesis of schizophrenia [4, 5]. One hypothesis posits that inflammatory disturbances may contribute to the etiology of schizophrenia.
+
+Complex interactions between the immune system and the brain have been implicated in the pathoetiology of several psychiatric disorders [6]. For example, several epidemiological studies have reported on an increased risk for schizophrenia among those with autoimmune disorders and/or severe infections [7, 8]. The association between schizophrenia and autoimmune/infectious disorder suggests that there may be a convergent neurobiological substrate [9]. In addition, peripheral inflammation has been associated with greater permeability of the blood—brain barrier, facilitating the entry of immune molecules into the brain [10]. A disturbance in innate and adaptive immunity might contribute to the pathogenesis of schizophrenia [11].
+
+Studies have reported a strong positive correlation between asthma and other mental illnesses such as bipolar disorder and dementia [12–14]. However, only two previous reports (a single case-control design and separate cohort study) have documented an association between asthma and schizophrenia [15, 16]. Both of the foregoing studies reported on a positive correlation between schizophrenia and asthma. Similarly, other studies have reported that asthma patients more likely to develop psychosis experience than non-asthma patients [17–20]. In addition, some reports have reported on the potential impact of corticosteroids, which are commonly used by asthma patients, on the emergence of psychosis [19, 21]. However, no previous study, to our knowledge, has investigated the association between corticosteroid use and schizophrenia. Herein, we investigate the association between the incidence of schizophrenia among individuals with asthma, as well as the possible association between corticosteroid therapy and the incidence of schizophrenia, within a large, retrospective cohort study.
+
+A retrospective cohort study was assembled using data from the Taiwan National Health Insurance Research Database (NHIRD) provided by the National Health Research Institute (NHRI). The NHIRD includes longitudinal data since its establishment in March 1997 from outpatient, ambulatory, hospital inpatient care, as well as dental services, covered by the National Health Insurance (NHI) program, which includes approximately 98% of Taiwan’s national population. In cooperation with the Bureau of NHI, the NHRI extracted a systematically sampled and nationally representative database of 1,000,000 people from the registry of all NHI enrollees to create the Longitudinal Health Insurance Database (LHID). There were no statistically significant differences in age, sex, or health care utilization costs between the sample comprising the LHID and all enrollees of the NHI [22].
+
+Incidence of schizophrenia diagnosis was measured and compared between individuals with and without asthma during the study period (i.e. 1997 to 2007). A diagnosis was operationalized as having a medical claim with the relevant diagnostic code on one occasion through inpatient services or on multiple occasions spread over at least one year through outpatient services; this operationalization is consistent with other research publications using the LHIRD [23]. Asthma was operationalized using the International Classification of Disease, Ninth revision (ICD-9) codes 493.XX. A diagnosis of schizophrenia was operationalized using the ICD-9 codes 295.XX. To assess the incidence of asthma within the study cohort, we excluded data from individuals with a diagnosis of asthma between 1997 and 1999 to make sure our asthma patients were new cases. We excluded data from individuals with a diagnosis of schizophrenia between 1997 and 1999 or with a diagnosis of schizophrenia prior to the diagnosis of asthma. Individuals without asthma (i.e. controls) were randomly sampled from the LHID and matched to individuals with asthma (i.e. cases) on measures of sex, age (+/- 1 year), residence (urban/rural) and insurance premium category. The method of data collection is illustrated in Fig 1.
+
+Covariates considered in this analysis included age, sex, area of residence (urban/rural), economic status, corticosteroid use, outpatient visits, emergency room visits, Charlson comorbidity index and length of the total length of hospital stays for any disorder. In addition, the insurance premium class was classified into three categories and used to proxy economic status: lower income (i.e. requiring social welfare support, no stable salary); middle income (less than 20,000 New Taiwan Dollars [1 USD = 32.1 NTD in 2008] per month); and higher income (20,000 NTD or greater per month).
+
+Corticosteroid use was operationalized and dichotomized as having (or not having) a prescription for corticosteroid for a minimum duration of one year; dose of corticosteroid use was quantified using the annual average cumulative defined daily dose (DDD), defined by the World Health Organization as the dispensed sum of DDDs within one year.
+
+To assess the general physical health of participants during the study period, we used the number of outpatient visits and emergency room visits, total length of hospitalization(s), and Charlson comorbidity index. The foregoing variables were also considered as proxy severity of underlying inflammation. The Charlson comorbidity index comprises a summation of diseases [24].
+
+The NHIRD consists of anonymized data released to the public for research purposes. This study was approved by the Institutional Review Board of Chung Shan Medical University Hospital.
+
+For cases, the index date was operationalized as the date of the incident diagnosis of asthma. The same index date was assigned to the respective matched controls. The outcome of analysis was an incident diagnosis of schizophrenia. The risks for schizophrenia were calculated using survival analyses, with the time function calculated as the number of years from the index date to December 31, 2008 (end of study period) or date of death/ migration (if applicable and earlier than December 31, 2008).
+
+Death prior to incidence of schizophrenia was considered a competing risk event. The death date was retrieved from the national mortality database. The death-adjusted cumulative incidences of schizophrenia were calculated using the Fine and Gray method [25]. Competing risk-adjusted Cox regression models [25] were fitted to evaluate the associations between asthma and schizophrenia incidence, adjusting for covariates. We calculated the hazard ratios with 95% confidence intervals. The model was tested first with all the sample cases included; we subsequently conducted subgroup analyses stratified by sex and age. All data were analyzed using SAS 9.3 software (SAS Institute Inc., Cary, NC, USA). To calculate cumulative incidence and Cox models in the competing risk analysis, we used the R package “cmprsk”[26].
+
+We identified 25,023 individuals with asthma and 50,046 matched controls in the LHID. Study cohort characteristics are described in Table 1. The mean (SD) follow-up interval for all subjects was 5.8 (2.3) years. Of the total 75,069 subjects, 238 were diagnosed with schizophrenia during the study period: 100 (0.40%) of subjects were in the asthma cohort and 138 (0.28%) in the non-asthma cohort. 2,918 (11.66%) individuals with asthma used corticosteroid during the study period, compared to 904 (1.81) individuals without asthma. The annual average cumulative DDD of asthma group 16.17±48.91 was greater than non-asthma group as 3.20±16.71. Individuals with asthma were also more likely than individuals without asthma to have poorer outcomes on measures of general health quality as assessed by the mean of outpatient visits, emergency room visits, Charlson comorbidity indices and total length of hospital stays.
+
+a Matched by sex and age (±1 years old), residence, and insurance premium
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+Analyses of associations of interest are presented in Table 2 and Fig 2. In the fully adjusted Cox regression model for competing risk analysis (i.e. sex, age group, residence, insurance premium, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index, the total length of hospital stays and mortality), asthma was positively associated with schizophrenia. Additional factors associated with the incidence of schizophrenia were rural residence, lower economic status, and poor general health. Older age (i.e. ≥65 years) was negatively associated with schizophrenia incidence.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+In secondary analyses within the asthma cohort, factors associated with incidence of schizophrenia included: older age (i.e. ≥65 years), rural residence, lower economic status and poor general health (Table 3). In stratified analyses, the association of interest was statistical significance in men and in the 18–64 year age group (Table 4).
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+b 1US $ = 32.1 NTD in 2008
+
+c DDD: Defined daily dose (mg)
+
+d Past one year of index date.
+
+e Past of index date.
+
+CI: Confidence interval.
+
+a Competing risk adjusted Cox regression analysis controlling by sex, age, residence, insurance amount, corticosteroid, outpatient visits, emergency room visits, Charlson comorbidity index and total length of hospital stays.
+
+CI: Confidence interval.
+
+In our cohort study using the NHIRD, a diagnosis of asthma was significantly associated with a greater risk for schizophrenia (unadjusted hazard ratio = 1.43, 95% CI = 1.10 to 1.84). After adjusting for possibly confounding variables (i.e. sex, age, residence, economic status, corticosteroid use, general health quality), the adjusted hazard ratio was only modestly diminished to 1.40 (95% CI = 1.05–1.87). Corticosteroid use was not associated with greater risk for schizophrenia.
+
+To our knowledge, this is one of few population-based cohort studies to report on an association between asthma and schizophrenia. In addition, to our knowledge, no previous study has reported on the moderation role of corticosteroid use on the foregoing association. Our results replicate findings from previous studies [15, 16] For example, Chen et al. [15] reported that, within a cross-sectional dataset, patients with schizophrenia had a 1.3-fold increased risk for concurrent asthma. A separate longitudinal study using [16] two nationwide population-based registers in Denmark reported that asthma is associated with increased risk for schizophrenia (HR = 1.59, 95% CI = 1.31–1.90).
+
+The association of corticosteroid use and psychosis has been reported in several previous studies [19, 21]. However, our findings did not find a statistically significant association between corticosteroid use and schizophrenia among asthma population. Bag et al. [21], showed a case report with steroid-induced psychosis in a 12-year-old boy and this may not be diagnosed as schizophrenia in clinical practice. Drozdowicz LB et al. [19], reported the review regrading psychiatric adverse effects of pediatric corticosteroid use. They found most of the evidence is still at the level of case reports, case series, and small trials. The psychosis experience, such as paranoid ideation, cannot be diagnosed as schizophrenia. Since the limitation of previous reports and most of them described the psychosis symptoms rather than schizophrenia, the association of corticosteroid use and schizophrenia is still unknown. We used the population-based cohort study to demonstrate that corticosteroid use is not linked to schizophrenia.
+
+Immune-inflammatory processes may subserve the pathogenesis of asthma and schizophrenia [27–29] Emerging evidence suggests that infectious/autoimmune processes play an important role in the etiopathogenesis of subpopulations with schizophrenia [30, 31]. Among inflammatory peptides, cytokines are believed to contribute to the pathophysiology of many psychiatric illnesses, especially schizophrenia [32–36]. Available evidence indicates that abnormalities in the balance of pro- and anti-inflammatory cytokines in both central and peripheral compartments contribute to the abnormal neural structure and function reported in schizophrenia.
+
+This is one of few cohort studies using a nationally representative sample and longitudinal dataset to investigate the association between asthma and schizophrenia as well as the possible moderation role of corticosteroid use. The method of using the national database from NHIRD limits selection bias which is demonstrated from the similar prevalence of schizophrenia from the present study (0.27%) to that (0.2–0.3%) from community survey [37]. Furthermore, in our cohort study, we reduced the possibility of reverse casualty by using a longitudinal design in which the diagnosis of asthma predated the diagnosis of schizophrenia.
+
+There are important limitations to our methodology that may limit inferences that may be made from our findings. The NHIRD did not contain data on possibly confounding variables such as smoking, dietary habits, family history and maternal condition. Another limitation is that although our data are based on physicians’ diagnoses, we cannot control for variability between clinicians in establishing a clinical diagnosis of asthma. Moreover, the severity of schizophrenia and asthma are unknown and could not be evaluated directly in the analysis herein. In epidemiological studies, the time of first symptom onset of asthma is most relevant. However, our study database did not contain information regarding first symptom onset of asthma.
+
+The study suggests that the clinical care of patients with an asthma diagnosis necessitates monitoring for emerging psychopathology including, but not limited to schizophrenia. The future research vista is to identify convergent etipoathogenic mechanism subserving and or mediation the association between asthma and schizophrenia e.g immuno-inflammatory systems.
+
+This study was supported by grants from Chiayi Chang Gung Memorial Hospital, Chiayi, Taiwan (grant number: CMRPG6E0271). The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+The data underlying this study is from the National Health Insurance Research Database (NHIRD). Interested researchers can obtain the data through formal application to the National Health Research Institute (NHRI), Taiwan. Additional information may be found at http://nhird.nhri.org.tw/date_01.html.
+
+http://www.ncbi.nlm.nih.gov/pubmed/28350822

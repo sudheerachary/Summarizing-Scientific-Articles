@@ -1,0 +1,473 @@
+Attention-deficit/hyperactivity disorder and suicide: A systematic review.
+
+Abstract
+
+Correspondence to: Judit Balazs, MD, PhD, Institute of Psychology, Eötvös Loránd University, Izabella u. 46, H-1064 Budapest, Hungary. uh.etle.kpp@tiduj.szalab
+
+Telephone: +36-1-3921400 Fax: +36-1-3921401
+
+To investigate suicidality and attention-deficit/hyperactivity disorder (ADHD), this paper aims to systematically review the literature as an extension of previous reviews.
+
+We searched five databases (Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science) with two categories of search terms: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD.
+
+The search resulted 26 articles. There is a positive association between ADHD and suicidality in both sexes and in all age groups. Comorbid disorders mediate between suicidality and ADHD.
+
+Recognizing ADHD, comorbid conditions and suicidality is important in prevention.
+
+INTRODUCTION
+
+Suicide prevention is a public health issue all over the world[1]. Recently, several studies have focused on attention-deficit hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well[2-5]. One of the theoretical backgrounds of it is the construct of impulsivity, which is a well-know personality trait. Impulsivity is a core symptom of ADHD[6,7], moreover it is known, that it correlates to suicidal behavior[8]. Another theoretical background behind the possible association between ADHD and suicide is, that two-thirds of ADHD cases have at least one comorbid psychiatric diagnosis, which most often is conduct disorder, substance use or major depressive episode[9-11]. These comorbid disorders are well-known risk factors of suicide[12-15]. As ADHD is one of the most prevalent (2%-12%) psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood[16,17], all additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+The growing body of publications on ADHD and suicidality has already resulted in five review or summary papers on this topic. First, James et al[18] searched two electronic databases (MEDLINE, Psychlit) for the period from 1966 to 2003. In their review, they included psychological autopsy studies of teenage and young adult suicides and long-term follow-up studies of ADHD children. They found a positive association between ADHD and completed suicides in males, concluding that ADHD could increase the risk for suicide through comorbid conditions such as conduct disorder and depression. Second, Impey et al[19] performed a search for the period up to January 2011 using three main databases (MEDLINE, EMBASE and PSYCHINFO). They concluded from their review that most suicidal study groups showed a higher rate of ADHD than the controls: At least double the rate for suicidal ideation and around 1.5-2.0 times for suicide attempts and completion. The authors emphasized that comorbidity had a large influence, especially in the cases of delinquency and substance misuse. Third, Furczyk et al[20] published a selective review on the most important currently known associations between ADHD and suicidality. They concluded, similar to the previous reviews[18,19], that there is substantial evidence supporting an association between ADHD and increased suicide risk, and that it is at least partially mediated by comorbidities. They highlight the importance of raising the awareness of health professionals of the risk of suicide in ADHD patients, but further research on the long-term outcomes of the treatment of ADHD patients with a risk of suicide is needed. The selective review paper of Nigg[21] had a wider focus: He overviewed the current knowledge on the health-related impairments of ADHD, including smoking, drug abuse, accidental injury, sleep, obesity, hypertension and diabetes, as well as suicidal behavior. On the topic of ADHD and suicide, the author concluded that ADHD is associated with an elevated risk of suicide attempts (particularly in girls) and completed suicide (particularly in boys), and this risk is mediated by comorbid disorders, which may vary with gender: They include conduct and emotional problems in males and depression in females. Finally, we have to mention Renaud et al[22] summary paper: Based on some selected important research in the field, the authors concluded that there is not a direct link between ADHD and suicide, however, ADHD’s constructs of impulsivity and aggression are related to the development of conduct and oppositional defiant disorders, which can lead to deviancy and drug abuse; all of these comorbid conditions increase the risk of suicide.
+
+Knowing of the growing interest in this topic over the last couple of years, we found it useful to conduct an up-to-date systematic review, which can provide important extensions. The search of James et al[18] was conducted more than one decade ago, and even Impey et al[19] completed their search in January, 2011. The most recently published reviews were not systematic[20-22]. Additionally, all of the reviews have mainly been limited to males[18,19]. Moreover knowing more about the methodology of the studies can lead to a better understanding of the prevalence data. Considering all of this, the current systematic review aims to present an overview on suicidality and ADHD as an extension of the previous ones, not only in the time period of the search, but also by focusing on the following topics: (1) Is ADHD more common in people who are suicidal? (2) Is suicide more prevalent in people with ADHD? and (3) Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Additionally, to be able to compare the included studies, we investigated what kinds of assessments are used for measuring ADHD, suicidality and comorbid conditions.
+
+MATERIALS AND METHODS
+
+Correspondence to: Judit Balazs, MD, PhD, Institute of Psychology, Eötvös Loránd University, Izabella u. 46, H-1064 Budapest, Hungary. uh.etle.kpp@tiduj.szalab
+
+Telephone: +36-1-3921400 Fax: +36-1-3921401
+
+To investigate suicidality and attention-deficit/hyperactivity disorder (ADHD), this paper aims to systematically review the literature as an extension of previous reviews.
+
+We searched five databases (Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science) with two categories of search terms: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD.
+
+The search resulted 26 articles. There is a positive association between ADHD and suicidality in both sexes and in all age groups. Comorbid disorders mediate between suicidality and ADHD.
+
+Recognizing ADHD, comorbid conditions and suicidality is important in prevention.
+
+Core tip: This review of the last four years strengthens previous findings that there is a positive association between attention-deficit/hyperactivity disorder (ADHD) and suicidality in both sexes and in all age groups. Suicidality should screen in patients with ADHD. Comorbid disorders mediate between suicidality and ADHD. Recognizing ADHD and comorbid conditions can be important in suicide prevention as well.
+
+Suicide prevention is a public health issue all over the world[1]. Recently, several studies have focused on attention-deficit hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well[2-5]. One of the theoretical backgrounds of it is the construct of impulsivity, which is a well-know personality trait. Impulsivity is a core symptom of ADHD[6,7], moreover it is known, that it correlates to suicidal behavior[8]. Another theoretical background behind the possible association between ADHD and suicide is, that two-thirds of ADHD cases have at least one comorbid psychiatric diagnosis, which most often is conduct disorder, substance use or major depressive episode[9-11]. These comorbid disorders are well-known risk factors of suicide[12-15]. As ADHD is one of the most prevalent (2%-12%) psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood[16,17], all additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+The growing body of publications on ADHD and suicidality has already resulted in five review or summary papers on this topic. First, James et al[18] searched two electronic databases (MEDLINE, Psychlit) for the period from 1966 to 2003. In their review, they included psychological autopsy studies of teenage and young adult suicides and long-term follow-up studies of ADHD children. They found a positive association between ADHD and completed suicides in males, concluding that ADHD could increase the risk for suicide through comorbid conditions such as conduct disorder and depression. Second, Impey et al[19] performed a search for the period up to January 2011 using three main databases (MEDLINE, EMBASE and PSYCHINFO). They concluded from their review that most suicidal study groups showed a higher rate of ADHD than the controls: At least double the rate for suicidal ideation and around 1.5-2.0 times for suicide attempts and completion. The authors emphasized that comorbidity had a large influence, especially in the cases of delinquency and substance misuse. Third, Furczyk et al[20] published a selective review on the most important currently known associations between ADHD and suicidality. They concluded, similar to the previous reviews[18,19], that there is substantial evidence supporting an association between ADHD and increased suicide risk, and that it is at least partially mediated by comorbidities. They highlight the importance of raising the awareness of health professionals of the risk of suicide in ADHD patients, but further research on the long-term outcomes of the treatment of ADHD patients with a risk of suicide is needed. The selective review paper of Nigg[21] had a wider focus: He overviewed the current knowledge on the health-related impairments of ADHD, including smoking, drug abuse, accidental injury, sleep, obesity, hypertension and diabetes, as well as suicidal behavior. On the topic of ADHD and suicide, the author concluded that ADHD is associated with an elevated risk of suicide attempts (particularly in girls) and completed suicide (particularly in boys), and this risk is mediated by comorbid disorders, which may vary with gender: They include conduct and emotional problems in males and depression in females. Finally, we have to mention Renaud et al[22] summary paper: Based on some selected important research in the field, the authors concluded that there is not a direct link between ADHD and suicide, however, ADHD’s constructs of impulsivity and aggression are related to the development of conduct and oppositional defiant disorders, which can lead to deviancy and drug abuse; all of these comorbid conditions increase the risk of suicide.
+
+Knowing of the growing interest in this topic over the last couple of years, we found it useful to conduct an up-to-date systematic review, which can provide important extensions. The search of James et al[18] was conducted more than one decade ago, and even Impey et al[19] completed their search in January, 2011. The most recently published reviews were not systematic[20-22]. Additionally, all of the reviews have mainly been limited to males[18,19]. Moreover knowing more about the methodology of the studies can lead to a better understanding of the prevalence data. Considering all of this, the current systematic review aims to present an overview on suicidality and ADHD as an extension of the previous ones, not only in the time period of the search, but also by focusing on the following topics: (1) Is ADHD more common in people who are suicidal? (2) Is suicide more prevalent in people with ADHD? and (3) Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Additionally, to be able to compare the included studies, we investigated what kinds of assessments are used for measuring ADHD, suicidality and comorbid conditions.
+Selection of publications
+
+A systematic literature search was conducted in the following five computerized literature databases on January 27, 2015: Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science from 2011 to 2015. Search terms from two categories were used: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD; attention deficit hyperactivity disorder. Search terms within both categories were separated by the Boolean operator OR, and the categories were separated by the operator AND. Using prespecified inclusion and exclusion criteria, we screened the titles and/or abstracts. The relevant full texts of papers that passed the first search were read, and the ones that met the inclusion criteria were collected. The reference lists of the retrieved papers were screened, and papers that possibly met the inclusion criteria were retrieved and studied. The inclusion criteria were: Peer-reviewed journals; publications written in English or Hungarian. The exclusion criterion was the lack of any empirical data. It was not in the focus of our study to examine suicidal behavior, as a safety concern about ADHD drug treatment. We excluded those studies, which aim was to examine pharmacological treatment (e.g., atomoxetine) induced suicide in patients with ADHD, e.g., Capuano et al[23], who present a series of cases of Italian children who experienced suicidal ideation during ADHD pharmacological therapy with atomoxetine.
+
+RESULTS
+
+Correspondence to: Judit Balazs, MD, PhD, Institute of Psychology, Eötvös Loránd University, Izabella u. 46, H-1064 Budapest, Hungary. uh.etle.kpp@tiduj.szalab
+
+Telephone: +36-1-3921400 Fax: +36-1-3921401
+
+To investigate suicidality and attention-deficit/hyperactivity disorder (ADHD), this paper aims to systematically review the literature as an extension of previous reviews.
+
+We searched five databases (Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science) with two categories of search terms: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD.
+
+The search resulted 26 articles. There is a positive association between ADHD and suicidality in both sexes and in all age groups. Comorbid disorders mediate between suicidality and ADHD.
+
+Recognizing ADHD, comorbid conditions and suicidality is important in prevention.
+
+Core tip: This review of the last four years strengthens previous findings that there is a positive association between attention-deficit/hyperactivity disorder (ADHD) and suicidality in both sexes and in all age groups. Suicidality should screen in patients with ADHD. Comorbid disorders mediate between suicidality and ADHD. Recognizing ADHD and comorbid conditions can be important in suicide prevention as well.
+
+Suicide prevention is a public health issue all over the world[1]. Recently, several studies have focused on attention-deficit hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well[2-5]. One of the theoretical backgrounds of it is the construct of impulsivity, which is a well-know personality trait. Impulsivity is a core symptom of ADHD[6,7], moreover it is known, that it correlates to suicidal behavior[8]. Another theoretical background behind the possible association between ADHD and suicide is, that two-thirds of ADHD cases have at least one comorbid psychiatric diagnosis, which most often is conduct disorder, substance use or major depressive episode[9-11]. These comorbid disorders are well-known risk factors of suicide[12-15]. As ADHD is one of the most prevalent (2%-12%) psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood[16,17], all additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+The growing body of publications on ADHD and suicidality has already resulted in five review or summary papers on this topic. First, James et al[18] searched two electronic databases (MEDLINE, Psychlit) for the period from 1966 to 2003. In their review, they included psychological autopsy studies of teenage and young adult suicides and long-term follow-up studies of ADHD children. They found a positive association between ADHD and completed suicides in males, concluding that ADHD could increase the risk for suicide through comorbid conditions such as conduct disorder and depression. Second, Impey et al[19] performed a search for the period up to January 2011 using three main databases (MEDLINE, EMBASE and PSYCHINFO). They concluded from their review that most suicidal study groups showed a higher rate of ADHD than the controls: At least double the rate for suicidal ideation and around 1.5-2.0 times for suicide attempts and completion. The authors emphasized that comorbidity had a large influence, especially in the cases of delinquency and substance misuse. Third, Furczyk et al[20] published a selective review on the most important currently known associations between ADHD and suicidality. They concluded, similar to the previous reviews[18,19], that there is substantial evidence supporting an association between ADHD and increased suicide risk, and that it is at least partially mediated by comorbidities. They highlight the importance of raising the awareness of health professionals of the risk of suicide in ADHD patients, but further research on the long-term outcomes of the treatment of ADHD patients with a risk of suicide is needed. The selective review paper of Nigg[21] had a wider focus: He overviewed the current knowledge on the health-related impairments of ADHD, including smoking, drug abuse, accidental injury, sleep, obesity, hypertension and diabetes, as well as suicidal behavior. On the topic of ADHD and suicide, the author concluded that ADHD is associated with an elevated risk of suicide attempts (particularly in girls) and completed suicide (particularly in boys), and this risk is mediated by comorbid disorders, which may vary with gender: They include conduct and emotional problems in males and depression in females. Finally, we have to mention Renaud et al[22] summary paper: Based on some selected important research in the field, the authors concluded that there is not a direct link between ADHD and suicide, however, ADHD’s constructs of impulsivity and aggression are related to the development of conduct and oppositional defiant disorders, which can lead to deviancy and drug abuse; all of these comorbid conditions increase the risk of suicide.
+
+Knowing of the growing interest in this topic over the last couple of years, we found it useful to conduct an up-to-date systematic review, which can provide important extensions. The search of James et al[18] was conducted more than one decade ago, and even Impey et al[19] completed their search in January, 2011. The most recently published reviews were not systematic[20-22]. Additionally, all of the reviews have mainly been limited to males[18,19]. Moreover knowing more about the methodology of the studies can lead to a better understanding of the prevalence data. Considering all of this, the current systematic review aims to present an overview on suicidality and ADHD as an extension of the previous ones, not only in the time period of the search, but also by focusing on the following topics: (1) Is ADHD more common in people who are suicidal? (2) Is suicide more prevalent in people with ADHD? and (3) Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Additionally, to be able to compare the included studies, we investigated what kinds of assessments are used for measuring ADHD, suicidality and comorbid conditions.
+
+A systematic literature search was conducted in the following five computerized literature databases on January 27, 2015: Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science from 2011 to 2015. Search terms from two categories were used: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD; attention deficit hyperactivity disorder. Search terms within both categories were separated by the Boolean operator OR, and the categories were separated by the operator AND. Using prespecified inclusion and exclusion criteria, we screened the titles and/or abstracts. The relevant full texts of papers that passed the first search were read, and the ones that met the inclusion criteria were collected. The reference lists of the retrieved papers were screened, and papers that possibly met the inclusion criteria were retrieved and studied. The inclusion criteria were: Peer-reviewed journals; publications written in English or Hungarian. The exclusion criterion was the lack of any empirical data. It was not in the focus of our study to examine suicidal behavior, as a safety concern about ADHD drug treatment. We excluded those studies, which aim was to examine pharmacological treatment (e.g., atomoxetine) induced suicide in patients with ADHD, e.g., Capuano et al[23], who present a series of cases of Italian children who experienced suicidal ideation during ADHD pharmacological therapy with atomoxetine.
+Included studies
+
+The search strategy resulted in a total of 278 articles (excluding duplicates), of which 26 were included in the systematic review after the screening process (Figure ​(Figure1,1, Tables ​Tables11-​-33).
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Attention-deficit/hyperactivity disorder in suicidal patients
+
+CDR: Child Death Register; ADHD: Attention-deficit/hyperactivity disorder; PSTA: Psychological screening test for adolescents.
+
+QUORUM flow chart detailing results of literature search. ADHD: Attention-deficit/hyperactivity disorder.
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patients with psychiatric disorders who have attention-deficit/hyperactivity disorder comorbidity
+
+CFS: Chronic fatigue syndrome; ADHD: Attention-deficit/hyperactivity disorder; ASRS: Adult Self-Report Scale; EuroADAD: European Version of the Adolescent Assessment Dialogue; BDI: Beck Depression Inventory; SCID-I-CV: Structured Clinical Interview for DSM-IV Axis I Disorders, Clinician Version; DIVA: Diagnostic Interview for ADHD in Adults; CSS: Current Symptoms Scale–Self-Report Form; HDSQ: Hopelessness Depression Symptom Questionnaire-Suicidality Subscale; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV.
+
+The 26 papers were written in 16 countries on four continents. Of the 26 studies, only two had a longitudinal design. Detailed information on the origin, design, sample and instruments of the studies can be found in Tables ​Tables11-​-33.
+Is ADHD more common in people who are suicidal?
+
+Table ​Table11 summarizes the three studies on ADHD in suicidal patients[24-26].
+Is suicide more prevalent in people with ADHD?
+
+Table ​Table22 includes the 14 studies, which examines suicidality in patients with ADHD[27-40].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patiens with attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; PBS: Pediatric Behavior Scale; MINI: Mini-International Neuropsychiatric Interview; ASRS: Adult Self-Report Scale; BSRS-5: Brief Symptoms Rating Scale; DIVA: Diagnostic Interview for ADHD in Adults; SWAN: Strengths and Weaknesses of ADHD symptoms and Normal Behaviors; SCID-I: Structured Clinical Interview for DSM-IV Axis I Disorders; ODD: Oppositional defiant disorder; K-CIDI: Korean version of Composite International Diagnostic Interview; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Gender differences in suicidality and ADHD: Examining the gender distribution of ADHD cases among suicidal patients, only one study provided relevant data[24]: 8.6% of suicidal male adolescents had ADHD, and 4.7% of suicidal female adolescents had ADHD.
+
+Focusing on the gender differences in suicidal cases among ADHD patients, in the above-described 12 papers, which examined the prevalence of suicidality among patients with ADHD, three studies focused on gender differences[27,35,37], and one study enrolled only girls[39].
+
+Regarding suicidal ideation, Mayes et al[37] found no differences between boys and girls with ADHD with suicidal ideation (18% and 11%, respectively). All three studies examined the gender of those who attempted suicide among ADHD patients, and two did not find differences[28,37]. Agosti et al[27] found that 52.9% of patients with ADHD who had previous suicide attempts were male, while the rate of males was 58.3% in patients with ADHD without previous suicide attempts. Mayes et al[37] found no differences between boys and girls with ADHD and suicidal ideation (7% and 3%, respectively). Ljung et al[35] found that the risk of suicide attempts among ADHD patients differed significantly by gender (χ2 = 1271.0; P < 0.001): The adjusted estimate was 2.93 (95%CI: 2.60-3.29) for males and 5.41 (95%CI: 4.60-6.36) for females. Only one study examined gender differences in ADHD patients who completed suicide[35] and found no gender differences.
+
+Suicidality in patients with psychiatric disorders who have ADHD comorbidity: Table ​Table33 summarizes the seven studies among the 26, which investigated ADHD, as a comorbid condition of other psychiatric disorders, and its association with suicidality[30,41-46].
+
+Suicidality in ADHD patients who have psychiatric comorbidity: From the 26 papers of this review, the 10 studies, which investigated comorbidity in ADHD patients with suicidality are presented in Table ​Table44[27,28,35-39,47,48].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in attention-deficit/hyperactivity disorder patients who have psychiatric comorbidity
+
+SB: Suicidal behavior; ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; K-SADS-PL: Schedule for Affective Disorder and Schizophrenia for School-Age Children- Present and Lifetime Version; K-CIDI: Korean version of Composite International Diagnostic Interview; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV; CAARS: Conners’ Adult ADHD Rating Scale; DSHI: Deliberate Self-Harm Inventory; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+Assessments for measuring ADHD, suicidality and comorbid conditions
+
+Assessments for measuring ADHD: Table ​Table55[49-55] summarizes assessments for measuring ADHD.
+
+Assessments for measuring attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; DSM-IV: Diagnostic and statistical manual of mental disorders fourth edition; ADHD-HKS: Attention deficit hyperactivity disorder - hyperkinetic syndrome.
+
+Assessments for measuring suicidality and comorbid conditions: Table ​Table66[56-80] summarizes assessments for measuring suicidality and comorbid conditions.
+
+Assessments for measuring suicidality and comorbid conditions
+
+DISCUSSION
+
+This review of the last four years strengthens the recent finding that ADHD is related to high suicidality in all age groups and in both girls and boys.
+
+Although our current systematic review was conducted only for the last four years, we still found 26 papers that presented data on ADHD and suicidality. Moreover, we know that several systematic review papers and overviews had been done previously. Impey et al[19], who performed a systematic search on the same topic, covering all studies up to January 2011, the starting point of our search period, found 25 papers. All of them support the view that research on the association of ADHD and suicidality is a subject of high and growing interest, and clinicians and researchers need to have access to up-to-date knowledge in this field.
+
+The studies of this review are culturally diverse, as they come from four continents. This shows that this topic has relevance all over the world and that the conclusions can be used in wider aspects.
+
+Regarding the age groups investigated on the topic of ADHD and suicidality, the studies have been balanced over the last four years: Exactly half of them investigated children/adolescents, and half of them examined adults. This reflects the growing interest in ADHD in adulthood among both healthcare professionals and researchers[81]. Considering the previous studies on this topic - which were included in the review of Impey et al[19] - a majority of them involved the 12-18 age group, although there were a few studies in older and younger age groups as well. Additionally, in their review, Impey et al[19] concluded that, based on the studies included in their review paper, age differences were not clearly definable. In this way, the current review extends our knowledge with further information on all age groups with ADHD and suicidality, including children under 12 and adults, and makes it possible to compare different age groups.
+
+Systematically searching the literature of the last four years, we found only two studies that reported the prevalence data of ADHD among patients with suicidality[24,45]; however, there were a total of six studies addressing that study question in the review of Impey et al[19]. There were five in the review of James et al[18], but four of them were included in the review of Impey et al[19] as well. In both studies in the current review, the diagnoses of ADHD and suicidality were based on a clinician’s opinion. A very important and new result shown in our review is that one-quarter of the suicidal children under 12 years old had ADHD. The prevalence rate of ADHD among suicidal adolescents was lower (5.7%) than in children, and it was lower than in previous studies[19]. One possible explanation could be that these studies did not use either diagnostic interviews or screening tools for the diagnoses of ADHD and suicidality. All of them show that there is still limited data on the prevalence of ADHD among patients with suicidality; however, all of the studies performed found a high prevalence of ADHD in this population, especially among young children. Further studies are needed, but based on the current knowledge, we suggest a routine screening for ADHD patients with suicidal thoughts and attempts, with a special focus on young children.
+
+Almost half of the papers reported prevalence data on suicidality in ADHD patients. The results strengthen the findings of previous studies[18-21] that there is a positive association between ADHD and suicidality, including completed suicides, attempts, as well as ideation. We would like to highlight that, in adolescence, based on the studies of the last four years, more than half of the patients with ADHD had suicidal thoughts, and this prevalence rate is even higher than what has been described previously[19]. It is important to note that even in adulthood, one third of ADHD patients had suicidal ideation. Based on these results, we suggest the introduction of routine screening questions on suicidal thoughts in outpatient/inpatient ADHD clinics, both for those specializing in adults and those specializing in children/adolescents. This improvement in clinical practice can be an important step towards suicide prevention.
+
+The rate of previous suicide attempts was the highest (16%) in the adult ADHD age group; however, adolescents need attention in this respect as well, as almost one-tenth of ADHD patients in this age group had a previous suicide attempt. As one of the strongest predictors of a completed suicide is a previous suicide attempt, close follow-up of these ADHD patients could be of core importance in suicide prevention.
+
+When we examined, which identifiable risk factors can be associated with suicide in ADHD, first we focused on gender. There are still a limited number of studies examining gender differences within this topic. The only study[24] that reported data on the gender distribution of suicidal patients with ADHD is in agreement with the conclusion of previous reviews[18,19] that ADHD is present more often among suicidal men than suicidal women. However, when we examined the prevalence of suicidality (e.g., ideation, attempts and completed suicides) in ADHD patients, two out of three of the studies did not find a difference between men and women[27,37], and one study reported an adjusted estimate for the risk of suicide attempts in females that was almost twice as high[35]. In his selected review paper, Nigg[21] reported that girls had an elevated risk of a suicide attempt as well; however, the author stated that boys have a higher risk of completed suicide among ADHD patients. It is important to note that there are very few studies that have focused on female patients with ADHD[82]. One of them was conducted during the search period of this review[39], while in the previous review on this topic, there were several studies in which only men were enrolled, as well as those in which both females and men were included[19]. Based on the currently available results, both females and males with ADHD need a special focus to recognize their possible suicide risk; however, further studies are needed to gain a better understanding of the gender differences in all age groups.
+
+Second, when we examined identifiable risk factors, which can be associated with suicide in ADHD, we focused on comorbidities. One of the most exciting questions, which also has been raised in all of the previous review and summary papers[18-21], is whether there is a direct association between ADHD and suicidality or if ADHD increases the risk of suicide through comorbid conditions. In the current review, we examined two aspects of this question. First, we reviewed all of the papers within the examined period that measured the prevalence of ADHD in suicidal patients with other psychiatric disorders, such as mood disorders, schizophrenia, alcohol/drug intoxication and chronic fatigue syndrome. The results of all seven studies on this topic showed that the prevalence of suicidality is higher when psychiatric disorders are comorbid with ADHD than in their absence. These findings suggest that the presence of ADHD, as a comorbid condition, conveys an increased risk of suicide for patients with other psychiatric disorders. Second, we investigated the role of comorbidity in ADHD patients with suicidality. The majority of the studies (7/9) found that comorbid disorders mediate between suicidality and ADHD[27,36,38-41,49], which is in line with the conclusion of previous review papers[18-21]. It highlights the importance of raising clinicians’ awareness of the need to screen and treat comorbidity in ADHD, which may reduce suicidality as well.
+
+These findings are limited in that only studies published in English and in Hungarian were included. Three potentially relevant studies were excluded because they were neither in English nor in Hungarian. The vast majority of the studies included in this review have a cross-sectional design, which limits the possible conclusions. Additionally, most of the studies that were conducted before this review paper have a cross-sectional design as well[19]. This should draw the attention of the researchers that, in the future, more studies are needed with a longitudinal design. Additionally, similar to the previous review of Impey et al[19], the measurement methods for both ADHD and suicidality in the studies included in the current review are very different, i.e., diagnostic interviews, rating questionnaires and clinician-made diagnoses - which means that a comparison of the numerical results is not possible.
+
+In conclusion, our systematic highlights that the early recognition and treatment of ADHD - either as a comorbid condition or as a main diagnosis- and the co-occurring psychiatric disorders, can play an important role in the secondary prevention of suicide. Additionally, it could be useful to incorporate routine measurements of suicidality in the daily practice of ADHD clinics.
+
+ACKNOWLEDGMENTS
+
+This work was supported by OTKA K108336 grant. Judit Balázs was supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences.
+
+COMMENTS
+
+Correspondence to: Judit Balazs, MD, PhD, Institute of Psychology, Eötvös Loránd University, Izabella u. 46, H-1064 Budapest, Hungary. uh.etle.kpp@tiduj.szalab
+
+Telephone: +36-1-3921400 Fax: +36-1-3921401
+
+To investigate suicidality and attention-deficit/hyperactivity disorder (ADHD), this paper aims to systematically review the literature as an extension of previous reviews.
+
+We searched five databases (Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science) with two categories of search terms: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD.
+
+The search resulted 26 articles. There is a positive association between ADHD and suicidality in both sexes and in all age groups. Comorbid disorders mediate between suicidality and ADHD.
+
+Recognizing ADHD, comorbid conditions and suicidality is important in prevention.
+
+Core tip: This review of the last four years strengthens previous findings that there is a positive association between attention-deficit/hyperactivity disorder (ADHD) and suicidality in both sexes and in all age groups. Suicidality should screen in patients with ADHD. Comorbid disorders mediate between suicidality and ADHD. Recognizing ADHD and comorbid conditions can be important in suicide prevention as well.
+
+Suicide prevention is a public health issue all over the world[1]. Recently, several studies have focused on attention-deficit hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well[2-5]. One of the theoretical backgrounds of it is the construct of impulsivity, which is a well-know personality trait. Impulsivity is a core symptom of ADHD[6,7], moreover it is known, that it correlates to suicidal behavior[8]. Another theoretical background behind the possible association between ADHD and suicide is, that two-thirds of ADHD cases have at least one comorbid psychiatric diagnosis, which most often is conduct disorder, substance use or major depressive episode[9-11]. These comorbid disorders are well-known risk factors of suicide[12-15]. As ADHD is one of the most prevalent (2%-12%) psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood[16,17], all additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+The growing body of publications on ADHD and suicidality has already resulted in five review or summary papers on this topic. First, James et al[18] searched two electronic databases (MEDLINE, Psychlit) for the period from 1966 to 2003. In their review, they included psychological autopsy studies of teenage and young adult suicides and long-term follow-up studies of ADHD children. They found a positive association between ADHD and completed suicides in males, concluding that ADHD could increase the risk for suicide through comorbid conditions such as conduct disorder and depression. Second, Impey et al[19] performed a search for the period up to January 2011 using three main databases (MEDLINE, EMBASE and PSYCHINFO). They concluded from their review that most suicidal study groups showed a higher rate of ADHD than the controls: At least double the rate for suicidal ideation and around 1.5-2.0 times for suicide attempts and completion. The authors emphasized that comorbidity had a large influence, especially in the cases of delinquency and substance misuse. Third, Furczyk et al[20] published a selective review on the most important currently known associations between ADHD and suicidality. They concluded, similar to the previous reviews[18,19], that there is substantial evidence supporting an association between ADHD and increased suicide risk, and that it is at least partially mediated by comorbidities. They highlight the importance of raising the awareness of health professionals of the risk of suicide in ADHD patients, but further research on the long-term outcomes of the treatment of ADHD patients with a risk of suicide is needed. The selective review paper of Nigg[21] had a wider focus: He overviewed the current knowledge on the health-related impairments of ADHD, including smoking, drug abuse, accidental injury, sleep, obesity, hypertension and diabetes, as well as suicidal behavior. On the topic of ADHD and suicide, the author concluded that ADHD is associated with an elevated risk of suicide attempts (particularly in girls) and completed suicide (particularly in boys), and this risk is mediated by comorbid disorders, which may vary with gender: They include conduct and emotional problems in males and depression in females. Finally, we have to mention Renaud et al[22] summary paper: Based on some selected important research in the field, the authors concluded that there is not a direct link between ADHD and suicide, however, ADHD’s constructs of impulsivity and aggression are related to the development of conduct and oppositional defiant disorders, which can lead to deviancy and drug abuse; all of these comorbid conditions increase the risk of suicide.
+
+Knowing of the growing interest in this topic over the last couple of years, we found it useful to conduct an up-to-date systematic review, which can provide important extensions. The search of James et al[18] was conducted more than one decade ago, and even Impey et al[19] completed their search in January, 2011. The most recently published reviews were not systematic[20-22]. Additionally, all of the reviews have mainly been limited to males[18,19]. Moreover knowing more about the methodology of the studies can lead to a better understanding of the prevalence data. Considering all of this, the current systematic review aims to present an overview on suicidality and ADHD as an extension of the previous ones, not only in the time period of the search, but also by focusing on the following topics: (1) Is ADHD more common in people who are suicidal? (2) Is suicide more prevalent in people with ADHD? and (3) Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Additionally, to be able to compare the included studies, we investigated what kinds of assessments are used for measuring ADHD, suicidality and comorbid conditions.
+
+A systematic literature search was conducted in the following five computerized literature databases on January 27, 2015: Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science from 2011 to 2015. Search terms from two categories were used: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD; attention deficit hyperactivity disorder. Search terms within both categories were separated by the Boolean operator OR, and the categories were separated by the operator AND. Using prespecified inclusion and exclusion criteria, we screened the titles and/or abstracts. The relevant full texts of papers that passed the first search were read, and the ones that met the inclusion criteria were collected. The reference lists of the retrieved papers were screened, and papers that possibly met the inclusion criteria were retrieved and studied. The inclusion criteria were: Peer-reviewed journals; publications written in English or Hungarian. The exclusion criterion was the lack of any empirical data. It was not in the focus of our study to examine suicidal behavior, as a safety concern about ADHD drug treatment. We excluded those studies, which aim was to examine pharmacological treatment (e.g., atomoxetine) induced suicide in patients with ADHD, e.g., Capuano et al[23], who present a series of cases of Italian children who experienced suicidal ideation during ADHD pharmacological therapy with atomoxetine.
+
+The search strategy resulted in a total of 278 articles (excluding duplicates), of which 26 were included in the systematic review after the screening process (Figure ​(Figure1,1, Tables ​Tables11-​-33).
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Attention-deficit/hyperactivity disorder in suicidal patients
+
+CDR: Child Death Register; ADHD: Attention-deficit/hyperactivity disorder; PSTA: Psychological screening test for adolescents.
+
+QUORUM flow chart detailing results of literature search. ADHD: Attention-deficit/hyperactivity disorder.
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patients with psychiatric disorders who have attention-deficit/hyperactivity disorder comorbidity
+
+CFS: Chronic fatigue syndrome; ADHD: Attention-deficit/hyperactivity disorder; ASRS: Adult Self-Report Scale; EuroADAD: European Version of the Adolescent Assessment Dialogue; BDI: Beck Depression Inventory; SCID-I-CV: Structured Clinical Interview for DSM-IV Axis I Disorders, Clinician Version; DIVA: Diagnostic Interview for ADHD in Adults; CSS: Current Symptoms Scale–Self-Report Form; HDSQ: Hopelessness Depression Symptom Questionnaire-Suicidality Subscale; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV.
+
+The 26 papers were written in 16 countries on four continents. Of the 26 studies, only two had a longitudinal design. Detailed information on the origin, design, sample and instruments of the studies can be found in Tables ​Tables11-​-33.
+
+Table ​Table11 summarizes the three studies on ADHD in suicidal patients[24-26].
+
+Table ​Table22 includes the 14 studies, which examines suicidality in patients with ADHD[27-40].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patiens with attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; PBS: Pediatric Behavior Scale; MINI: Mini-International Neuropsychiatric Interview; ASRS: Adult Self-Report Scale; BSRS-5: Brief Symptoms Rating Scale; DIVA: Diagnostic Interview for ADHD in Adults; SWAN: Strengths and Weaknesses of ADHD symptoms and Normal Behaviors; SCID-I: Structured Clinical Interview for DSM-IV Axis I Disorders; ODD: Oppositional defiant disorder; K-CIDI: Korean version of Composite International Diagnostic Interview; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+
+Gender differences in suicidality and ADHD: Examining the gender distribution of ADHD cases among suicidal patients, only one study provided relevant data[24]: 8.6% of suicidal male adolescents had ADHD, and 4.7% of suicidal female adolescents had ADHD.
+
+Focusing on the gender differences in suicidal cases among ADHD patients, in the above-described 12 papers, which examined the prevalence of suicidality among patients with ADHD, three studies focused on gender differences[27,35,37], and one study enrolled only girls[39].
+
+Regarding suicidal ideation, Mayes et al[37] found no differences between boys and girls with ADHD with suicidal ideation (18% and 11%, respectively). All three studies examined the gender of those who attempted suicide among ADHD patients, and two did not find differences[28,37]. Agosti et al[27] found that 52.9% of patients with ADHD who had previous suicide attempts were male, while the rate of males was 58.3% in patients with ADHD without previous suicide attempts. Mayes et al[37] found no differences between boys and girls with ADHD and suicidal ideation (7% and 3%, respectively). Ljung et al[35] found that the risk of suicide attempts among ADHD patients differed significantly by gender (χ2 = 1271.0; P < 0.001): The adjusted estimate was 2.93 (95%CI: 2.60-3.29) for males and 5.41 (95%CI: 4.60-6.36) for females. Only one study examined gender differences in ADHD patients who completed suicide[35] and found no gender differences.
+
+Suicidality in patients with psychiatric disorders who have ADHD comorbidity: Table ​Table33 summarizes the seven studies among the 26, which investigated ADHD, as a comorbid condition of other psychiatric disorders, and its association with suicidality[30,41-46].
+
+Suicidality in ADHD patients who have psychiatric comorbidity: From the 26 papers of this review, the 10 studies, which investigated comorbidity in ADHD patients with suicidality are presented in Table ​Table44[27,28,35-39,47,48].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in attention-deficit/hyperactivity disorder patients who have psychiatric comorbidity
+
+SB: Suicidal behavior; ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; K-SADS-PL: Schedule for Affective Disorder and Schizophrenia for School-Age Children- Present and Lifetime Version; K-CIDI: Korean version of Composite International Diagnostic Interview; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV; CAARS: Conners’ Adult ADHD Rating Scale; DSHI: Deliberate Self-Harm Inventory; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+
+Assessments for measuring ADHD: Table ​Table55[49-55] summarizes assessments for measuring ADHD.
+
+Assessments for measuring attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; DSM-IV: Diagnostic and statistical manual of mental disorders fourth edition; ADHD-HKS: Attention deficit hyperactivity disorder - hyperkinetic syndrome.
+
+Assessments for measuring suicidality and comorbid conditions: Table ​Table66[56-80] summarizes assessments for measuring suicidality and comorbid conditions.
+
+Assessments for measuring suicidality and comorbid conditions
+
+This review of the last four years strengthens the recent finding that ADHD is related to high suicidality in all age groups and in both girls and boys.
+
+Although our current systematic review was conducted only for the last four years, we still found 26 papers that presented data on ADHD and suicidality. Moreover, we know that several systematic review papers and overviews had been done previously. Impey et al[19], who performed a systematic search on the same topic, covering all studies up to January 2011, the starting point of our search period, found 25 papers. All of them support the view that research on the association of ADHD and suicidality is a subject of high and growing interest, and clinicians and researchers need to have access to up-to-date knowledge in this field.
+
+The studies of this review are culturally diverse, as they come from four continents. This shows that this topic has relevance all over the world and that the conclusions can be used in wider aspects.
+
+Regarding the age groups investigated on the topic of ADHD and suicidality, the studies have been balanced over the last four years: Exactly half of them investigated children/adolescents, and half of them examined adults. This reflects the growing interest in ADHD in adulthood among both healthcare professionals and researchers[81]. Considering the previous studies on this topic - which were included in the review of Impey et al[19] - a majority of them involved the 12-18 age group, although there were a few studies in older and younger age groups as well. Additionally, in their review, Impey et al[19] concluded that, based on the studies included in their review paper, age differences were not clearly definable. In this way, the current review extends our knowledge with further information on all age groups with ADHD and suicidality, including children under 12 and adults, and makes it possible to compare different age groups.
+
+Systematically searching the literature of the last four years, we found only two studies that reported the prevalence data of ADHD among patients with suicidality[24,45]; however, there were a total of six studies addressing that study question in the review of Impey et al[19]. There were five in the review of James et al[18], but four of them were included in the review of Impey et al[19] as well. In both studies in the current review, the diagnoses of ADHD and suicidality were based on a clinician’s opinion. A very important and new result shown in our review is that one-quarter of the suicidal children under 12 years old had ADHD. The prevalence rate of ADHD among suicidal adolescents was lower (5.7%) than in children, and it was lower than in previous studies[19]. One possible explanation could be that these studies did not use either diagnostic interviews or screening tools for the diagnoses of ADHD and suicidality. All of them show that there is still limited data on the prevalence of ADHD among patients with suicidality; however, all of the studies performed found a high prevalence of ADHD in this population, especially among young children. Further studies are needed, but based on the current knowledge, we suggest a routine screening for ADHD patients with suicidal thoughts and attempts, with a special focus on young children.
+
+Almost half of the papers reported prevalence data on suicidality in ADHD patients. The results strengthen the findings of previous studies[18-21] that there is a positive association between ADHD and suicidality, including completed suicides, attempts, as well as ideation. We would like to highlight that, in adolescence, based on the studies of the last four years, more than half of the patients with ADHD had suicidal thoughts, and this prevalence rate is even higher than what has been described previously[19]. It is important to note that even in adulthood, one third of ADHD patients had suicidal ideation. Based on these results, we suggest the introduction of routine screening questions on suicidal thoughts in outpatient/inpatient ADHD clinics, both for those specializing in adults and those specializing in children/adolescents. This improvement in clinical practice can be an important step towards suicide prevention.
+
+The rate of previous suicide attempts was the highest (16%) in the adult ADHD age group; however, adolescents need attention in this respect as well, as almost one-tenth of ADHD patients in this age group had a previous suicide attempt. As one of the strongest predictors of a completed suicide is a previous suicide attempt, close follow-up of these ADHD patients could be of core importance in suicide prevention.
+
+When we examined, which identifiable risk factors can be associated with suicide in ADHD, first we focused on gender. There are still a limited number of studies examining gender differences within this topic. The only study[24] that reported data on the gender distribution of suicidal patients with ADHD is in agreement with the conclusion of previous reviews[18,19] that ADHD is present more often among suicidal men than suicidal women. However, when we examined the prevalence of suicidality (e.g., ideation, attempts and completed suicides) in ADHD patients, two out of three of the studies did not find a difference between men and women[27,37], and one study reported an adjusted estimate for the risk of suicide attempts in females that was almost twice as high[35]. In his selected review paper, Nigg[21] reported that girls had an elevated risk of a suicide attempt as well; however, the author stated that boys have a higher risk of completed suicide among ADHD patients. It is important to note that there are very few studies that have focused on female patients with ADHD[82]. One of them was conducted during the search period of this review[39], while in the previous review on this topic, there were several studies in which only men were enrolled, as well as those in which both females and men were included[19]. Based on the currently available results, both females and males with ADHD need a special focus to recognize their possible suicide risk; however, further studies are needed to gain a better understanding of the gender differences in all age groups.
+
+Second, when we examined identifiable risk factors, which can be associated with suicide in ADHD, we focused on comorbidities. One of the most exciting questions, which also has been raised in all of the previous review and summary papers[18-21], is whether there is a direct association between ADHD and suicidality or if ADHD increases the risk of suicide through comorbid conditions. In the current review, we examined two aspects of this question. First, we reviewed all of the papers within the examined period that measured the prevalence of ADHD in suicidal patients with other psychiatric disorders, such as mood disorders, schizophrenia, alcohol/drug intoxication and chronic fatigue syndrome. The results of all seven studies on this topic showed that the prevalence of suicidality is higher when psychiatric disorders are comorbid with ADHD than in their absence. These findings suggest that the presence of ADHD, as a comorbid condition, conveys an increased risk of suicide for patients with other psychiatric disorders. Second, we investigated the role of comorbidity in ADHD patients with suicidality. The majority of the studies (7/9) found that comorbid disorders mediate between suicidality and ADHD[27,36,38-41,49], which is in line with the conclusion of previous review papers[18-21]. It highlights the importance of raising clinicians’ awareness of the need to screen and treat comorbidity in ADHD, which may reduce suicidality as well.
+
+These findings are limited in that only studies published in English and in Hungarian were included. Three potentially relevant studies were excluded because they were neither in English nor in Hungarian. The vast majority of the studies included in this review have a cross-sectional design, which limits the possible conclusions. Additionally, most of the studies that were conducted before this review paper have a cross-sectional design as well[19]. This should draw the attention of the researchers that, in the future, more studies are needed with a longitudinal design. Additionally, similar to the previous review of Impey et al[19], the measurement methods for both ADHD and suicidality in the studies included in the current review are very different, i.e., diagnostic interviews, rating questionnaires and clinician-made diagnoses - which means that a comparison of the numerical results is not possible.
+
+In conclusion, our systematic highlights that the early recognition and treatment of ADHD - either as a comorbid condition or as a main diagnosis- and the co-occurring psychiatric disorders, can play an important role in the secondary prevention of suicide. Additionally, it could be useful to incorporate routine measurements of suicidality in the daily practice of ADHD clinics.
+
+This work was supported by OTKA K108336 grant. Judit Balázs was supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences.
+Background
+
+Recently, several studies have focused on attention-deficit/hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well. This paper presents a systematic review of suicidality and ADHD as an extension of previous reviews for the search period and with study questions.
+Research frontiers
+
+Suicide prevention is a public health issue all over the world. As ADHD is one of the most prevalent psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood. All additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+Innovations and breakthroughs
+
+Although this systematic review was conducted only for the last four years, the authors still found 26 papers that presented data on ADHD and suicidality.
+Applications
+
+This systematic review strengthens the finding that ADHD is related to high suicidality in all age groups and in both girls and boys. It highlights that the early recognition and treatment of ADHD - either as a comorbid condition or as a main diagnosis - and the co-occurring psychiatric disorders, can play an important role in the secondary prevention of suicide.
+Terminology
+
+Attention-deficit/hyperactivity disorder: ADHD is a neurodevelopmental disorder with ongoing pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development; Suicidality: It includes suicidal thought, suicidal plan, suicidal attempt and completed suicide; Systematic review: A systematic review is a type of literature review which aims to provide a thorough, complete, exhaustive summary of current literature relevant to a research question.
+Peer-review
+
+The authors have reviewed the evidence for an association between ADHD and suicide. This is a descriptive review that does not include meta-analysis.
+
+Footnotes
+
+
+
+Conflict-of-interest statement: Author Judit Balazs has received a speaker honorarium from E. Lilly Company and she is a member of the Advisory Board committee of E. Lilly Company. Author Agnes Kereszteny declares that she has no conflict of interest.
+
+
+
+
+
+Data sharing statement: The current manuscript does not describe a study, it is a systematic review.
+
+
+
+
+
+Manuscript source: Invited manuscript
+
+
+
+
+
+Specialty type: Psychiatry
+
+
+
+
+
+Country of origin: Hungary
+
+
+
+
+
+Peer-review report classification
+
+
+
+
+
+Grade A (Excellent): A
+
+
+
+
+
+Grade B (Very good): B
+
+
+
+
+
+Grade C (Good): 0
+
+
+
+
+
+Grade D (Fair): D
+
+
+
+
+
+Grade E (Poor): 0
+
+
+
+
+
+Peer-review started: November 2, 2016
+
+
+
+
+
+First decision: November 30, 2016
+
+
+
+
+
+Article in press: January 18, 2017
+
+
+
+
+
+P- Reviewer: Gazdag G, Poulton A, Pivac N S- Editor: Ji FF L- Editor: A E- Editor: Wu HL
+
+
+
+References
+
+Correspondence to: Judit Balazs, MD, PhD, Institute of Psychology, Eötvös Loránd University, Izabella u. 46, H-1064 Budapest, Hungary. uh.etle.kpp@tiduj.szalab
+
+Telephone: +36-1-3921400 Fax: +36-1-3921401
+
+To investigate suicidality and attention-deficit/hyperactivity disorder (ADHD), this paper aims to systematically review the literature as an extension of previous reviews.
+
+We searched five databases (Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science) with two categories of search terms: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD.
+
+The search resulted 26 articles. There is a positive association between ADHD and suicidality in both sexes and in all age groups. Comorbid disorders mediate between suicidality and ADHD.
+
+Recognizing ADHD, comorbid conditions and suicidality is important in prevention.
+
+Core tip: This review of the last four years strengthens previous findings that there is a positive association between attention-deficit/hyperactivity disorder (ADHD) and suicidality in both sexes and in all age groups. Suicidality should screen in patients with ADHD. Comorbid disorders mediate between suicidality and ADHD. Recognizing ADHD and comorbid conditions can be important in suicide prevention as well.
+
+Suicide prevention is a public health issue all over the world[1]. Recently, several studies have focused on attention-deficit hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well[2-5]. One of the theoretical backgrounds of it is the construct of impulsivity, which is a well-know personality trait. Impulsivity is a core symptom of ADHD[6,7], moreover it is known, that it correlates to suicidal behavior[8]. Another theoretical background behind the possible association between ADHD and suicide is, that two-thirds of ADHD cases have at least one comorbid psychiatric diagnosis, which most often is conduct disorder, substance use or major depressive episode[9-11]. These comorbid disorders are well-known risk factors of suicide[12-15]. As ADHD is one of the most prevalent (2%-12%) psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood[16,17], all additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+The growing body of publications on ADHD and suicidality has already resulted in five review or summary papers on this topic. First, James et al[18] searched two electronic databases (MEDLINE, Psychlit) for the period from 1966 to 2003. In their review, they included psychological autopsy studies of teenage and young adult suicides and long-term follow-up studies of ADHD children. They found a positive association between ADHD and completed suicides in males, concluding that ADHD could increase the risk for suicide through comorbid conditions such as conduct disorder and depression. Second, Impey et al[19] performed a search for the period up to January 2011 using three main databases (MEDLINE, EMBASE and PSYCHINFO). They concluded from their review that most suicidal study groups showed a higher rate of ADHD than the controls: At least double the rate for suicidal ideation and around 1.5-2.0 times for suicide attempts and completion. The authors emphasized that comorbidity had a large influence, especially in the cases of delinquency and substance misuse. Third, Furczyk et al[20] published a selective review on the most important currently known associations between ADHD and suicidality. They concluded, similar to the previous reviews[18,19], that there is substantial evidence supporting an association between ADHD and increased suicide risk, and that it is at least partially mediated by comorbidities. They highlight the importance of raising the awareness of health professionals of the risk of suicide in ADHD patients, but further research on the long-term outcomes of the treatment of ADHD patients with a risk of suicide is needed. The selective review paper of Nigg[21] had a wider focus: He overviewed the current knowledge on the health-related impairments of ADHD, including smoking, drug abuse, accidental injury, sleep, obesity, hypertension and diabetes, as well as suicidal behavior. On the topic of ADHD and suicide, the author concluded that ADHD is associated with an elevated risk of suicide attempts (particularly in girls) and completed suicide (particularly in boys), and this risk is mediated by comorbid disorders, which may vary with gender: They include conduct and emotional problems in males and depression in females. Finally, we have to mention Renaud et al[22] summary paper: Based on some selected important research in the field, the authors concluded that there is not a direct link between ADHD and suicide, however, ADHD’s constructs of impulsivity and aggression are related to the development of conduct and oppositional defiant disorders, which can lead to deviancy and drug abuse; all of these comorbid conditions increase the risk of suicide.
+
+Knowing of the growing interest in this topic over the last couple of years, we found it useful to conduct an up-to-date systematic review, which can provide important extensions. The search of James et al[18] was conducted more than one decade ago, and even Impey et al[19] completed their search in January, 2011. The most recently published reviews were not systematic[20-22]. Additionally, all of the reviews have mainly been limited to males[18,19]. Moreover knowing more about the methodology of the studies can lead to a better understanding of the prevalence data. Considering all of this, the current systematic review aims to present an overview on suicidality and ADHD as an extension of the previous ones, not only in the time period of the search, but also by focusing on the following topics: (1) Is ADHD more common in people who are suicidal? (2) Is suicide more prevalent in people with ADHD? and (3) Which other identifiable risk factors can be associated with suicide in ADHD?
+
+Additionally, to be able to compare the included studies, we investigated what kinds of assessments are used for measuring ADHD, suicidality and comorbid conditions.
+
+A systematic literature search was conducted in the following five computerized literature databases on January 27, 2015: Ovid MEDLINE, Psychinfo, PubMed, Scopus, Web of Science from 2011 to 2015. Search terms from two categories were used: (1) suicide; suicidal; suicide behavior; suicide attempt; suicidal thought; and (2) ADHD; attention deficit hyperactivity disorder. Search terms within both categories were separated by the Boolean operator OR, and the categories were separated by the operator AND. Using prespecified inclusion and exclusion criteria, we screened the titles and/or abstracts. The relevant full texts of papers that passed the first search were read, and the ones that met the inclusion criteria were collected. The reference lists of the retrieved papers were screened, and papers that possibly met the inclusion criteria were retrieved and studied. The inclusion criteria were: Peer-reviewed journals; publications written in English or Hungarian. The exclusion criterion was the lack of any empirical data. It was not in the focus of our study to examine suicidal behavior, as a safety concern about ADHD drug treatment. We excluded those studies, which aim was to examine pharmacological treatment (e.g., atomoxetine) induced suicide in patients with ADHD, e.g., Capuano et al[23], who present a series of cases of Italian children who experienced suicidal ideation during ADHD pharmacological therapy with atomoxetine.
+
+The search strategy resulted in a total of 278 articles (excluding duplicates), of which 26 were included in the systematic review after the screening process (Figure ​(Figure1,1, Tables ​Tables11-​-33).
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Attention-deficit/hyperactivity disorder in suicidal patients
+
+CDR: Child Death Register; ADHD: Attention-deficit/hyperactivity disorder; PSTA: Psychological screening test for adolescents.
+
+QUORUM flow chart detailing results of literature search. ADHD: Attention-deficit/hyperactivity disorder.
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patients with psychiatric disorders who have attention-deficit/hyperactivity disorder comorbidity
+
+CFS: Chronic fatigue syndrome; ADHD: Attention-deficit/hyperactivity disorder; ASRS: Adult Self-Report Scale; EuroADAD: European Version of the Adolescent Assessment Dialogue; BDI: Beck Depression Inventory; SCID-I-CV: Structured Clinical Interview for DSM-IV Axis I Disorders, Clinician Version; DIVA: Diagnostic Interview for ADHD in Adults; CSS: Current Symptoms Scale–Self-Report Form; HDSQ: Hopelessness Depression Symptom Questionnaire-Suicidality Subscale; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV.
+
+The 26 papers were written in 16 countries on four continents. Of the 26 studies, only two had a longitudinal design. Detailed information on the origin, design, sample and instruments of the studies can be found in Tables ​Tables11-​-33.
+
+Table ​Table11 summarizes the three studies on ADHD in suicidal patients[24-26].
+
+Table ​Table22 includes the 14 studies, which examines suicidality in patients with ADHD[27-40].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in patiens with attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; PBS: Pediatric Behavior Scale; MINI: Mini-International Neuropsychiatric Interview; ASRS: Adult Self-Report Scale; BSRS-5: Brief Symptoms Rating Scale; DIVA: Diagnostic Interview for ADHD in Adults; SWAN: Strengths and Weaknesses of ADHD symptoms and Normal Behaviors; SCID-I: Structured Clinical Interview for DSM-IV Axis I Disorders; ODD: Oppositional defiant disorder; K-CIDI: Korean version of Composite International Diagnostic Interview; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+
+Gender differences in suicidality and ADHD: Examining the gender distribution of ADHD cases among suicidal patients, only one study provided relevant data[24]: 8.6% of suicidal male adolescents had ADHD, and 4.7% of suicidal female adolescents had ADHD.
+
+Focusing on the gender differences in suicidal cases among ADHD patients, in the above-described 12 papers, which examined the prevalence of suicidality among patients with ADHD, three studies focused on gender differences[27,35,37], and one study enrolled only girls[39].
+
+Regarding suicidal ideation, Mayes et al[37] found no differences between boys and girls with ADHD with suicidal ideation (18% and 11%, respectively). All three studies examined the gender of those who attempted suicide among ADHD patients, and two did not find differences[28,37]. Agosti et al[27] found that 52.9% of patients with ADHD who had previous suicide attempts were male, while the rate of males was 58.3% in patients with ADHD without previous suicide attempts. Mayes et al[37] found no differences between boys and girls with ADHD and suicidal ideation (7% and 3%, respectively). Ljung et al[35] found that the risk of suicide attempts among ADHD patients differed significantly by gender (χ2 = 1271.0; P < 0.001): The adjusted estimate was 2.93 (95%CI: 2.60-3.29) for males and 5.41 (95%CI: 4.60-6.36) for females. Only one study examined gender differences in ADHD patients who completed suicide[35] and found no gender differences.
+
+Suicidality in patients with psychiatric disorders who have ADHD comorbidity: Table ​Table33 summarizes the seven studies among the 26, which investigated ADHD, as a comorbid condition of other psychiatric disorders, and its association with suicidality[30,41-46].
+
+Suicidality in ADHD patients who have psychiatric comorbidity: From the 26 papers of this review, the 10 studies, which investigated comorbidity in ADHD patients with suicidality are presented in Table ​Table44[27,28,35-39,47,48].
+
+Included relevant articles examining attention-deficit/hyperactivity disorder and suicidality from January 2011 to January 2015: Suicidality in attention-deficit/hyperactivity disorder patients who have psychiatric comorbidity
+
+SB: Suicidal behavior; ADHD: Attention-deficit/hyperactivity disorder; CIDI: Composite International Diagnostic Interview; ACDS: Adult ADHD Clinical Diagnostic Scale; DIS-IV: The Diagnostic Interview Schedule for DSM-IV; MINI-KID: Mini-International Neuropsychiatric Interview for children and adolescents; K-SADS-PL: Schedule for Affective Disorder and Schizophrenia for School-Age Children- Present and Lifetime Version; K-CIDI: Korean version of Composite International Diagnostic Interview; DISC-IV-YA: Diagnostic Interview Schedule for Children 4th ed., Young Adult version; SNAP-IV: Swanson, Nolan, and Pelham Rating Scale; SIQ: Self-Injury Questionnaire; CAADID: Conners’Adult ADHD Diagnostic Interview for DSM-IV; CAARS: Conners’ Adult ADHD Rating Scale; DSHI: Deliberate Self-Harm Inventory; ADHD-C: ADHD combined type; ADHD-I: ADHD inattentive type, ADHD-HKS Questionnaire.
+
+Assessments for measuring ADHD: Table ​Table55[49-55] summarizes assessments for measuring ADHD.
+
+Assessments for measuring attention-deficit/hyperactivity disorder
+
+ADHD: Attention-deficit/hyperactivity disorder; DSM-IV: Diagnostic and statistical manual of mental disorders fourth edition; ADHD-HKS: Attention deficit hyperactivity disorder - hyperkinetic syndrome.
+
+Assessments for measuring suicidality and comorbid conditions: Table ​Table66[56-80] summarizes assessments for measuring suicidality and comorbid conditions.
+
+Assessments for measuring suicidality and comorbid conditions
+
+This review of the last four years strengthens the recent finding that ADHD is related to high suicidality in all age groups and in both girls and boys.
+
+Although our current systematic review was conducted only for the last four years, we still found 26 papers that presented data on ADHD and suicidality. Moreover, we know that several systematic review papers and overviews had been done previously. Impey et al[19], who performed a systematic search on the same topic, covering all studies up to January 2011, the starting point of our search period, found 25 papers. All of them support the view that research on the association of ADHD and suicidality is a subject of high and growing interest, and clinicians and researchers need to have access to up-to-date knowledge in this field.
+
+The studies of this review are culturally diverse, as they come from four continents. This shows that this topic has relevance all over the world and that the conclusions can be used in wider aspects.
+
+Regarding the age groups investigated on the topic of ADHD and suicidality, the studies have been balanced over the last four years: Exactly half of them investigated children/adolescents, and half of them examined adults. This reflects the growing interest in ADHD in adulthood among both healthcare professionals and researchers[81]. Considering the previous studies on this topic - which were included in the review of Impey et al[19] - a majority of them involved the 12-18 age group, although there were a few studies in older and younger age groups as well. Additionally, in their review, Impey et al[19] concluded that, based on the studies included in their review paper, age differences were not clearly definable. In this way, the current review extends our knowledge with further information on all age groups with ADHD and suicidality, including children under 12 and adults, and makes it possible to compare different age groups.
+
+Systematically searching the literature of the last four years, we found only two studies that reported the prevalence data of ADHD among patients with suicidality[24,45]; however, there were a total of six studies addressing that study question in the review of Impey et al[19]. There were five in the review of James et al[18], but four of them were included in the review of Impey et al[19] as well. In both studies in the current review, the diagnoses of ADHD and suicidality were based on a clinician’s opinion. A very important and new result shown in our review is that one-quarter of the suicidal children under 12 years old had ADHD. The prevalence rate of ADHD among suicidal adolescents was lower (5.7%) than in children, and it was lower than in previous studies[19]. One possible explanation could be that these studies did not use either diagnostic interviews or screening tools for the diagnoses of ADHD and suicidality. All of them show that there is still limited data on the prevalence of ADHD among patients with suicidality; however, all of the studies performed found a high prevalence of ADHD in this population, especially among young children. Further studies are needed, but based on the current knowledge, we suggest a routine screening for ADHD patients with suicidal thoughts and attempts, with a special focus on young children.
+
+Almost half of the papers reported prevalence data on suicidality in ADHD patients. The results strengthen the findings of previous studies[18-21] that there is a positive association between ADHD and suicidality, including completed suicides, attempts, as well as ideation. We would like to highlight that, in adolescence, based on the studies of the last four years, more than half of the patients with ADHD had suicidal thoughts, and this prevalence rate is even higher than what has been described previously[19]. It is important to note that even in adulthood, one third of ADHD patients had suicidal ideation. Based on these results, we suggest the introduction of routine screening questions on suicidal thoughts in outpatient/inpatient ADHD clinics, both for those specializing in adults and those specializing in children/adolescents. This improvement in clinical practice can be an important step towards suicide prevention.
+
+The rate of previous suicide attempts was the highest (16%) in the adult ADHD age group; however, adolescents need attention in this respect as well, as almost one-tenth of ADHD patients in this age group had a previous suicide attempt. As one of the strongest predictors of a completed suicide is a previous suicide attempt, close follow-up of these ADHD patients could be of core importance in suicide prevention.
+
+When we examined, which identifiable risk factors can be associated with suicide in ADHD, first we focused on gender. There are still a limited number of studies examining gender differences within this topic. The only study[24] that reported data on the gender distribution of suicidal patients with ADHD is in agreement with the conclusion of previous reviews[18,19] that ADHD is present more often among suicidal men than suicidal women. However, when we examined the prevalence of suicidality (e.g., ideation, attempts and completed suicides) in ADHD patients, two out of three of the studies did not find a difference between men and women[27,37], and one study reported an adjusted estimate for the risk of suicide attempts in females that was almost twice as high[35]. In his selected review paper, Nigg[21] reported that girls had an elevated risk of a suicide attempt as well; however, the author stated that boys have a higher risk of completed suicide among ADHD patients. It is important to note that there are very few studies that have focused on female patients with ADHD[82]. One of them was conducted during the search period of this review[39], while in the previous review on this topic, there were several studies in which only men were enrolled, as well as those in which both females and men were included[19]. Based on the currently available results, both females and males with ADHD need a special focus to recognize their possible suicide risk; however, further studies are needed to gain a better understanding of the gender differences in all age groups.
+
+Second, when we examined identifiable risk factors, which can be associated with suicide in ADHD, we focused on comorbidities. One of the most exciting questions, which also has been raised in all of the previous review and summary papers[18-21], is whether there is a direct association between ADHD and suicidality or if ADHD increases the risk of suicide through comorbid conditions. In the current review, we examined two aspects of this question. First, we reviewed all of the papers within the examined period that measured the prevalence of ADHD in suicidal patients with other psychiatric disorders, such as mood disorders, schizophrenia, alcohol/drug intoxication and chronic fatigue syndrome. The results of all seven studies on this topic showed that the prevalence of suicidality is higher when psychiatric disorders are comorbid with ADHD than in their absence. These findings suggest that the presence of ADHD, as a comorbid condition, conveys an increased risk of suicide for patients with other psychiatric disorders. Second, we investigated the role of comorbidity in ADHD patients with suicidality. The majority of the studies (7/9) found that comorbid disorders mediate between suicidality and ADHD[27,36,38-41,49], which is in line with the conclusion of previous review papers[18-21]. It highlights the importance of raising clinicians’ awareness of the need to screen and treat comorbidity in ADHD, which may reduce suicidality as well.
+
+These findings are limited in that only studies published in English and in Hungarian were included. Three potentially relevant studies were excluded because they were neither in English nor in Hungarian. The vast majority of the studies included in this review have a cross-sectional design, which limits the possible conclusions. Additionally, most of the studies that were conducted before this review paper have a cross-sectional design as well[19]. This should draw the attention of the researchers that, in the future, more studies are needed with a longitudinal design. Additionally, similar to the previous review of Impey et al[19], the measurement methods for both ADHD and suicidality in the studies included in the current review are very different, i.e., diagnostic interviews, rating questionnaires and clinician-made diagnoses - which means that a comparison of the numerical results is not possible.
+
+In conclusion, our systematic highlights that the early recognition and treatment of ADHD - either as a comorbid condition or as a main diagnosis- and the co-occurring psychiatric disorders, can play an important role in the secondary prevention of suicide. Additionally, it could be useful to incorporate routine measurements of suicidality in the daily practice of ADHD clinics.
+
+This work was supported by OTKA K108336 grant. Judit Balázs was supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences.
+
+Recently, several studies have focused on attention-deficit/hyperactivity disorder (ADHD) as a possible psychiatric disorder that may serve as a suicide risk factor as well. This paper presents a systematic review of suicidality and ADHD as an extension of previous reviews for the search period and with study questions.
+
+Suicide prevention is a public health issue all over the world. As ADHD is one of the most prevalent psychiatric disorders among children and adolescents and in 40%-60% of the cases, it continues into adulthood. All additional knowledge on the possible association between ADHD and suicidality has high clinical importance and can add to suicide prevention.
+
+Although this systematic review was conducted only for the last four years, the authors still found 26 papers that presented data on ADHD and suicidality.
+
+This systematic review strengthens the finding that ADHD is related to high suicidality in all age groups and in both girls and boys. It highlights that the early recognition and treatment of ADHD - either as a comorbid condition or as a main diagnosis - and the co-occurring psychiatric disorders, can play an important role in the secondary prevention of suicide.
+
+Attention-deficit/hyperactivity disorder: ADHD is a neurodevelopmental disorder with ongoing pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development; Suicidality: It includes suicidal thought, suicidal plan, suicidal attempt and completed suicide; Systematic review: A systematic review is a type of literature review which aims to provide a thorough, complete, exhaustive summary of current literature relevant to a research question.
+
+The authors have reviewed the evidence for an association between ADHD and suicide. This is a descriptive review that does not include meta-analysis.
+
+http://www.ncbi.nlm.nih.gov/pubmed/28401048
