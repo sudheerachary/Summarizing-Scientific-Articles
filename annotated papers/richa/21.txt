@@ -1,0 +1,1661 @@
+Curiosity killed the cat: no evidence of an association between cat ownership and psychotic symptoms at ages 13 and 18 years in a UK general population cohort.
+
+Abstract
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Congenital or early life infection with Toxoplasma gondii has been
+implicated in schizophrenia aetiology. Childhood cat ownership has been hypothesized as
+an intermediary marker of T. gondii infection and, by proxy, as a risk
+factor for later psychosis. Evidence supporting this hypothesis is, however,
+limited.
+
+We used birth cohort data from the Avon Longitudinal Study of Parents and Children
+(ALSPAC) to investigate whether cat ownership in pregnancy and childhood (ages 4 and 10
+years) was associated with psychotic experiences (PEs) in early (age 13,
+N = 6705) and late (age 18, N = 4676) adolescence,
+rated from semi-structured interviews. We used logistic regression to examine
+associations between cat ownership and PEs, adjusting for several sociodemographic and
+socioeconomic factors, household characteristics and dog ownership. Missing data were
+handled via multiple imputation.
+
+Cat ownership during pregnancy was not associated with PEs at age 13 years [adjusted
+odds ratio (OR) 1.15, 95% confidence interval (CI) 0.97–1.35] or 18 years (OR 1.08, 95%
+CI 0.86–1.35). Initial univariable evidence that cat ownership at ages 4 and 10 years
+was associated with PEs at age 13 years did not persist after multivariable adjustment
+(4 years: OR 1.18, 95% CI 0.94–1.48; 10 years: OR 1.12, 95% CI 0.92–1.36). There was no
+evidence that childhood cat ownership was associated with PEs at age 18 years.
+
+While pregnant women should continue to avoid handling soiled cat litter, given
+possible T. gondii exposure, our study strongly indicates that cat
+ownership in pregnancy or early childhood does not confer an increased risk of later
+adolescent PEs.
+
+Introduction
+
+House cats are the primary hosts of Toxoplasma gondii, a protozoan
+parasite that can infect various warm-blooded animals, including humans (Tenter et
+al.
+2000; Webster et al.
+2013). Infection can occur in
+utero or postnatally, via ingestion of either the parasite's oocysts – which might
+be present in soil, water, or food – or tissue cysts from infected animals (e.g. in raw or
+undercooked meat). In intermediate hosts (e.g. humans or animals other than cats), the
+parasite exploits lymphocytes to encroach in muscle tissues and, importantly, the brain,
+where it can form tissue cysts in neurons, microglia, and astrocytes (Carruthers &
+Suzuki, 2007).
+
+Although the evidence is not unequivocal (Sugden et al.
+2016), data from several epidemiological,
+experimental, and animal studies suggests that T. gondii infection may be
+implicated in the aetiology of psychosis. For example, dopaminergic dysfunction and
+cognitive impairments – similar to those observed in people with schizophrenia – have been
+observed in infected rodents (Gaskell et al.
+2009; Prandovszky et al.
+2011; McConkey et al.
+2013) and humans (Kannan & Pletnikov, 2012); these people may also experience hallucinations
+during acute infection with the parasite (Sugden et al.
+2016). A recent meta-analysis of 38 studies found
+that compared with controls, people with schizophrenia were nearly three times more likely
+to be seropositive for T. gondii antibodies [odds ratio (OR) 2.71, 95%
+confidence interval (CI) 1.93–3.80] (Torrey et al.
+2012). Higher seroprevalence and serointensity of
+T. gondii IgG (but not IgM, an indicator of recent infection) in people
+with schizophrenia (Cetinkaya et al.
+2007) and their mothers (Brown et al.
+2005; Mortensen et al.
+2007a) suggest that either early
+life exposure to the parasite, congenital infection, or transmission of maternal antibodies
+could alter neurodevelopment of subsequent offspring.
+
+Assuming a causal relationship between T. gondii infection and later
+psychosis, some researchers have hypothesized that cat ownership should confer an increased
+risk of psychotic disorders (Torrey & Yolken, 1995; Yuksel et al.
+2010; Torrey et al.
+2015). Moreover, this theory has been proposed to
+explain several epidemiological findings, including higher rates of psychotic disorders in
+urban populations (with higher cat densities and subsequent possibility for infection)
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015). Nonetheless, robust empirical evidence supporting this theory remains
+limited. Cat ownership or contact during pregnancy (Kapperud et al.
+1996; Cook et al.
+2000) and childhood (Taylor et al.
+1997) do not appear to be associated with
+T. gondii infection, although handling soiled cat litter is known to be
+associated with infection (Kapperud et al.
+1996). Epidemiological studies which have reported
+an association between cat ownership and psychosis (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), have generally been hindered by notable
+methodological limitations (Wolf & Hamilton, 2015), including reliance on case-control designs that are susceptible to recall
+bias, small ad hoc samples and weak statistical analyses, which have failed
+to adequately account for confounding or missing data.
+
+To overcome these issues, we sought to test whether prenatal and childhood cat ownership
+were associated with an increased risk of developing psychotic experiences (PEs) in early
+and late adolescence, using longitudinal data from the Avon Longitudinal Study of Parents
+and Children (ALSPAC). PEs in adolescence are an established risk factor for later
+schizophrenia, particularly with respect to psychotic symptoms which emerge or persist in
+late adolescence (Poulton et al.
+2000; Fisher et al.
+2013). Since T. gondii infection is
+proposed to increase psychosis risk by affecting early life neurodevelopment (Mortensen
+et al.
+2007b), we restricted cat
+ownership to the prenatal and early childhood period (at age 4 years), although we also
+performed additional analyses using cat ownership at age 10 years to better align with
+previous research (Torrey & Yolken, 1995;
+Torrey et al.
+2000, 2015; Yuksel et al.
+2010).
+
+Method
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Congenital or early life infection with Toxoplasma gondii has been
+implicated in schizophrenia aetiology. Childhood cat ownership has been hypothesized as
+an intermediary marker of T. gondii infection and, by proxy, as a risk
+factor for later psychosis. Evidence supporting this hypothesis is, however,
+limited.
+
+We used birth cohort data from the Avon Longitudinal Study of Parents and Children
+(ALSPAC) to investigate whether cat ownership in pregnancy and childhood (ages 4 and 10
+years) was associated with psychotic experiences (PEs) in early (age 13,
+N = 6705) and late (age 18, N = 4676) adolescence,
+rated from semi-structured interviews. We used logistic regression to examine
+associations between cat ownership and PEs, adjusting for several sociodemographic and
+socioeconomic factors, household characteristics and dog ownership. Missing data were
+handled via multiple imputation.
+
+Cat ownership during pregnancy was not associated with PEs at age 13 years [adjusted
+odds ratio (OR) 1.15, 95% confidence interval (CI) 0.97–1.35] or 18 years (OR 1.08, 95%
+CI 0.86–1.35). Initial univariable evidence that cat ownership at ages 4 and 10 years
+was associated with PEs at age 13 years did not persist after multivariable adjustment
+(4 years: OR 1.18, 95% CI 0.94–1.48; 10 years: OR 1.12, 95% CI 0.92–1.36). There was no
+evidence that childhood cat ownership was associated with PEs at age 18 years.
+
+While pregnant women should continue to avoid handling soiled cat litter, given
+possible T. gondii exposure, our study strongly indicates that cat
+ownership in pregnancy or early childhood does not confer an increased risk of later
+adolescent PEs.
+
+House cats are the primary hosts of Toxoplasma gondii, a protozoan
+parasite that can infect various warm-blooded animals, including humans (Tenter et
+al.
+2000; Webster et al.
+2013). Infection can occur in
+utero or postnatally, via ingestion of either the parasite's oocysts – which might
+be present in soil, water, or food – or tissue cysts from infected animals (e.g. in raw or
+undercooked meat). In intermediate hosts (e.g. humans or animals other than cats), the
+parasite exploits lymphocytes to encroach in muscle tissues and, importantly, the brain,
+where it can form tissue cysts in neurons, microglia, and astrocytes (Carruthers &
+Suzuki, 2007).
+
+Although the evidence is not unequivocal (Sugden et al.
+2016), data from several epidemiological,
+experimental, and animal studies suggests that T. gondii infection may be
+implicated in the aetiology of psychosis. For example, dopaminergic dysfunction and
+cognitive impairments – similar to those observed in people with schizophrenia – have been
+observed in infected rodents (Gaskell et al.
+2009; Prandovszky et al.
+2011; McConkey et al.
+2013) and humans (Kannan & Pletnikov, 2012); these people may also experience hallucinations
+during acute infection with the parasite (Sugden et al.
+2016). A recent meta-analysis of 38 studies found
+that compared with controls, people with schizophrenia were nearly three times more likely
+to be seropositive for T. gondii antibodies [odds ratio (OR) 2.71, 95%
+confidence interval (CI) 1.93–3.80] (Torrey et al.
+2012). Higher seroprevalence and serointensity of
+T. gondii IgG (but not IgM, an indicator of recent infection) in people
+with schizophrenia (Cetinkaya et al.
+2007) and their mothers (Brown et al.
+2005; Mortensen et al.
+2007a) suggest that either early
+life exposure to the parasite, congenital infection, or transmission of maternal antibodies
+could alter neurodevelopment of subsequent offspring.
+
+Assuming a causal relationship between T. gondii infection and later
+psychosis, some researchers have hypothesized that cat ownership should confer an increased
+risk of psychotic disorders (Torrey & Yolken, 1995; Yuksel et al.
+2010; Torrey et al.
+2015). Moreover, this theory has been proposed to
+explain several epidemiological findings, including higher rates of psychotic disorders in
+urban populations (with higher cat densities and subsequent possibility for infection)
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015). Nonetheless, robust empirical evidence supporting this theory remains
+limited. Cat ownership or contact during pregnancy (Kapperud et al.
+1996; Cook et al.
+2000) and childhood (Taylor et al.
+1997) do not appear to be associated with
+T. gondii infection, although handling soiled cat litter is known to be
+associated with infection (Kapperud et al.
+1996). Epidemiological studies which have reported
+an association between cat ownership and psychosis (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), have generally been hindered by notable
+methodological limitations (Wolf & Hamilton, 2015), including reliance on case-control designs that are susceptible to recall
+bias, small ad hoc samples and weak statistical analyses, which have failed
+to adequately account for confounding or missing data.
+
+To overcome these issues, we sought to test whether prenatal and childhood cat ownership
+were associated with an increased risk of developing psychotic experiences (PEs) in early
+and late adolescence, using longitudinal data from the Avon Longitudinal Study of Parents
+and Children (ALSPAC). PEs in adolescence are an established risk factor for later
+schizophrenia, particularly with respect to psychotic symptoms which emerge or persist in
+late adolescence (Poulton et al.
+2000; Fisher et al.
+2013). Since T. gondii infection is
+proposed to increase psychosis risk by affecting early life neurodevelopment (Mortensen
+et al.
+2007b), we restricted cat
+ownership to the prenatal and early childhood period (at age 4 years), although we also
+performed additional analyses using cat ownership at age 10 years to better align with
+previous research (Torrey & Yolken, 1995;
+Torrey et al.
+2000, 2015; Yuksel et al.
+2010).
+Sample
+
+The ALSPAC study invited 16 734 pregnant women expected to deliver between 1 April 1991
+and 31 April 1992 resident in the former county of Avon in the Southwest of England to
+participate; of these, 14 541 (87%) enrolled resulting in 14 062 live births and 13 988
+children alive at age 1 year. The sample was supplemented with 713 additional children
+(whose mothers were originally eligible for the study) during follow-up between the ages
+of 7 and 18 years. More details on recruitment, follow-up assessments and time-points have
+been published elsewhere (Boyd et al.
+2012). All mothers gave informed written consent
+prior to recruitment and the ALSPAC Ethics and Law Committee and the Local Research Ethics
+Committees gave ethical approval for this study.
+
+In this study we included children with complete data on PEs at ages 13
+(N = 6705) and 18 (N = 4676) years. For twin pairs
+(N = 87, 2.6% of the sample at age 12, and N = 42,
+1.8% at age 18), we excluded one sibling (sibling ‘B’) to avoid biasing estimates due to
+shared genetic and environmental exposures; there is no evidence that, in twins, birth
+order is related to schizophrenia risk (Onstad et al.
+1992; Kleinhaus et al.
+2008).
+Exposure variable
+
+Information on pet ownership was reported by mothers via postal questionnaires during
+pregnancy, and subsequently when their child was aged 8, 21, 31 and 47 months. In addition
+to cat ownership, mothers were asked about the number and type of other pets owned,
+including: dogs, rabbits, rodents, birds (all waves), and tortoises and fish (from 21
+months). From these questions we created two primary binary exposure variables, indicating
+whether the mother owned a cat (yes/no): (i) in pregnancy; and (ii) at child's age of 47
+months (~4 years). As a secondary exposure, we employed cat ownership at 10 years (122
+months) in order to create an exposure variable comparable with those used in previous
+studies (Torrey & Yolken, 1995; Torrey
+et al.
+2000, 2015). We did not test whether a dose-response effect existed between duration of
+cat ownership and psychotic symptoms, since the majority (89%) of children who reported
+cat ownership at age 4 years also owned one at ages 8, 21, and 31 months, as reported by
+their mothers.
+Outcome variables
+
+At approximately ages 13 and 18 years, children attended clinic visits where they were
+administered the psychotic-like symptoms interview (PLIKSi), a semi-structured
+interviewer-rated screening assessment for PEs. The PLIKSi contains six questions on
+unusual experiences (i.e. derealization, depersonalization, self-unfamiliarity,
+dysmorphophobia, partial object perception, and other perceptual abnormalities) followed
+by 12 questions adapted from the Diagnostic Interview Schedule for Children version IV
+(DISC-IV; Shaffer et al.
+2000) and the Schedule for Clinical Assessment in
+Neuropsychiatry (SCAN; WHO, 1994). These are
+aimed at assessing the presence of delusions (being spied on, persecuted, having thoughts
+read, reference, control, grandiose ability, and other delusions), hallucinations (visual
+and auditory), and intrusive thoughts (thought broadcasting, insertion and withdrawal)
+(Horwood et al.
+2008). Total scores were recoded into a binary
+variable indicating the absence, or the suspected/definite presence of symptoms,
+consistent with previous investigations of PEs in ALSPAC (Horwood et al.
+2008; Dorrington et al.
+2014). Children whose psychotic symptoms could
+have been attributed to fever or sleep problems were coded as not having the outcome
+(Zammit et al.
+2008, 2009; Dorrington et al.
+2014).
+Other variables
+
+We employed causal diagrams, known as directed acyclic graphs (DAGs; Textor &
+Liśkiewicz, 2011), to identify variables which
+could confound the association between cat ownership and psychotic symptoms. We modelled
+hypothesized associations between a broad initial set of potential child- and mother-based
+variables, cat ownership in either pregnancy or childhood and PEs using the DAGitty
+web-based software (Textor et al.
+2011). Our DAGs (Supplementary Figs S1 and S2)
+suggested that it was inappropriate to control for some of these variables, either because
+they did not meet criteria for confounding (e.g. child gender, stressful life events,
+maternal depression, pet ownership other than dogs), or because adjustment for other
+variables (e.g. paternal age, dog ownership in pregnancy) provided sufficient control for
+any other causal paths (e.g. maternal age, dog ownership at age 4 years). From our DAGs we
+were able to identify the minimal sufficient number of confounders of the relationship
+between exposure to cat ownership in pregnancy and childhood and PEs at ages 13 and 18
+years. These included: child ethnicity (white/non-white – including Black African, Black
+Caribbean, Other Black, Indian, Pakistani, Bangladeshi, Chinese, Other, mixed); paternal
+age (at the time of mother's pregnancy); maternal marital status in pregnancy (single,
+separated, divorced, or widowed/married); highest maternal academic education in pregnancy
+(vocational course/secondary schooling/university degree or higher); maternal social class
+(manual v. non-manual profession); number of house moves up to age 47
+months (~4 years); housing type (detached, semi-detached, terraced/flat, other); household
+crowding index (range 0–1); and dog ownership in pregnancy.
+
+The ALSPAC website contains details of all the data that is available through a fully
+searchable data dictionary (available at: http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/).
+Statistical analyses
+
+We employed cross-tabulations (with χ² tests) and ANOVAs to (i) investigate the presence
+of selective attrition in the sample, by comparing children with and without missing
+outcome data on exposure and confounding variables; (ii) describe the sample and test for
+differences in the distribution of exposure and confounding variables across outcome
+levels. We then fitted univariable and multivariable logistic regression models adjusting
+for all variables identified as relevant confounders using DAGs (Supplementary Figs S1 and
+S2), i.e.: dog ownership in pregnancy; housing type; household crowding; maternal
+education, social class, and marital status; paternal age; number of house moves. When the
+studied exposure was cat ownership in childhood, we further adjusted for maternal cat
+ownership in pregnancy.
+
+Since our primary hypothesis was a null association between cat ownership and psychotic
+symptoms, we conducted power calculations, assuming an alpha of 0.05 to determine the
+effect size we could reasonably expect to detect, had it existed, given our sample sizes.
+Our sample had over 90% power to detect an OR of 1.25 based on the observed exposure
+distribution and sample sizes.
+Missing data
+
+Analyses were based on participants with complete data at age 13
+(N = 6705) and 18 (N = 4676) years. Missing main
+exposures and covariate data varied between 0.04% (pregnancy) to 34.08% (age 4 years), and
+0.02% (pregnancy) to 33.58% (age 4 years) at each time point, respectively (Supplementary
+Table S1).
+
+We used multiple imputation with chained equations (MICE) and the Stata
+ice command (Royston & White, 2011) to impute missing exposure and covariate data, including all observed
+exposure, covariate and outcome data into our multiple imputation (MI) routine, in
+addition to several auxiliary variables which could provide information about missing
+values. These included: gender; stressful life events; maternal depression in pregnancy;
+other pet (rabbit, rodents, turtles, birds, fish) ownership in pregnancy and age 4 years;
+two measures of depressive symptoms at ages 12 and 18 years assessed via self-reported
+with the short moods and feelings questionnaire (SMFQ; Angold et al.
+1995); a continuous measure of IQ assessed during
+a clinical assessment at age 8 years using the Wechsler Intelligence Scale for Children –
+third edition (WISC-3); and a measure of family income at child's age of 33 months. We
+also included a variable indicating maternal history of schizophrenia at birth in light of
+the known genetic heritability of psychosis (Lichtenstein et al.
+2009). We imputed 100 datasets using linear,
+logistic, ordinal logistic, and multinomial logistic models according to the nature of the
+variables whose missing values had to be imputed. As sensitivity analyses we examined the
+association between cat ownership and adolescent PEs in (i) a complete case analysis, to
+assess any possible bias introduced when failing to account for missing data, and (ii)
+using data on the full ALSPAC sample (N = 15 023) with multiple
+imputation on those missing outcome data, to assess possible biases introduced by our main
+choice of multiple imputation.
+
+All analyses were performed using Stata v. 13 (StataCorp, 2013).
+
+Results
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Congenital or early life infection with Toxoplasma gondii has been
+implicated in schizophrenia aetiology. Childhood cat ownership has been hypothesized as
+an intermediary marker of T. gondii infection and, by proxy, as a risk
+factor for later psychosis. Evidence supporting this hypothesis is, however,
+limited.
+
+We used birth cohort data from the Avon Longitudinal Study of Parents and Children
+(ALSPAC) to investigate whether cat ownership in pregnancy and childhood (ages 4 and 10
+years) was associated with psychotic experiences (PEs) in early (age 13,
+N = 6705) and late (age 18, N = 4676) adolescence,
+rated from semi-structured interviews. We used logistic regression to examine
+associations between cat ownership and PEs, adjusting for several sociodemographic and
+socioeconomic factors, household characteristics and dog ownership. Missing data were
+handled via multiple imputation.
+
+Cat ownership during pregnancy was not associated with PEs at age 13 years [adjusted
+odds ratio (OR) 1.15, 95% confidence interval (CI) 0.97–1.35] or 18 years (OR 1.08, 95%
+CI 0.86–1.35). Initial univariable evidence that cat ownership at ages 4 and 10 years
+was associated with PEs at age 13 years did not persist after multivariable adjustment
+(4 years: OR 1.18, 95% CI 0.94–1.48; 10 years: OR 1.12, 95% CI 0.92–1.36). There was no
+evidence that childhood cat ownership was associated with PEs at age 18 years.
+
+While pregnant women should continue to avoid handling soiled cat litter, given
+possible T. gondii exposure, our study strongly indicates that cat
+ownership in pregnancy or early childhood does not confer an increased risk of later
+adolescent PEs.
+
+House cats are the primary hosts of Toxoplasma gondii, a protozoan
+parasite that can infect various warm-blooded animals, including humans (Tenter et
+al.
+2000; Webster et al.
+2013). Infection can occur in
+utero or postnatally, via ingestion of either the parasite's oocysts – which might
+be present in soil, water, or food – or tissue cysts from infected animals (e.g. in raw or
+undercooked meat). In intermediate hosts (e.g. humans or animals other than cats), the
+parasite exploits lymphocytes to encroach in muscle tissues and, importantly, the brain,
+where it can form tissue cysts in neurons, microglia, and astrocytes (Carruthers &
+Suzuki, 2007).
+
+Although the evidence is not unequivocal (Sugden et al.
+2016), data from several epidemiological,
+experimental, and animal studies suggests that T. gondii infection may be
+implicated in the aetiology of psychosis. For example, dopaminergic dysfunction and
+cognitive impairments – similar to those observed in people with schizophrenia – have been
+observed in infected rodents (Gaskell et al.
+2009; Prandovszky et al.
+2011; McConkey et al.
+2013) and humans (Kannan & Pletnikov, 2012); these people may also experience hallucinations
+during acute infection with the parasite (Sugden et al.
+2016). A recent meta-analysis of 38 studies found
+that compared with controls, people with schizophrenia were nearly three times more likely
+to be seropositive for T. gondii antibodies [odds ratio (OR) 2.71, 95%
+confidence interval (CI) 1.93–3.80] (Torrey et al.
+2012). Higher seroprevalence and serointensity of
+T. gondii IgG (but not IgM, an indicator of recent infection) in people
+with schizophrenia (Cetinkaya et al.
+2007) and their mothers (Brown et al.
+2005; Mortensen et al.
+2007a) suggest that either early
+life exposure to the parasite, congenital infection, or transmission of maternal antibodies
+could alter neurodevelopment of subsequent offspring.
+
+Assuming a causal relationship between T. gondii infection and later
+psychosis, some researchers have hypothesized that cat ownership should confer an increased
+risk of psychotic disorders (Torrey & Yolken, 1995; Yuksel et al.
+2010; Torrey et al.
+2015). Moreover, this theory has been proposed to
+explain several epidemiological findings, including higher rates of psychotic disorders in
+urban populations (with higher cat densities and subsequent possibility for infection)
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015). Nonetheless, robust empirical evidence supporting this theory remains
+limited. Cat ownership or contact during pregnancy (Kapperud et al.
+1996; Cook et al.
+2000) and childhood (Taylor et al.
+1997) do not appear to be associated with
+T. gondii infection, although handling soiled cat litter is known to be
+associated with infection (Kapperud et al.
+1996). Epidemiological studies which have reported
+an association between cat ownership and psychosis (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), have generally been hindered by notable
+methodological limitations (Wolf & Hamilton, 2015), including reliance on case-control designs that are susceptible to recall
+bias, small ad hoc samples and weak statistical analyses, which have failed
+to adequately account for confounding or missing data.
+
+To overcome these issues, we sought to test whether prenatal and childhood cat ownership
+were associated with an increased risk of developing psychotic experiences (PEs) in early
+and late adolescence, using longitudinal data from the Avon Longitudinal Study of Parents
+and Children (ALSPAC). PEs in adolescence are an established risk factor for later
+schizophrenia, particularly with respect to psychotic symptoms which emerge or persist in
+late adolescence (Poulton et al.
+2000; Fisher et al.
+2013). Since T. gondii infection is
+proposed to increase psychosis risk by affecting early life neurodevelopment (Mortensen
+et al.
+2007b), we restricted cat
+ownership to the prenatal and early childhood period (at age 4 years), although we also
+performed additional analyses using cat ownership at age 10 years to better align with
+previous research (Torrey & Yolken, 1995;
+Torrey et al.
+2000, 2015; Yuksel et al.
+2010).
+
+The ALSPAC study invited 16 734 pregnant women expected to deliver between 1 April 1991
+and 31 April 1992 resident in the former county of Avon in the Southwest of England to
+participate; of these, 14 541 (87%) enrolled resulting in 14 062 live births and 13 988
+children alive at age 1 year. The sample was supplemented with 713 additional children
+(whose mothers were originally eligible for the study) during follow-up between the ages
+of 7 and 18 years. More details on recruitment, follow-up assessments and time-points have
+been published elsewhere (Boyd et al.
+2012). All mothers gave informed written consent
+prior to recruitment and the ALSPAC Ethics and Law Committee and the Local Research Ethics
+Committees gave ethical approval for this study.
+
+In this study we included children with complete data on PEs at ages 13
+(N = 6705) and 18 (N = 4676) years. For twin pairs
+(N = 87, 2.6% of the sample at age 12, and N = 42,
+1.8% at age 18), we excluded one sibling (sibling ‘B’) to avoid biasing estimates due to
+shared genetic and environmental exposures; there is no evidence that, in twins, birth
+order is related to schizophrenia risk (Onstad et al.
+1992; Kleinhaus et al.
+2008).
+
+Information on pet ownership was reported by mothers via postal questionnaires during
+pregnancy, and subsequently when their child was aged 8, 21, 31 and 47 months. In addition
+to cat ownership, mothers were asked about the number and type of other pets owned,
+including: dogs, rabbits, rodents, birds (all waves), and tortoises and fish (from 21
+months). From these questions we created two primary binary exposure variables, indicating
+whether the mother owned a cat (yes/no): (i) in pregnancy; and (ii) at child's age of 47
+months (~4 years). As a secondary exposure, we employed cat ownership at 10 years (122
+months) in order to create an exposure variable comparable with those used in previous
+studies (Torrey & Yolken, 1995; Torrey
+et al.
+2000, 2015). We did not test whether a dose-response effect existed between duration of
+cat ownership and psychotic symptoms, since the majority (89%) of children who reported
+cat ownership at age 4 years also owned one at ages 8, 21, and 31 months, as reported by
+their mothers.
+
+At approximately ages 13 and 18 years, children attended clinic visits where they were
+administered the psychotic-like symptoms interview (PLIKSi), a semi-structured
+interviewer-rated screening assessment for PEs. The PLIKSi contains six questions on
+unusual experiences (i.e. derealization, depersonalization, self-unfamiliarity,
+dysmorphophobia, partial object perception, and other perceptual abnormalities) followed
+by 12 questions adapted from the Diagnostic Interview Schedule for Children version IV
+(DISC-IV; Shaffer et al.
+2000) and the Schedule for Clinical Assessment in
+Neuropsychiatry (SCAN; WHO, 1994). These are
+aimed at assessing the presence of delusions (being spied on, persecuted, having thoughts
+read, reference, control, grandiose ability, and other delusions), hallucinations (visual
+and auditory), and intrusive thoughts (thought broadcasting, insertion and withdrawal)
+(Horwood et al.
+2008). Total scores were recoded into a binary
+variable indicating the absence, or the suspected/definite presence of symptoms,
+consistent with previous investigations of PEs in ALSPAC (Horwood et al.
+2008; Dorrington et al.
+2014). Children whose psychotic symptoms could
+have been attributed to fever or sleep problems were coded as not having the outcome
+(Zammit et al.
+2008, 2009; Dorrington et al.
+2014).
+
+We employed causal diagrams, known as directed acyclic graphs (DAGs; Textor &
+Liśkiewicz, 2011), to identify variables which
+could confound the association between cat ownership and psychotic symptoms. We modelled
+hypothesized associations between a broad initial set of potential child- and mother-based
+variables, cat ownership in either pregnancy or childhood and PEs using the DAGitty
+web-based software (Textor et al.
+2011). Our DAGs (Supplementary Figs S1 and S2)
+suggested that it was inappropriate to control for some of these variables, either because
+they did not meet criteria for confounding (e.g. child gender, stressful life events,
+maternal depression, pet ownership other than dogs), or because adjustment for other
+variables (e.g. paternal age, dog ownership in pregnancy) provided sufficient control for
+any other causal paths (e.g. maternal age, dog ownership at age 4 years). From our DAGs we
+were able to identify the minimal sufficient number of confounders of the relationship
+between exposure to cat ownership in pregnancy and childhood and PEs at ages 13 and 18
+years. These included: child ethnicity (white/non-white – including Black African, Black
+Caribbean, Other Black, Indian, Pakistani, Bangladeshi, Chinese, Other, mixed); paternal
+age (at the time of mother's pregnancy); maternal marital status in pregnancy (single,
+separated, divorced, or widowed/married); highest maternal academic education in pregnancy
+(vocational course/secondary schooling/university degree or higher); maternal social class
+(manual v. non-manual profession); number of house moves up to age 47
+months (~4 years); housing type (detached, semi-detached, terraced/flat, other); household
+crowding index (range 0–1); and dog ownership in pregnancy.
+
+The ALSPAC website contains details of all the data that is available through a fully
+searchable data dictionary (available at: http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/).
+
+We employed cross-tabulations (with χ² tests) and ANOVAs to (i) investigate the presence
+of selective attrition in the sample, by comparing children with and without missing
+outcome data on exposure and confounding variables; (ii) describe the sample and test for
+differences in the distribution of exposure and confounding variables across outcome
+levels. We then fitted univariable and multivariable logistic regression models adjusting
+for all variables identified as relevant confounders using DAGs (Supplementary Figs S1 and
+S2), i.e.: dog ownership in pregnancy; housing type; household crowding; maternal
+education, social class, and marital status; paternal age; number of house moves. When the
+studied exposure was cat ownership in childhood, we further adjusted for maternal cat
+ownership in pregnancy.
+
+Since our primary hypothesis was a null association between cat ownership and psychotic
+symptoms, we conducted power calculations, assuming an alpha of 0.05 to determine the
+effect size we could reasonably expect to detect, had it existed, given our sample sizes.
+Our sample had over 90% power to detect an OR of 1.25 based on the observed exposure
+distribution and sample sizes.
+
+Analyses were based on participants with complete data at age 13
+(N = 6705) and 18 (N = 4676) years. Missing main
+exposures and covariate data varied between 0.04% (pregnancy) to 34.08% (age 4 years), and
+0.02% (pregnancy) to 33.58% (age 4 years) at each time point, respectively (Supplementary
+Table S1).
+
+We used multiple imputation with chained equations (MICE) and the Stata
+ice command (Royston & White, 2011) to impute missing exposure and covariate data, including all observed
+exposure, covariate and outcome data into our multiple imputation (MI) routine, in
+addition to several auxiliary variables which could provide information about missing
+values. These included: gender; stressful life events; maternal depression in pregnancy;
+other pet (rabbit, rodents, turtles, birds, fish) ownership in pregnancy and age 4 years;
+two measures of depressive symptoms at ages 12 and 18 years assessed via self-reported
+with the short moods and feelings questionnaire (SMFQ; Angold et al.
+1995); a continuous measure of IQ assessed during
+a clinical assessment at age 8 years using the Wechsler Intelligence Scale for Children –
+third edition (WISC-3); and a measure of family income at child's age of 33 months. We
+also included a variable indicating maternal history of schizophrenia at birth in light of
+the known genetic heritability of psychosis (Lichtenstein et al.
+2009). We imputed 100 datasets using linear,
+logistic, ordinal logistic, and multinomial logistic models according to the nature of the
+variables whose missing values had to be imputed. As sensitivity analyses we examined the
+association between cat ownership and adolescent PEs in (i) a complete case analysis, to
+assess any possible bias introduced when failing to account for missing data, and (ii)
+using data on the full ALSPAC sample (N = 15 023) with multiple
+imputation on those missing outcome data, to assess possible biases introduced by our main
+choice of multiple imputation.
+
+All analyses were performed using Stata v. 13 (StataCorp, 2013).
+Missing data
+
+Children with missing outcome data at ages 13 and 18 years were more likely to be boys,
+from a non-white ethnic background, to live in more crowded houses, and have experienced a
+stressful life event by age 4 years. Children with missing data were also more likely to
+have younger parents, and a mother who had suffered from probable depression in pregnancy,
+was less well educated, not married, from a manual occupation, and who had moved house
+more frequently. At ages 13 and 18 years, children whose mother had owned a cat in
+pregnancy were less likely to have missing data, although children whose mother had owned
+a cat in their childhood were more likely to have missing outcome data at age 13 years.
+Participants with missing outcome data at either age were more likely to have a mother who
+owned a dog, a bird, a rabbit, or rodent in pregnancy or during childhood (Supplementary
+Table S1).
+Sample characteristics
+
+A total of 6705 and 4676 children had complete data on psychotic symptoms at ages 13 and
+18 years, respectively, and were therefore included in the analyses. At both ages, the
+majority of each sample was of female gender, white ethnicity, had a mother who had
+completed at least A-levels, was married, non-manual profession, and had moved house
+<3 times during the 4 years prior to pregnancy and age 4 years of the child (Table 1) In both samples, around one third of
+mothers owned a cat during pregnancy, and at 4 and 10 years (Table 1). Among children who owned a cat at age 4 years, between 79%
+and 89% also owned a cat at previous waves of data collection (i.e. at ages 8, 21, and 33
+months). Among those who owned a cat at age 10 years, between 62% and 86% also owned a cat
+at a previous time point (data available from authors). 
+
+Sample characteristics
+
+At age 13 years, a greater proportion of the sample who reported suspected/definite
+psychotic symptoms owned a cat in childhood, were girls, lived in flats and in crowded
+home environments, had moved homes more frequently, and had a mother who was younger, less
+well educated, and of single marital status (Table
+1). Similar patterns were generally observed for the sample at age 18 years (Table 1), although there was no longer any apparent
+association between PEs and number of house moves, while non-manual social class and
+non-white ethnicity were associated with experiencing suspected/definite PEs at this
+age.
+Cat ownership and psychotic symptoms
+
+Cat ownership in pregnancy was not associated with psychotic symptoms at age 13 or 18
+years in either univariable (age 13: OR 1.15, 95% CI 0.97–1.35; age 18; OR 1.08, 95% CI
+0.86–1.35) or in multivariable (age 13: adjusted OR 1.15, 95% CI 0.97–1.36; age 18; OR
+1.08, 95% CI 0.85–1.37) models, following multiple imputation (Table 2). Owning a cat at age 4 years was associated with higher odds
+of having PEs at age 13 years in univariable models (OR 1.23, 95% CI 1.04–1.46), but this
+effect was no longer significant after multivariable adjustment (OR 1.18, 95% CI
+0.94–1.48). There was no evidence that cat ownership at age 4 years was associated with
+PEs at age 18 years (univariable OR 1.11, 95% CI 0.88–1.40; adjusted OR 0.97, 95% CI
+0.71–1.31). These patterns were similar with respect to cat ownership at age 10 years,
+with no apparent association with PEs at age 13 years (OR 1.12, 95% CI 0.92–1.36) or 18
+years (OR 1.08, 95% CI 0.82–1.45) after multivariable adjustment (Table 2). 
+
+Univariable and multivariable odds ratios (OR) and 95% confidence intervals (CI)
+for the association between maternal cat ownership in pregnancy and between the ages
+of 8 months and 4 years of the child and psychotic symptoms (suspected or definite
+v. none) at ages 13 and 18 years (N includes exposure and confounding variables
+imputed with multiple imputation with chained equations, N = 100 imputations)
+Sensitivity analyses
+
+In complete case analyses cat ownership in pregnancy was associated with higher odds of
+PEs at age 13 years in all models (univariable OR 1.31, 95% CI 1.04–1.65; adjusted OR
+1.34, 95% CI 1.06–1.69), as was cat ownership at age 4 years (univariable OR 1.44, 95% CI
+1.13–1.83; adjusted OR 1.47, 95% CI 1.01–2.13). Cat ownership at age 10 years was only
+associated with PEs at age 13 years in univariable models (OR 1.30, 95% CI 1.02–1.66), but
+not in adjusted models. We found no evidence of an association between cat ownership and
+PEs at age 18 years (Supplementary Table S3).
+
+Next, we used the fully imputed dataset to examine the association between cat ownership
+and adolescent PEs on the whole ALSPAC cohort (N = 15 023). The pattern
+of these results (Supplementary Table S4) was very similar to the magnitude, direction and
+general lack of association between cat ownership and adolescent PEs reported in our main
+results based on imputation of exposures and confounders (Table 2). Together these sensitivity analyses suggested that complete
+case analyses may lead to biased risk estimates, while our choice of MI routine did not
+substantially bias our results.
+
+Discussion
+
+We found no evidence that cat ownership in pregnancy or childhood was associated with PEs
+in early and late adolescence using prospectively collected data from a large
+population-based cohort, following control for several confounders and methods that
+investigate the likely impact of missing data.
+
+Our findings in relation to PEs are not consistent with the existing literature that has
+studied cat ownership in people with schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). We suggest that several methodological
+differences between our study and other investigations, including previous reliance on
+small, retrospective, convenience samples, may explain the discrepancy.
+
+Our study was based on PEs in early and late adolescence, unlike other studies which were
+based on a clinical diagnosis of schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). One possible explanation of our null
+findings is that cat ownership does not affect the population expression of psychosis (i.e.
+does not shift the continuum), but operates only to increase risk of threshold symptoms for
+clinical disorder. We consider this explanation unlikely, given that: psychotic symptoms in
+late childhood and adolescence predict onset of non-affective psychosis and other
+psychopathology (Poulton et al.
+2000; Laurens et al.
+2007; Kelleher et al.
+2012; Fisher et al.
+2013) and psychotic symptoms in late adolescence are
+better predictors of future psychopathology. In line with other literature (Kelleher
+et al.
+2012), we observed a decline in the prevalence of
+PEs between ages 13 and 18 years. If symptoms in later adolescence therefore provide a
+greater indication of later clinical disorder (Poulton et al.
+2000; Fisher et al.
+2013) then our results at age 18 (where there was no
+evidence of any association between cat ownership and PEs) may have the strongest
+implications for likely effects of early life cat ownership on clinical disorder.
+
+Unlike previous studies which investigated cat ownership up until ages 10 or 13 years
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015; Yuksel et al.
+2010), we restricted our main exposure variables to
+cat ownership during potentially sensitive windows of neurodevelopment, namely pregnancy and
+at age 4 years (47 months). We included cat ownership at age 10 years as a secondary
+exposure, consistent with previous literature, but our results mirrored those found at age 4
+years, generally indicating an absence of association. Our study was sufficiently powered to
+detect effect sizes previously observed in the schizophrenia literature with respect to cat
+ownership (ORs ⩾1.25) (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), as evidenced by the initial univariable
+associations we only observed between childhood exposure and PEs at age 13 years. While our
+study would have had less power to detect smaller ORs, including those we observed between
+1.04 and 1.15, any such small effects, if true, would not warrant particular public mental
+health attention.
+
+Previous reports of positive associations between cat ownership and schizophrenia may
+therefore have been attributable to Type I error, particularly given the small sample sizes
+and lack of control for confounders inherent to some studies. We adjusted for several,
+theoretically-informed confounders, including ethnicity (Westgarth et al.
+2010; Kirkbride et al.
+2012), maternal academic achievement and social
+class (Mulvany et al.
+2001; Werner et al.
+2007; Westgarth et al.
+2010), and parental age (Sipos et al.
+2004; Lopez-Castroman et al.
+2010; Westgarth et al.
+2010; Petersen et al.
+2011). We also adjusted for number of house moves
+in light of evidence of an association between residential mobility and PEs (Singh
+et al.
+2014), crowding index and housing type as a proxies
+for both social class and greater possibility of contact with T.
+gondii-contaminated litter, and dog ownership as a possible confounder of the
+association between T. gondii infection (given an increased likelihood to
+contaminated soils outdoors) and psychosis risk.
+
+Earlier studies also relied on retrospective recall, and hence the potential of recall
+bias, of cat exposure and did not distinguish between ownership in infancy
+v. later childhood, making it impossible to attribute risk to specific
+periods of cat ownership over the early life-course.
+
+Finally, we employed multiple imputation techniques in order to account for missing data,
+which could have otherwise biased our results. Consistent with guidelines (Sterne et
+al.
+2009), we included all known exposure, outcome,
+covariate and auxiliary variables in MI as well as additional variables which had been
+previously found to be associated with PEs in this sample. Comparing our results with those
+from complete case analyses suggests that selective participation may potentially bias
+estimates, and could therefore explain previous positive findings in the literature (Torrey
+& Yolken, 1995; Torrey et al.
+2000, 2015). This hypothesis is further supported by our results using the fully-imputed
+sample, where no significant associations were found in line with our main findings.
+
+In conclusion, there is good evidence to support an association between T.
+gondii infection and later risk of experiencing psychosis, and this research is
+consistent with possible inflammatory causes of schizophrenia and other psychotic disorders.
+From a public health perspective, however, it is perhaps reassuringly that data from our
+prospective longitudinal study were not consistent with the hypothesis that cat ownership in
+pregnancy or early childhood is a risk factor for later psychosis.
+
+Acknowledgements
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Congenital or early life infection with Toxoplasma gondii has been
+implicated in schizophrenia aetiology. Childhood cat ownership has been hypothesized as
+an intermediary marker of T. gondii infection and, by proxy, as a risk
+factor for later psychosis. Evidence supporting this hypothesis is, however,
+limited.
+
+We used birth cohort data from the Avon Longitudinal Study of Parents and Children
+(ALSPAC) to investigate whether cat ownership in pregnancy and childhood (ages 4 and 10
+years) was associated with psychotic experiences (PEs) in early (age 13,
+N = 6705) and late (age 18, N = 4676) adolescence,
+rated from semi-structured interviews. We used logistic regression to examine
+associations between cat ownership and PEs, adjusting for several sociodemographic and
+socioeconomic factors, household characteristics and dog ownership. Missing data were
+handled via multiple imputation.
+
+Cat ownership during pregnancy was not associated with PEs at age 13 years [adjusted
+odds ratio (OR) 1.15, 95% confidence interval (CI) 0.97–1.35] or 18 years (OR 1.08, 95%
+CI 0.86–1.35). Initial univariable evidence that cat ownership at ages 4 and 10 years
+was associated with PEs at age 13 years did not persist after multivariable adjustment
+(4 years: OR 1.18, 95% CI 0.94–1.48; 10 years: OR 1.12, 95% CI 0.92–1.36). There was no
+evidence that childhood cat ownership was associated with PEs at age 18 years.
+
+While pregnant women should continue to avoid handling soiled cat litter, given
+possible T. gondii exposure, our study strongly indicates that cat
+ownership in pregnancy or early childhood does not confer an increased risk of later
+adolescent PEs.
+
+House cats are the primary hosts of Toxoplasma gondii, a protozoan
+parasite that can infect various warm-blooded animals, including humans (Tenter et
+al.
+2000; Webster et al.
+2013). Infection can occur in
+utero or postnatally, via ingestion of either the parasite's oocysts – which might
+be present in soil, water, or food – or tissue cysts from infected animals (e.g. in raw or
+undercooked meat). In intermediate hosts (e.g. humans or animals other than cats), the
+parasite exploits lymphocytes to encroach in muscle tissues and, importantly, the brain,
+where it can form tissue cysts in neurons, microglia, and astrocytes (Carruthers &
+Suzuki, 2007).
+
+Although the evidence is not unequivocal (Sugden et al.
+2016), data from several epidemiological,
+experimental, and animal studies suggests that T. gondii infection may be
+implicated in the aetiology of psychosis. For example, dopaminergic dysfunction and
+cognitive impairments – similar to those observed in people with schizophrenia – have been
+observed in infected rodents (Gaskell et al.
+2009; Prandovszky et al.
+2011; McConkey et al.
+2013) and humans (Kannan & Pletnikov, 2012); these people may also experience hallucinations
+during acute infection with the parasite (Sugden et al.
+2016). A recent meta-analysis of 38 studies found
+that compared with controls, people with schizophrenia were nearly three times more likely
+to be seropositive for T. gondii antibodies [odds ratio (OR) 2.71, 95%
+confidence interval (CI) 1.93–3.80] (Torrey et al.
+2012). Higher seroprevalence and serointensity of
+T. gondii IgG (but not IgM, an indicator of recent infection) in people
+with schizophrenia (Cetinkaya et al.
+2007) and their mothers (Brown et al.
+2005; Mortensen et al.
+2007a) suggest that either early
+life exposure to the parasite, congenital infection, or transmission of maternal antibodies
+could alter neurodevelopment of subsequent offspring.
+
+Assuming a causal relationship between T. gondii infection and later
+psychosis, some researchers have hypothesized that cat ownership should confer an increased
+risk of psychotic disorders (Torrey & Yolken, 1995; Yuksel et al.
+2010; Torrey et al.
+2015). Moreover, this theory has been proposed to
+explain several epidemiological findings, including higher rates of psychotic disorders in
+urban populations (with higher cat densities and subsequent possibility for infection)
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015). Nonetheless, robust empirical evidence supporting this theory remains
+limited. Cat ownership or contact during pregnancy (Kapperud et al.
+1996; Cook et al.
+2000) and childhood (Taylor et al.
+1997) do not appear to be associated with
+T. gondii infection, although handling soiled cat litter is known to be
+associated with infection (Kapperud et al.
+1996). Epidemiological studies which have reported
+an association between cat ownership and psychosis (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), have generally been hindered by notable
+methodological limitations (Wolf & Hamilton, 2015), including reliance on case-control designs that are susceptible to recall
+bias, small ad hoc samples and weak statistical analyses, which have failed
+to adequately account for confounding or missing data.
+
+To overcome these issues, we sought to test whether prenatal and childhood cat ownership
+were associated with an increased risk of developing psychotic experiences (PEs) in early
+and late adolescence, using longitudinal data from the Avon Longitudinal Study of Parents
+and Children (ALSPAC). PEs in adolescence are an established risk factor for later
+schizophrenia, particularly with respect to psychotic symptoms which emerge or persist in
+late adolescence (Poulton et al.
+2000; Fisher et al.
+2013). Since T. gondii infection is
+proposed to increase psychosis risk by affecting early life neurodevelopment (Mortensen
+et al.
+2007b), we restricted cat
+ownership to the prenatal and early childhood period (at age 4 years), although we also
+performed additional analyses using cat ownership at age 10 years to better align with
+previous research (Torrey & Yolken, 1995;
+Torrey et al.
+2000, 2015; Yuksel et al.
+2010).
+
+The ALSPAC study invited 16 734 pregnant women expected to deliver between 1 April 1991
+and 31 April 1992 resident in the former county of Avon in the Southwest of England to
+participate; of these, 14 541 (87%) enrolled resulting in 14 062 live births and 13 988
+children alive at age 1 year. The sample was supplemented with 713 additional children
+(whose mothers were originally eligible for the study) during follow-up between the ages
+of 7 and 18 years. More details on recruitment, follow-up assessments and time-points have
+been published elsewhere (Boyd et al.
+2012). All mothers gave informed written consent
+prior to recruitment and the ALSPAC Ethics and Law Committee and the Local Research Ethics
+Committees gave ethical approval for this study.
+
+In this study we included children with complete data on PEs at ages 13
+(N = 6705) and 18 (N = 4676) years. For twin pairs
+(N = 87, 2.6% of the sample at age 12, and N = 42,
+1.8% at age 18), we excluded one sibling (sibling ‘B’) to avoid biasing estimates due to
+shared genetic and environmental exposures; there is no evidence that, in twins, birth
+order is related to schizophrenia risk (Onstad et al.
+1992; Kleinhaus et al.
+2008).
+
+Information on pet ownership was reported by mothers via postal questionnaires during
+pregnancy, and subsequently when their child was aged 8, 21, 31 and 47 months. In addition
+to cat ownership, mothers were asked about the number and type of other pets owned,
+including: dogs, rabbits, rodents, birds (all waves), and tortoises and fish (from 21
+months). From these questions we created two primary binary exposure variables, indicating
+whether the mother owned a cat (yes/no): (i) in pregnancy; and (ii) at child's age of 47
+months (~4 years). As a secondary exposure, we employed cat ownership at 10 years (122
+months) in order to create an exposure variable comparable with those used in previous
+studies (Torrey & Yolken, 1995; Torrey
+et al.
+2000, 2015). We did not test whether a dose-response effect existed between duration of
+cat ownership and psychotic symptoms, since the majority (89%) of children who reported
+cat ownership at age 4 years also owned one at ages 8, 21, and 31 months, as reported by
+their mothers.
+
+At approximately ages 13 and 18 years, children attended clinic visits where they were
+administered the psychotic-like symptoms interview (PLIKSi), a semi-structured
+interviewer-rated screening assessment for PEs. The PLIKSi contains six questions on
+unusual experiences (i.e. derealization, depersonalization, self-unfamiliarity,
+dysmorphophobia, partial object perception, and other perceptual abnormalities) followed
+by 12 questions adapted from the Diagnostic Interview Schedule for Children version IV
+(DISC-IV; Shaffer et al.
+2000) and the Schedule for Clinical Assessment in
+Neuropsychiatry (SCAN; WHO, 1994). These are
+aimed at assessing the presence of delusions (being spied on, persecuted, having thoughts
+read, reference, control, grandiose ability, and other delusions), hallucinations (visual
+and auditory), and intrusive thoughts (thought broadcasting, insertion and withdrawal)
+(Horwood et al.
+2008). Total scores were recoded into a binary
+variable indicating the absence, or the suspected/definite presence of symptoms,
+consistent with previous investigations of PEs in ALSPAC (Horwood et al.
+2008; Dorrington et al.
+2014). Children whose psychotic symptoms could
+have been attributed to fever or sleep problems were coded as not having the outcome
+(Zammit et al.
+2008, 2009; Dorrington et al.
+2014).
+
+We employed causal diagrams, known as directed acyclic graphs (DAGs; Textor &
+Liśkiewicz, 2011), to identify variables which
+could confound the association between cat ownership and psychotic symptoms. We modelled
+hypothesized associations between a broad initial set of potential child- and mother-based
+variables, cat ownership in either pregnancy or childhood and PEs using the DAGitty
+web-based software (Textor et al.
+2011). Our DAGs (Supplementary Figs S1 and S2)
+suggested that it was inappropriate to control for some of these variables, either because
+they did not meet criteria for confounding (e.g. child gender, stressful life events,
+maternal depression, pet ownership other than dogs), or because adjustment for other
+variables (e.g. paternal age, dog ownership in pregnancy) provided sufficient control for
+any other causal paths (e.g. maternal age, dog ownership at age 4 years). From our DAGs we
+were able to identify the minimal sufficient number of confounders of the relationship
+between exposure to cat ownership in pregnancy and childhood and PEs at ages 13 and 18
+years. These included: child ethnicity (white/non-white – including Black African, Black
+Caribbean, Other Black, Indian, Pakistani, Bangladeshi, Chinese, Other, mixed); paternal
+age (at the time of mother's pregnancy); maternal marital status in pregnancy (single,
+separated, divorced, or widowed/married); highest maternal academic education in pregnancy
+(vocational course/secondary schooling/university degree or higher); maternal social class
+(manual v. non-manual profession); number of house moves up to age 47
+months (~4 years); housing type (detached, semi-detached, terraced/flat, other); household
+crowding index (range 0–1); and dog ownership in pregnancy.
+
+The ALSPAC website contains details of all the data that is available through a fully
+searchable data dictionary (available at: http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/).
+
+We employed cross-tabulations (with χ² tests) and ANOVAs to (i) investigate the presence
+of selective attrition in the sample, by comparing children with and without missing
+outcome data on exposure and confounding variables; (ii) describe the sample and test for
+differences in the distribution of exposure and confounding variables across outcome
+levels. We then fitted univariable and multivariable logistic regression models adjusting
+for all variables identified as relevant confounders using DAGs (Supplementary Figs S1 and
+S2), i.e.: dog ownership in pregnancy; housing type; household crowding; maternal
+education, social class, and marital status; paternal age; number of house moves. When the
+studied exposure was cat ownership in childhood, we further adjusted for maternal cat
+ownership in pregnancy.
+
+Since our primary hypothesis was a null association between cat ownership and psychotic
+symptoms, we conducted power calculations, assuming an alpha of 0.05 to determine the
+effect size we could reasonably expect to detect, had it existed, given our sample sizes.
+Our sample had over 90% power to detect an OR of 1.25 based on the observed exposure
+distribution and sample sizes.
+
+Analyses were based on participants with complete data at age 13
+(N = 6705) and 18 (N = 4676) years. Missing main
+exposures and covariate data varied between 0.04% (pregnancy) to 34.08% (age 4 years), and
+0.02% (pregnancy) to 33.58% (age 4 years) at each time point, respectively (Supplementary
+Table S1).
+
+We used multiple imputation with chained equations (MICE) and the Stata
+ice command (Royston & White, 2011) to impute missing exposure and covariate data, including all observed
+exposure, covariate and outcome data into our multiple imputation (MI) routine, in
+addition to several auxiliary variables which could provide information about missing
+values. These included: gender; stressful life events; maternal depression in pregnancy;
+other pet (rabbit, rodents, turtles, birds, fish) ownership in pregnancy and age 4 years;
+two measures of depressive symptoms at ages 12 and 18 years assessed via self-reported
+with the short moods and feelings questionnaire (SMFQ; Angold et al.
+1995); a continuous measure of IQ assessed during
+a clinical assessment at age 8 years using the Wechsler Intelligence Scale for Children –
+third edition (WISC-3); and a measure of family income at child's age of 33 months. We
+also included a variable indicating maternal history of schizophrenia at birth in light of
+the known genetic heritability of psychosis (Lichtenstein et al.
+2009). We imputed 100 datasets using linear,
+logistic, ordinal logistic, and multinomial logistic models according to the nature of the
+variables whose missing values had to be imputed. As sensitivity analyses we examined the
+association between cat ownership and adolescent PEs in (i) a complete case analysis, to
+assess any possible bias introduced when failing to account for missing data, and (ii)
+using data on the full ALSPAC sample (N = 15 023) with multiple
+imputation on those missing outcome data, to assess possible biases introduced by our main
+choice of multiple imputation.
+
+All analyses were performed using Stata v. 13 (StataCorp, 2013).
+
+Children with missing outcome data at ages 13 and 18 years were more likely to be boys,
+from a non-white ethnic background, to live in more crowded houses, and have experienced a
+stressful life event by age 4 years. Children with missing data were also more likely to
+have younger parents, and a mother who had suffered from probable depression in pregnancy,
+was less well educated, not married, from a manual occupation, and who had moved house
+more frequently. At ages 13 and 18 years, children whose mother had owned a cat in
+pregnancy were less likely to have missing data, although children whose mother had owned
+a cat in their childhood were more likely to have missing outcome data at age 13 years.
+Participants with missing outcome data at either age were more likely to have a mother who
+owned a dog, a bird, a rabbit, or rodent in pregnancy or during childhood (Supplementary
+Table S1).
+
+A total of 6705 and 4676 children had complete data on psychotic symptoms at ages 13 and
+18 years, respectively, and were therefore included in the analyses. At both ages, the
+majority of each sample was of female gender, white ethnicity, had a mother who had
+completed at least A-levels, was married, non-manual profession, and had moved house
+<3 times during the 4 years prior to pregnancy and age 4 years of the child (Table 1) In both samples, around one third of
+mothers owned a cat during pregnancy, and at 4 and 10 years (Table 1). Among children who owned a cat at age 4 years, between 79%
+and 89% also owned a cat at previous waves of data collection (i.e. at ages 8, 21, and 33
+months). Among those who owned a cat at age 10 years, between 62% and 86% also owned a cat
+at a previous time point (data available from authors). 
+
+Sample characteristics
+
+At age 13 years, a greater proportion of the sample who reported suspected/definite
+psychotic symptoms owned a cat in childhood, were girls, lived in flats and in crowded
+home environments, had moved homes more frequently, and had a mother who was younger, less
+well educated, and of single marital status (Table
+1). Similar patterns were generally observed for the sample at age 18 years (Table 1), although there was no longer any apparent
+association between PEs and number of house moves, while non-manual social class and
+non-white ethnicity were associated with experiencing suspected/definite PEs at this
+age.
+
+Cat ownership in pregnancy was not associated with psychotic symptoms at age 13 or 18
+years in either univariable (age 13: OR 1.15, 95% CI 0.97–1.35; age 18; OR 1.08, 95% CI
+0.86–1.35) or in multivariable (age 13: adjusted OR 1.15, 95% CI 0.97–1.36; age 18; OR
+1.08, 95% CI 0.85–1.37) models, following multiple imputation (Table 2). Owning a cat at age 4 years was associated with higher odds
+of having PEs at age 13 years in univariable models (OR 1.23, 95% CI 1.04–1.46), but this
+effect was no longer significant after multivariable adjustment (OR 1.18, 95% CI
+0.94–1.48). There was no evidence that cat ownership at age 4 years was associated with
+PEs at age 18 years (univariable OR 1.11, 95% CI 0.88–1.40; adjusted OR 0.97, 95% CI
+0.71–1.31). These patterns were similar with respect to cat ownership at age 10 years,
+with no apparent association with PEs at age 13 years (OR 1.12, 95% CI 0.92–1.36) or 18
+years (OR 1.08, 95% CI 0.82–1.45) after multivariable adjustment (Table 2). 
+
+Univariable and multivariable odds ratios (OR) and 95% confidence intervals (CI)
+for the association between maternal cat ownership in pregnancy and between the ages
+of 8 months and 4 years of the child and psychotic symptoms (suspected or definite
+v. none) at ages 13 and 18 years (N includes exposure and confounding variables
+imputed with multiple imputation with chained equations, N = 100 imputations)
+
+In complete case analyses cat ownership in pregnancy was associated with higher odds of
+PEs at age 13 years in all models (univariable OR 1.31, 95% CI 1.04–1.65; adjusted OR
+1.34, 95% CI 1.06–1.69), as was cat ownership at age 4 years (univariable OR 1.44, 95% CI
+1.13–1.83; adjusted OR 1.47, 95% CI 1.01–2.13). Cat ownership at age 10 years was only
+associated with PEs at age 13 years in univariable models (OR 1.30, 95% CI 1.02–1.66), but
+not in adjusted models. We found no evidence of an association between cat ownership and
+PEs at age 18 years (Supplementary Table S3).
+
+Next, we used the fully imputed dataset to examine the association between cat ownership
+and adolescent PEs on the whole ALSPAC cohort (N = 15 023). The pattern
+of these results (Supplementary Table S4) was very similar to the magnitude, direction and
+general lack of association between cat ownership and adolescent PEs reported in our main
+results based on imputation of exposures and confounders (Table 2). Together these sensitivity analyses suggested that complete
+case analyses may lead to biased risk estimates, while our choice of MI routine did not
+substantially bias our results.
+
+We found no evidence that cat ownership in pregnancy or childhood was associated with PEs
+in early and late adolescence using prospectively collected data from a large
+population-based cohort, following control for several confounders and methods that
+investigate the likely impact of missing data.
+
+Our findings in relation to PEs are not consistent with the existing literature that has
+studied cat ownership in people with schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). We suggest that several methodological
+differences between our study and other investigations, including previous reliance on
+small, retrospective, convenience samples, may explain the discrepancy.
+
+Our study was based on PEs in early and late adolescence, unlike other studies which were
+based on a clinical diagnosis of schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). One possible explanation of our null
+findings is that cat ownership does not affect the population expression of psychosis (i.e.
+does not shift the continuum), but operates only to increase risk of threshold symptoms for
+clinical disorder. We consider this explanation unlikely, given that: psychotic symptoms in
+late childhood and adolescence predict onset of non-affective psychosis and other
+psychopathology (Poulton et al.
+2000; Laurens et al.
+2007; Kelleher et al.
+2012; Fisher et al.
+2013) and psychotic symptoms in late adolescence are
+better predictors of future psychopathology. In line with other literature (Kelleher
+et al.
+2012), we observed a decline in the prevalence of
+PEs between ages 13 and 18 years. If symptoms in later adolescence therefore provide a
+greater indication of later clinical disorder (Poulton et al.
+2000; Fisher et al.
+2013) then our results at age 18 (where there was no
+evidence of any association between cat ownership and PEs) may have the strongest
+implications for likely effects of early life cat ownership on clinical disorder.
+
+Unlike previous studies which investigated cat ownership up until ages 10 or 13 years
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015; Yuksel et al.
+2010), we restricted our main exposure variables to
+cat ownership during potentially sensitive windows of neurodevelopment, namely pregnancy and
+at age 4 years (47 months). We included cat ownership at age 10 years as a secondary
+exposure, consistent with previous literature, but our results mirrored those found at age 4
+years, generally indicating an absence of association. Our study was sufficiently powered to
+detect effect sizes previously observed in the schizophrenia literature with respect to cat
+ownership (ORs ⩾1.25) (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), as evidenced by the initial univariable
+associations we only observed between childhood exposure and PEs at age 13 years. While our
+study would have had less power to detect smaller ORs, including those we observed between
+1.04 and 1.15, any such small effects, if true, would not warrant particular public mental
+health attention.
+
+Previous reports of positive associations between cat ownership and schizophrenia may
+therefore have been attributable to Type I error, particularly given the small sample sizes
+and lack of control for confounders inherent to some studies. We adjusted for several,
+theoretically-informed confounders, including ethnicity (Westgarth et al.
+2010; Kirkbride et al.
+2012), maternal academic achievement and social
+class (Mulvany et al.
+2001; Werner et al.
+2007; Westgarth et al.
+2010), and parental age (Sipos et al.
+2004; Lopez-Castroman et al.
+2010; Westgarth et al.
+2010; Petersen et al.
+2011). We also adjusted for number of house moves
+in light of evidence of an association between residential mobility and PEs (Singh
+et al.
+2014), crowding index and housing type as a proxies
+for both social class and greater possibility of contact with T.
+gondii-contaminated litter, and dog ownership as a possible confounder of the
+association between T. gondii infection (given an increased likelihood to
+contaminated soils outdoors) and psychosis risk.
+
+Earlier studies also relied on retrospective recall, and hence the potential of recall
+bias, of cat exposure and did not distinguish between ownership in infancy
+v. later childhood, making it impossible to attribute risk to specific
+periods of cat ownership over the early life-course.
+
+Finally, we employed multiple imputation techniques in order to account for missing data,
+which could have otherwise biased our results. Consistent with guidelines (Sterne et
+al.
+2009), we included all known exposure, outcome,
+covariate and auxiliary variables in MI as well as additional variables which had been
+previously found to be associated with PEs in this sample. Comparing our results with those
+from complete case analyses suggests that selective participation may potentially bias
+estimates, and could therefore explain previous positive findings in the literature (Torrey
+& Yolken, 1995; Torrey et al.
+2000, 2015). This hypothesis is further supported by our results using the fully-imputed
+sample, where no significant associations were found in line with our main findings.
+
+In conclusion, there is good evidence to support an association between T.
+gondii infection and later risk of experiencing psychosis, and this research is
+consistent with possible inflammatory causes of schizophrenia and other psychotic disorders.
+From a public health perspective, however, it is perhaps reassuringly that data from our
+prospective longitudinal study were not consistent with the hypothesis that cat ownership in
+pregnancy or early childhood is a risk factor for later psychosis.
+
+Dr James Kirkbride and Dr Francesca Solmi are supported by a Sir Henry Dale Fellowship to
+J.B.K., jointly funded by the Wellcome Trust and the Royal Society (grant no.
+101272/Z/13/Z). The UK Medical Research Council and the Wellcome Trust (grant ref.
+102215/2/13/2; grant ref. GR072043MA MRC G0701503) and the University of Bristol provide
+core support for ALSPAC. This publication is the work of the authors and will serve as
+guarantors for the contents of this paper. We are extremely grateful to all the families who
+took part in this study, the midwives for their help in recruiting them, and the whole
+ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical
+workers, research scientists, volunteers, managers, receptionists and nurses.
+
+Declaration of Interest
+
+F.S., J.F.H., G.L., and J.B.K. currently own or have owned cats (F.S., J.F.H., and J.B.K.
+N = 1; G.L. N = 2), but declare that the latter did not
+have a role in the formulation of the study hypothesis.
+
+References
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Division of Psychiatry, University College
+London, London, UK
+
+Congenital or early life infection with Toxoplasma gondii has been
+implicated in schizophrenia aetiology. Childhood cat ownership has been hypothesized as
+an intermediary marker of T. gondii infection and, by proxy, as a risk
+factor for later psychosis. Evidence supporting this hypothesis is, however,
+limited.
+
+We used birth cohort data from the Avon Longitudinal Study of Parents and Children
+(ALSPAC) to investigate whether cat ownership in pregnancy and childhood (ages 4 and 10
+years) was associated with psychotic experiences (PEs) in early (age 13,
+N = 6705) and late (age 18, N = 4676) adolescence,
+rated from semi-structured interviews. We used logistic regression to examine
+associations between cat ownership and PEs, adjusting for several sociodemographic and
+socioeconomic factors, household characteristics and dog ownership. Missing data were
+handled via multiple imputation.
+
+Cat ownership during pregnancy was not associated with PEs at age 13 years [adjusted
+odds ratio (OR) 1.15, 95% confidence interval (CI) 0.97–1.35] or 18 years (OR 1.08, 95%
+CI 0.86–1.35). Initial univariable evidence that cat ownership at ages 4 and 10 years
+was associated with PEs at age 13 years did not persist after multivariable adjustment
+(4 years: OR 1.18, 95% CI 0.94–1.48; 10 years: OR 1.12, 95% CI 0.92–1.36). There was no
+evidence that childhood cat ownership was associated with PEs at age 18 years.
+
+While pregnant women should continue to avoid handling soiled cat litter, given
+possible T. gondii exposure, our study strongly indicates that cat
+ownership in pregnancy or early childhood does not confer an increased risk of later
+adolescent PEs.
+
+House cats are the primary hosts of Toxoplasma gondii, a protozoan
+parasite that can infect various warm-blooded animals, including humans (Tenter et
+al.
+2000; Webster et al.
+2013). Infection can occur in
+utero or postnatally, via ingestion of either the parasite's oocysts – which might
+be present in soil, water, or food – or tissue cysts from infected animals (e.g. in raw or
+undercooked meat). In intermediate hosts (e.g. humans or animals other than cats), the
+parasite exploits lymphocytes to encroach in muscle tissues and, importantly, the brain,
+where it can form tissue cysts in neurons, microglia, and astrocytes (Carruthers &
+Suzuki, 2007).
+
+Although the evidence is not unequivocal (Sugden et al.
+2016), data from several epidemiological,
+experimental, and animal studies suggests that T. gondii infection may be
+implicated in the aetiology of psychosis. For example, dopaminergic dysfunction and
+cognitive impairments – similar to those observed in people with schizophrenia – have been
+observed in infected rodents (Gaskell et al.
+2009; Prandovszky et al.
+2011; McConkey et al.
+2013) and humans (Kannan & Pletnikov, 2012); these people may also experience hallucinations
+during acute infection with the parasite (Sugden et al.
+2016). A recent meta-analysis of 38 studies found
+that compared with controls, people with schizophrenia were nearly three times more likely
+to be seropositive for T. gondii antibodies [odds ratio (OR) 2.71, 95%
+confidence interval (CI) 1.93–3.80] (Torrey et al.
+2012). Higher seroprevalence and serointensity of
+T. gondii IgG (but not IgM, an indicator of recent infection) in people
+with schizophrenia (Cetinkaya et al.
+2007) and their mothers (Brown et al.
+2005; Mortensen et al.
+2007a) suggest that either early
+life exposure to the parasite, congenital infection, or transmission of maternal antibodies
+could alter neurodevelopment of subsequent offspring.
+
+Assuming a causal relationship between T. gondii infection and later
+psychosis, some researchers have hypothesized that cat ownership should confer an increased
+risk of psychotic disorders (Torrey & Yolken, 1995; Yuksel et al.
+2010; Torrey et al.
+2015). Moreover, this theory has been proposed to
+explain several epidemiological findings, including higher rates of psychotic disorders in
+urban populations (with higher cat densities and subsequent possibility for infection)
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015). Nonetheless, robust empirical evidence supporting this theory remains
+limited. Cat ownership or contact during pregnancy (Kapperud et al.
+1996; Cook et al.
+2000) and childhood (Taylor et al.
+1997) do not appear to be associated with
+T. gondii infection, although handling soiled cat litter is known to be
+associated with infection (Kapperud et al.
+1996). Epidemiological studies which have reported
+an association between cat ownership and psychosis (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), have generally been hindered by notable
+methodological limitations (Wolf & Hamilton, 2015), including reliance on case-control designs that are susceptible to recall
+bias, small ad hoc samples and weak statistical analyses, which have failed
+to adequately account for confounding or missing data.
+
+To overcome these issues, we sought to test whether prenatal and childhood cat ownership
+were associated with an increased risk of developing psychotic experiences (PEs) in early
+and late adolescence, using longitudinal data from the Avon Longitudinal Study of Parents
+and Children (ALSPAC). PEs in adolescence are an established risk factor for later
+schizophrenia, particularly with respect to psychotic symptoms which emerge or persist in
+late adolescence (Poulton et al.
+2000; Fisher et al.
+2013). Since T. gondii infection is
+proposed to increase psychosis risk by affecting early life neurodevelopment (Mortensen
+et al.
+2007b), we restricted cat
+ownership to the prenatal and early childhood period (at age 4 years), although we also
+performed additional analyses using cat ownership at age 10 years to better align with
+previous research (Torrey & Yolken, 1995;
+Torrey et al.
+2000, 2015; Yuksel et al.
+2010).
+
+The ALSPAC study invited 16 734 pregnant women expected to deliver between 1 April 1991
+and 31 April 1992 resident in the former county of Avon in the Southwest of England to
+participate; of these, 14 541 (87%) enrolled resulting in 14 062 live births and 13 988
+children alive at age 1 year. The sample was supplemented with 713 additional children
+(whose mothers were originally eligible for the study) during follow-up between the ages
+of 7 and 18 years. More details on recruitment, follow-up assessments and time-points have
+been published elsewhere (Boyd et al.
+2012). All mothers gave informed written consent
+prior to recruitment and the ALSPAC Ethics and Law Committee and the Local Research Ethics
+Committees gave ethical approval for this study.
+
+In this study we included children with complete data on PEs at ages 13
+(N = 6705) and 18 (N = 4676) years. For twin pairs
+(N = 87, 2.6% of the sample at age 12, and N = 42,
+1.8% at age 18), we excluded one sibling (sibling ‘B’) to avoid biasing estimates due to
+shared genetic and environmental exposures; there is no evidence that, in twins, birth
+order is related to schizophrenia risk (Onstad et al.
+1992; Kleinhaus et al.
+2008).
+
+Information on pet ownership was reported by mothers via postal questionnaires during
+pregnancy, and subsequently when their child was aged 8, 21, 31 and 47 months. In addition
+to cat ownership, mothers were asked about the number and type of other pets owned,
+including: dogs, rabbits, rodents, birds (all waves), and tortoises and fish (from 21
+months). From these questions we created two primary binary exposure variables, indicating
+whether the mother owned a cat (yes/no): (i) in pregnancy; and (ii) at child's age of 47
+months (~4 years). As a secondary exposure, we employed cat ownership at 10 years (122
+months) in order to create an exposure variable comparable with those used in previous
+studies (Torrey & Yolken, 1995; Torrey
+et al.
+2000, 2015). We did not test whether a dose-response effect existed between duration of
+cat ownership and psychotic symptoms, since the majority (89%) of children who reported
+cat ownership at age 4 years also owned one at ages 8, 21, and 31 months, as reported by
+their mothers.
+
+At approximately ages 13 and 18 years, children attended clinic visits where they were
+administered the psychotic-like symptoms interview (PLIKSi), a semi-structured
+interviewer-rated screening assessment for PEs. The PLIKSi contains six questions on
+unusual experiences (i.e. derealization, depersonalization, self-unfamiliarity,
+dysmorphophobia, partial object perception, and other perceptual abnormalities) followed
+by 12 questions adapted from the Diagnostic Interview Schedule for Children version IV
+(DISC-IV; Shaffer et al.
+2000) and the Schedule for Clinical Assessment in
+Neuropsychiatry (SCAN; WHO, 1994). These are
+aimed at assessing the presence of delusions (being spied on, persecuted, having thoughts
+read, reference, control, grandiose ability, and other delusions), hallucinations (visual
+and auditory), and intrusive thoughts (thought broadcasting, insertion and withdrawal)
+(Horwood et al.
+2008). Total scores were recoded into a binary
+variable indicating the absence, or the suspected/definite presence of symptoms,
+consistent with previous investigations of PEs in ALSPAC (Horwood et al.
+2008; Dorrington et al.
+2014). Children whose psychotic symptoms could
+have been attributed to fever or sleep problems were coded as not having the outcome
+(Zammit et al.
+2008, 2009; Dorrington et al.
+2014).
+
+We employed causal diagrams, known as directed acyclic graphs (DAGs; Textor &
+Liśkiewicz, 2011), to identify variables which
+could confound the association between cat ownership and psychotic symptoms. We modelled
+hypothesized associations between a broad initial set of potential child- and mother-based
+variables, cat ownership in either pregnancy or childhood and PEs using the DAGitty
+web-based software (Textor et al.
+2011). Our DAGs (Supplementary Figs S1 and S2)
+suggested that it was inappropriate to control for some of these variables, either because
+they did not meet criteria for confounding (e.g. child gender, stressful life events,
+maternal depression, pet ownership other than dogs), or because adjustment for other
+variables (e.g. paternal age, dog ownership in pregnancy) provided sufficient control for
+any other causal paths (e.g. maternal age, dog ownership at age 4 years). From our DAGs we
+were able to identify the minimal sufficient number of confounders of the relationship
+between exposure to cat ownership in pregnancy and childhood and PEs at ages 13 and 18
+years. These included: child ethnicity (white/non-white – including Black African, Black
+Caribbean, Other Black, Indian, Pakistani, Bangladeshi, Chinese, Other, mixed); paternal
+age (at the time of mother's pregnancy); maternal marital status in pregnancy (single,
+separated, divorced, or widowed/married); highest maternal academic education in pregnancy
+(vocational course/secondary schooling/university degree or higher); maternal social class
+(manual v. non-manual profession); number of house moves up to age 47
+months (~4 years); housing type (detached, semi-detached, terraced/flat, other); household
+crowding index (range 0–1); and dog ownership in pregnancy.
+
+The ALSPAC website contains details of all the data that is available through a fully
+searchable data dictionary (available at: http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/).
+
+We employed cross-tabulations (with χ² tests) and ANOVAs to (i) investigate the presence
+of selective attrition in the sample, by comparing children with and without missing
+outcome data on exposure and confounding variables; (ii) describe the sample and test for
+differences in the distribution of exposure and confounding variables across outcome
+levels. We then fitted univariable and multivariable logistic regression models adjusting
+for all variables identified as relevant confounders using DAGs (Supplementary Figs S1 and
+S2), i.e.: dog ownership in pregnancy; housing type; household crowding; maternal
+education, social class, and marital status; paternal age; number of house moves. When the
+studied exposure was cat ownership in childhood, we further adjusted for maternal cat
+ownership in pregnancy.
+
+Since our primary hypothesis was a null association between cat ownership and psychotic
+symptoms, we conducted power calculations, assuming an alpha of 0.05 to determine the
+effect size we could reasonably expect to detect, had it existed, given our sample sizes.
+Our sample had over 90% power to detect an OR of 1.25 based on the observed exposure
+distribution and sample sizes.
+
+Analyses were based on participants with complete data at age 13
+(N = 6705) and 18 (N = 4676) years. Missing main
+exposures and covariate data varied between 0.04% (pregnancy) to 34.08% (age 4 years), and
+0.02% (pregnancy) to 33.58% (age 4 years) at each time point, respectively (Supplementary
+Table S1).
+
+We used multiple imputation with chained equations (MICE) and the Stata
+ice command (Royston & White, 2011) to impute missing exposure and covariate data, including all observed
+exposure, covariate and outcome data into our multiple imputation (MI) routine, in
+addition to several auxiliary variables which could provide information about missing
+values. These included: gender; stressful life events; maternal depression in pregnancy;
+other pet (rabbit, rodents, turtles, birds, fish) ownership in pregnancy and age 4 years;
+two measures of depressive symptoms at ages 12 and 18 years assessed via self-reported
+with the short moods and feelings questionnaire (SMFQ; Angold et al.
+1995); a continuous measure of IQ assessed during
+a clinical assessment at age 8 years using the Wechsler Intelligence Scale for Children –
+third edition (WISC-3); and a measure of family income at child's age of 33 months. We
+also included a variable indicating maternal history of schizophrenia at birth in light of
+the known genetic heritability of psychosis (Lichtenstein et al.
+2009). We imputed 100 datasets using linear,
+logistic, ordinal logistic, and multinomial logistic models according to the nature of the
+variables whose missing values had to be imputed. As sensitivity analyses we examined the
+association between cat ownership and adolescent PEs in (i) a complete case analysis, to
+assess any possible bias introduced when failing to account for missing data, and (ii)
+using data on the full ALSPAC sample (N = 15 023) with multiple
+imputation on those missing outcome data, to assess possible biases introduced by our main
+choice of multiple imputation.
+
+All analyses were performed using Stata v. 13 (StataCorp, 2013).
+
+Children with missing outcome data at ages 13 and 18 years were more likely to be boys,
+from a non-white ethnic background, to live in more crowded houses, and have experienced a
+stressful life event by age 4 years. Children with missing data were also more likely to
+have younger parents, and a mother who had suffered from probable depression in pregnancy,
+was less well educated, not married, from a manual occupation, and who had moved house
+more frequently. At ages 13 and 18 years, children whose mother had owned a cat in
+pregnancy were less likely to have missing data, although children whose mother had owned
+a cat in their childhood were more likely to have missing outcome data at age 13 years.
+Participants with missing outcome data at either age were more likely to have a mother who
+owned a dog, a bird, a rabbit, or rodent in pregnancy or during childhood (Supplementary
+Table S1).
+
+A total of 6705 and 4676 children had complete data on psychotic symptoms at ages 13 and
+18 years, respectively, and were therefore included in the analyses. At both ages, the
+majority of each sample was of female gender, white ethnicity, had a mother who had
+completed at least A-levels, was married, non-manual profession, and had moved house
+<3 times during the 4 years prior to pregnancy and age 4 years of the child (Table 1) In both samples, around one third of
+mothers owned a cat during pregnancy, and at 4 and 10 years (Table 1). Among children who owned a cat at age 4 years, between 79%
+and 89% also owned a cat at previous waves of data collection (i.e. at ages 8, 21, and 33
+months). Among those who owned a cat at age 10 years, between 62% and 86% also owned a cat
+at a previous time point (data available from authors). 
+
+Sample characteristics
+
+At age 13 years, a greater proportion of the sample who reported suspected/definite
+psychotic symptoms owned a cat in childhood, were girls, lived in flats and in crowded
+home environments, had moved homes more frequently, and had a mother who was younger, less
+well educated, and of single marital status (Table
+1). Similar patterns were generally observed for the sample at age 18 years (Table 1), although there was no longer any apparent
+association between PEs and number of house moves, while non-manual social class and
+non-white ethnicity were associated with experiencing suspected/definite PEs at this
+age.
+
+Cat ownership in pregnancy was not associated with psychotic symptoms at age 13 or 18
+years in either univariable (age 13: OR 1.15, 95% CI 0.97–1.35; age 18; OR 1.08, 95% CI
+0.86–1.35) or in multivariable (age 13: adjusted OR 1.15, 95% CI 0.97–1.36; age 18; OR
+1.08, 95% CI 0.85–1.37) models, following multiple imputation (Table 2). Owning a cat at age 4 years was associated with higher odds
+of having PEs at age 13 years in univariable models (OR 1.23, 95% CI 1.04–1.46), but this
+effect was no longer significant after multivariable adjustment (OR 1.18, 95% CI
+0.94–1.48). There was no evidence that cat ownership at age 4 years was associated with
+PEs at age 18 years (univariable OR 1.11, 95% CI 0.88–1.40; adjusted OR 0.97, 95% CI
+0.71–1.31). These patterns were similar with respect to cat ownership at age 10 years,
+with no apparent association with PEs at age 13 years (OR 1.12, 95% CI 0.92–1.36) or 18
+years (OR 1.08, 95% CI 0.82–1.45) after multivariable adjustment (Table 2). 
+
+Univariable and multivariable odds ratios (OR) and 95% confidence intervals (CI)
+for the association between maternal cat ownership in pregnancy and between the ages
+of 8 months and 4 years of the child and psychotic symptoms (suspected or definite
+v. none) at ages 13 and 18 years (N includes exposure and confounding variables
+imputed with multiple imputation with chained equations, N = 100 imputations)
+
+In complete case analyses cat ownership in pregnancy was associated with higher odds of
+PEs at age 13 years in all models (univariable OR 1.31, 95% CI 1.04–1.65; adjusted OR
+1.34, 95% CI 1.06–1.69), as was cat ownership at age 4 years (univariable OR 1.44, 95% CI
+1.13–1.83; adjusted OR 1.47, 95% CI 1.01–2.13). Cat ownership at age 10 years was only
+associated with PEs at age 13 years in univariable models (OR 1.30, 95% CI 1.02–1.66), but
+not in adjusted models. We found no evidence of an association between cat ownership and
+PEs at age 18 years (Supplementary Table S3).
+
+Next, we used the fully imputed dataset to examine the association between cat ownership
+and adolescent PEs on the whole ALSPAC cohort (N = 15 023). The pattern
+of these results (Supplementary Table S4) was very similar to the magnitude, direction and
+general lack of association between cat ownership and adolescent PEs reported in our main
+results based on imputation of exposures and confounders (Table 2). Together these sensitivity analyses suggested that complete
+case analyses may lead to biased risk estimates, while our choice of MI routine did not
+substantially bias our results.
+
+We found no evidence that cat ownership in pregnancy or childhood was associated with PEs
+in early and late adolescence using prospectively collected data from a large
+population-based cohort, following control for several confounders and methods that
+investigate the likely impact of missing data.
+
+Our findings in relation to PEs are not consistent with the existing literature that has
+studied cat ownership in people with schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). We suggest that several methodological
+differences between our study and other investigations, including previous reliance on
+small, retrospective, convenience samples, may explain the discrepancy.
+
+Our study was based on PEs in early and late adolescence, unlike other studies which were
+based on a clinical diagnosis of schizophrenia (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010). One possible explanation of our null
+findings is that cat ownership does not affect the population expression of psychosis (i.e.
+does not shift the continuum), but operates only to increase risk of threshold symptoms for
+clinical disorder. We consider this explanation unlikely, given that: psychotic symptoms in
+late childhood and adolescence predict onset of non-affective psychosis and other
+psychopathology (Poulton et al.
+2000; Laurens et al.
+2007; Kelleher et al.
+2012; Fisher et al.
+2013) and psychotic symptoms in late adolescence are
+better predictors of future psychopathology. In line with other literature (Kelleher
+et al.
+2012), we observed a decline in the prevalence of
+PEs between ages 13 and 18 years. If symptoms in later adolescence therefore provide a
+greater indication of later clinical disorder (Poulton et al.
+2000; Fisher et al.
+2013) then our results at age 18 (where there was no
+evidence of any association between cat ownership and PEs) may have the strongest
+implications for likely effects of early life cat ownership on clinical disorder.
+
+Unlike previous studies which investigated cat ownership up until ages 10 or 13 years
+(Torrey & Yolken, 1995; Torrey et
+al.
+2000, 2015; Yuksel et al.
+2010), we restricted our main exposure variables to
+cat ownership during potentially sensitive windows of neurodevelopment, namely pregnancy and
+at age 4 years (47 months). We included cat ownership at age 10 years as a secondary
+exposure, consistent with previous literature, but our results mirrored those found at age 4
+years, generally indicating an absence of association. Our study was sufficiently powered to
+detect effect sizes previously observed in the schizophrenia literature with respect to cat
+ownership (ORs ⩾1.25) (Torrey & Yolken, 1995; Torrey et al.
+2000, 2015; Yuksel et al.
+2010), as evidenced by the initial univariable
+associations we only observed between childhood exposure and PEs at age 13 years. While our
+study would have had less power to detect smaller ORs, including those we observed between
+1.04 and 1.15, any such small effects, if true, would not warrant particular public mental
+health attention.
+
+Previous reports of positive associations between cat ownership and schizophrenia may
+therefore have been attributable to Type I error, particularly given the small sample sizes
+and lack of control for confounders inherent to some studies. We adjusted for several,
+theoretically-informed confounders, including ethnicity (Westgarth et al.
+2010; Kirkbride et al.
+2012), maternal academic achievement and social
+class (Mulvany et al.
+2001; Werner et al.
+2007; Westgarth et al.
+2010), and parental age (Sipos et al.
+2004; Lopez-Castroman et al.
+2010; Westgarth et al.
+2010; Petersen et al.
+2011). We also adjusted for number of house moves
+in light of evidence of an association between residential mobility and PEs (Singh
+et al.
+2014), crowding index and housing type as a proxies
+for both social class and greater possibility of contact with T.
+gondii-contaminated litter, and dog ownership as a possible confounder of the
+association between T. gondii infection (given an increased likelihood to
+contaminated soils outdoors) and psychosis risk.
+
+Earlier studies also relied on retrospective recall, and hence the potential of recall
+bias, of cat exposure and did not distinguish between ownership in infancy
+v. later childhood, making it impossible to attribute risk to specific
+periods of cat ownership over the early life-course.
+
+Finally, we employed multiple imputation techniques in order to account for missing data,
+which could have otherwise biased our results. Consistent with guidelines (Sterne et
+al.
+2009), we included all known exposure, outcome,
+covariate and auxiliary variables in MI as well as additional variables which had been
+previously found to be associated with PEs in this sample. Comparing our results with those
+from complete case analyses suggests that selective participation may potentially bias
+estimates, and could therefore explain previous positive findings in the literature (Torrey
+& Yolken, 1995; Torrey et al.
+2000, 2015). This hypothesis is further supported by our results using the fully-imputed
+sample, where no significant associations were found in line with our main findings.
+
+In conclusion, there is good evidence to support an association between T.
+gondii infection and later risk of experiencing psychosis, and this research is
+consistent with possible inflammatory causes of schizophrenia and other psychotic disorders.
+From a public health perspective, however, it is perhaps reassuringly that data from our
+prospective longitudinal study were not consistent with the hypothesis that cat ownership in
+pregnancy or early childhood is a risk factor for later psychosis.
+
+Dr James Kirkbride and Dr Francesca Solmi are supported by a Sir Henry Dale Fellowship to
+J.B.K., jointly funded by the Wellcome Trust and the Royal Society (grant no.
+101272/Z/13/Z). The UK Medical Research Council and the Wellcome Trust (grant ref.
+102215/2/13/2; grant ref. GR072043MA MRC G0701503) and the University of Bristol provide
+core support for ALSPAC. This publication is the work of the authors and will serve as
+guarantors for the contents of this paper. We are extremely grateful to all the families who
+took part in this study, the midwives for their help in recruiting them, and the whole
+ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical
+workers, research scientists, volunteers, managers, receptionists and nurses.
+
+F.S., J.F.H., G.L., and J.B.K. currently own or have owned cats (F.S., J.F.H., and J.B.K.
+N = 1; G.L. N = 2), but declare that the latter did not
+have a role in the formulation of the study hypothesis.
+
+For supplementary material accompanying this paper visit http://dx.doi.org/10.1017/S0033291717000125.
+
+http://www.ncbi.nlm.nih.gov/pubmed/28222824

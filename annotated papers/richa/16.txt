@@ -1,0 +1,465 @@
+Rates of autism and potential risk factors in children with congenital heart defects.
+
+Abstract
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+Atypical development, behavioral difficulties, and academic underachievement are common morbidities in children with a history of congenital heart defects and impact quality of life. Language and social-cognitive deficits have been described, which are associated with autism spectrum disorders. The current study aimed to assess the rates of autism spectrum disorders in a large sample of children with a history of congenital heart defects and to assess medical, behavioral, and individual factors that may be associated with the risk of autism spectrum disorders.
+
+Participants included 195 children with a history of congenital heart defects, who are followed in a large-scale longitudinal study. Measures included behavioral data from 4-year-old neurodevelopmental evaluations and parent-report data from a later annual follow-up.
+
+Using established cut-offs on an autism spectrum disorder screener, children with congenital heart defects showed higher rates of “possible” autism spectrum disorders than national rates, (Chi-square Test of Equal Proportions), all ps < .05. A stepwise variable selection method was used to create a “best prediction model” and multivariable logistic regression was used to identify variables predicting diagnostic status. Factors associated with diagnostic risk included medical (delayed sternal closure, prematurity, positive genetic findings), behavioral (cognitive, language, attention issues), and individual (socioeconomic, cultural/racial) variables. ROC analyses identified a cut-off of 7 to maximize sensitivity/specificity based on parent-reported diagnosis.
+
+Risk of autism spectrum disorder-screening status in children with congenital heart defects was higher than expected from population rates. Findings highlight the need for referral to a specialist to assess the presence and severity of social-communication issues and congenital heart defects population-specific screening thresholds for children with concern for autism spectrum disorders.
+
+Introduction
+
+With significant advances in medical management, children with serious congenital heart defects (CHD) are surviving into adolescence. Delayed and atypical development, behavioral difficulties, and academic underachievement together are more common morbidities in this population than chronic or later medical complications (e.g., unplanned operations).1 Furthermore, neurodevelopmental and behavioral concerns have an impact on the quality of life, and ultimate educational and occupational attainments.1 A better understanding of the developmental challenges in this population will promote appropriate clinical care, service delivery and, hopefully, outcomes.
+
+Multiple studies have shown that children with surgically-corrected CHD demonstrate significantly more neuropsychological difficulties than typically-developing children.2,3 Furthermore, researchers have suggested that children with CHD may be at increased risk for social-cognitive and social-communication deficits4, similar to those characteristic of children with autism spectrum disorders (ASDs).5 Neufield and colleagues (2008) reported that four children in their sample of 65 five-year olds with a history of transposition of the great arteries (TGA) and an arterial switch operation met criteria for an ASD. 6 Longitudinal follow-up studies with individuals with a history of severe CHD suggest that issues with social cognition and self-reported ASD-associated traits continue into adolescence.7,8 These findings highlight the potential severity and chronicity of social issues.
+
+Additionally, past research has highlighted the complex interplay between genetic susceptibility, medical intervention, and increasing developmental/academic expectations for children with CHD, underscoring the need to understand both the trajectory of behavioral outcomes and the contributing risk factors.9 Neurobehavioral outcomes are likely related to a complex interaction of individual (e.g., genetic susceptibility, ethnicity, birth weight) and medical management factors.10
+
+Overall, the literature highlights significant inter-individual variation in developmental outcomes1 and the need for early intervention11 and special education.12 Therefore, an accurate assessment of the proportion of children in this population screening positive for an ASD and the factors contributing to their diagnostic status is essential to inform future research efforts and clinical management. The relationship between medical and patient factors and an ASD diagnosis may elucidate a clearer predictive relationship for social concerns.
+
+The research questions addressed in this manuscript are as follows: first, are children with a history of serious CHD and infant surgery at increased risk for positive results on a ASD screener relative to the general population?13 Second, what are the relative contributions of individual/genetic, behavioral, and medical management factors to the likelihood of screening positive for an ASD? The information gained through this investigation will directly inform patient care, service delivery, and research efforts to decrease morbidity in this developmentally-vulnerable population.
+
+Methods
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+Atypical development, behavioral difficulties, and academic underachievement are common morbidities in children with a history of congenital heart defects and impact quality of life. Language and social-cognitive deficits have been described, which are associated with autism spectrum disorders. The current study aimed to assess the rates of autism spectrum disorders in a large sample of children with a history of congenital heart defects and to assess medical, behavioral, and individual factors that may be associated with the risk of autism spectrum disorders.
+
+Participants included 195 children with a history of congenital heart defects, who are followed in a large-scale longitudinal study. Measures included behavioral data from 4-year-old neurodevelopmental evaluations and parent-report data from a later annual follow-up.
+
+Using established cut-offs on an autism spectrum disorder screener, children with congenital heart defects showed higher rates of “possible” autism spectrum disorders than national rates, (Chi-square Test of Equal Proportions), all ps < .05. A stepwise variable selection method was used to create a “best prediction model” and multivariable logistic regression was used to identify variables predicting diagnostic status. Factors associated with diagnostic risk included medical (delayed sternal closure, prematurity, positive genetic findings), behavioral (cognitive, language, attention issues), and individual (socioeconomic, cultural/racial) variables. ROC analyses identified a cut-off of 7 to maximize sensitivity/specificity based on parent-reported diagnosis.
+
+Risk of autism spectrum disorder-screening status in children with congenital heart defects was higher than expected from population rates. Findings highlight the need for referral to a specialist to assess the presence and severity of social-communication issues and congenital heart defects population-specific screening thresholds for children with concern for autism spectrum disorders.
+
+With significant advances in medical management, children with serious congenital heart defects (CHD) are surviving into adolescence. Delayed and atypical development, behavioral difficulties, and academic underachievement together are more common morbidities in this population than chronic or later medical complications (e.g., unplanned operations).1 Furthermore, neurodevelopmental and behavioral concerns have an impact on the quality of life, and ultimate educational and occupational attainments.1 A better understanding of the developmental challenges in this population will promote appropriate clinical care, service delivery and, hopefully, outcomes.
+
+Multiple studies have shown that children with surgically-corrected CHD demonstrate significantly more neuropsychological difficulties than typically-developing children.2,3 Furthermore, researchers have suggested that children with CHD may be at increased risk for social-cognitive and social-communication deficits4, similar to those characteristic of children with autism spectrum disorders (ASDs).5 Neufield and colleagues (2008) reported that four children in their sample of 65 five-year olds with a history of transposition of the great arteries (TGA) and an arterial switch operation met criteria for an ASD. 6 Longitudinal follow-up studies with individuals with a history of severe CHD suggest that issues with social cognition and self-reported ASD-associated traits continue into adolescence.7,8 These findings highlight the potential severity and chronicity of social issues.
+
+Additionally, past research has highlighted the complex interplay between genetic susceptibility, medical intervention, and increasing developmental/academic expectations for children with CHD, underscoring the need to understand both the trajectory of behavioral outcomes and the contributing risk factors.9 Neurobehavioral outcomes are likely related to a complex interaction of individual (e.g., genetic susceptibility, ethnicity, birth weight) and medical management factors.10
+
+Overall, the literature highlights significant inter-individual variation in developmental outcomes1 and the need for early intervention11 and special education.12 Therefore, an accurate assessment of the proportion of children in this population screening positive for an ASD and the factors contributing to their diagnostic status is essential to inform future research efforts and clinical management. The relationship between medical and patient factors and an ASD diagnosis may elucidate a clearer predictive relationship for social concerns.
+
+The research questions addressed in this manuscript are as follows: first, are children with a history of serious CHD and infant surgery at increased risk for positive results on a ASD screener relative to the general population?13 Second, what are the relative contributions of individual/genetic, behavioral, and medical management factors to the likelihood of screening positive for an ASD? The information gained through this investigation will directly inform patient care, service delivery, and research efforts to decrease morbidity in this developmentally-vulnerable population.
+Participants
+
+Children in the current study were participants in a large cohort with CHD previously described through longitudinal neurodevelopmental evaluations.9 Briefly, data were collected as part of a prospective study of neurodevelopmental outcomes in children with apo-lipoprotein E (APOE) polymorphisms after infant cardiac surgery. Data collection was approved by The Children's Hospital of Philadelphia Institutional Review Board. The original sample consisted of neonates and infants who required surgical repair of congenital heart disease between 1998 and 2003. Eligibility requirements included surgery within the first six months of life for the treatment of serious CHD. Surgical interventions involved cardiopulmonary bypass, with or without DHCA. Exclusion criteria included (1) multiple congenital abnormalities, (2) recognizable genetic/phenotypic syndrome other than chromosome 22q11.2 microdeletion syndrome, and (3) language other than English spoken in the home. Participants in the current study were not recruited due to a specific concern regarding social development, but rather were evaluated in the context of routine follow-up and developmental tracking of this vulnerable population.
+
+The original study group included 675 eligible infants, with 550 (81%) enrolled.9
+APOE genotyping was completed with 540 (98%) of the enrolled children; of these participants, 486 were alive and eligible for follow-up between their fourth and fifth birthdays, of which 381 (78%) participated. As previously reported, the only significant difference between those who did and did not participate in the 4-year-old follow-up was underrepresentation of patients who identified their ethnicity as “Black, Non-Hispanic” (21% versus 29%).9 Detailed neurodevelopmental findings from the 4-year-old examinations are presented in Gaynor et al. (2010).14
+
+As part of subsequent follow-up, 381 participants were mailed parent-report questionnaires in 2010 (two-to-seven years after their 4-year-old evaluation). Of the remaining eligible participants, 216 (56%) returned completed packets; 195 completed both the 4-year-old evaluation and the subsequent mailing and were therefore included in the current risk model analyses.1 Demographic information for the original sample is presented in Table 1.
+
+Note.
+
+CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+Measures
+
+Measures in the current analyses included selected assessment tools from the 4-year-old neurodevelopmental evaluations and parent-report information/questionnaires from the subsequent 2010 mailing. Relevant measures are listed in Table 2.15
+
+Note:
+
+From the 2010 mailing, parent-report of an ASD (via the health history from) was used as a clinical marker of ASD diagnosis. More specifically, parents were asked “Have you ever been told your child has: (Check any that apply) Autism, Asperger syndrome, pervasive developmental disorder (PPD)” among other options. The Social Communication Questionnaire (SCQ) was used as a parent-report screening measure for ASD.16 A sum score of ≥ 15 indicates a “possible” ASD. The SCQ aims to quantify the extent to which social and communicative functioning is consistent with a diagnosis of an ASD. A comprehensive, neurodevelopmental diagnostic evaluation is required to confirm clinical diagnoses; however, the SCQ has been shown to be the most efficacious ASD screening tool,17 parallel the gold standard diagnostic measures (e.g., Autism Diagnostic Observation Schedule and Autism Diagnostic Interview, Revised), and has been used to characterize ASD prevalence in other patient groups.18,19 According to the creators of the SCQ, a lower cutoff scores (≥ 12) could be considered for investigations with younger individuals and with informants who are less familiar with the traits/behaviors associated with autism than the original norming sample.20 Other researchers have also used ROC curve analyses to determine population-specific cutoffs (in order to maximize the predictive value specific to developmental/medical populations). Johnson et al (2011), for example, found that a cutoff score of ≥ 14 was more appropriate in a sample of extremely pre-term children when assessed at 11-years old.21 It is important to emphasize that a positive screening does not constitute a formal diagnosis of an ASD; failed screening indicates that a child may be at risk for an ASD diagnosis and comprehensive assessment is needed to confirm diagnostic status and to rule out other neurodevelopmental issues.
+Analytic plan- Prevalence
+
+The rate of positive results on a ASD screener in this sample was compared to the 2010 CDC rates of ASD prevalence (1:68)22 using a Chi-square Test of Equal Proportions. Analyses were conducted using the established SCQ cutoff score of ≥ 15. Additional analyses were conducted using a research-supported cutoff score of ≥ 12, as well as parent-reported ASD diagnoses (to reflect clinical diagnoses). Of note, parent-reported diagnoses did not consistently match children identified by SCQ screening.
+Analytic plan- Population-specific cutoff score
+
+The optimal SCQ cutoff to reflect parent-reported diagnosis on the health history form was determined using ROC analyses (i.e., area under the curve). The optimal cutoff for this sample is defined as the value that maximizes both sensitivity and specificity of predicting parent-reported diagnosis.
+Analytic plan- Predictive models
+
+The stepwise variable selection method was used to create a “best prediction model” using the patient factors and behavioral data collected from the 4-year old evaluation. All significant univariate variables were included in this selection method. Factors were identified that increased or decreased the probability of screening positive on the SCQ. A multivariable logistic regression was then used to identify the variables that accounted for the most variance in diagnostic status. Since there was some concern that some patient factors may be associated with some of the 4-year behavioral outcomes, sensitivity analyses were conducted to assess multicollinearity. While some variables were correlated with each other, multicollinearity analyses indicate that this correlation was not strong enough to affect the results of the models (i.e., Variance Inflation Factors [VIFs] of 1.60 or less).
+
+Results
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+Atypical development, behavioral difficulties, and academic underachievement are common morbidities in children with a history of congenital heart defects and impact quality of life. Language and social-cognitive deficits have been described, which are associated with autism spectrum disorders. The current study aimed to assess the rates of autism spectrum disorders in a large sample of children with a history of congenital heart defects and to assess medical, behavioral, and individual factors that may be associated with the risk of autism spectrum disorders.
+
+Participants included 195 children with a history of congenital heart defects, who are followed in a large-scale longitudinal study. Measures included behavioral data from 4-year-old neurodevelopmental evaluations and parent-report data from a later annual follow-up.
+
+Using established cut-offs on an autism spectrum disorder screener, children with congenital heart defects showed higher rates of “possible” autism spectrum disorders than national rates, (Chi-square Test of Equal Proportions), all ps < .05. A stepwise variable selection method was used to create a “best prediction model” and multivariable logistic regression was used to identify variables predicting diagnostic status. Factors associated with diagnostic risk included medical (delayed sternal closure, prematurity, positive genetic findings), behavioral (cognitive, language, attention issues), and individual (socioeconomic, cultural/racial) variables. ROC analyses identified a cut-off of 7 to maximize sensitivity/specificity based on parent-reported diagnosis.
+
+Risk of autism spectrum disorder-screening status in children with congenital heart defects was higher than expected from population rates. Findings highlight the need for referral to a specialist to assess the presence and severity of social-communication issues and congenital heart defects population-specific screening thresholds for children with concern for autism spectrum disorders.
+
+With significant advances in medical management, children with serious congenital heart defects (CHD) are surviving into adolescence. Delayed and atypical development, behavioral difficulties, and academic underachievement together are more common morbidities in this population than chronic or later medical complications (e.g., unplanned operations).1 Furthermore, neurodevelopmental and behavioral concerns have an impact on the quality of life, and ultimate educational and occupational attainments.1 A better understanding of the developmental challenges in this population will promote appropriate clinical care, service delivery and, hopefully, outcomes.
+
+Multiple studies have shown that children with surgically-corrected CHD demonstrate significantly more neuropsychological difficulties than typically-developing children.2,3 Furthermore, researchers have suggested that children with CHD may be at increased risk for social-cognitive and social-communication deficits4, similar to those characteristic of children with autism spectrum disorders (ASDs).5 Neufield and colleagues (2008) reported that four children in their sample of 65 five-year olds with a history of transposition of the great arteries (TGA) and an arterial switch operation met criteria for an ASD. 6 Longitudinal follow-up studies with individuals with a history of severe CHD suggest that issues with social cognition and self-reported ASD-associated traits continue into adolescence.7,8 These findings highlight the potential severity and chronicity of social issues.
+
+Additionally, past research has highlighted the complex interplay between genetic susceptibility, medical intervention, and increasing developmental/academic expectations for children with CHD, underscoring the need to understand both the trajectory of behavioral outcomes and the contributing risk factors.9 Neurobehavioral outcomes are likely related to a complex interaction of individual (e.g., genetic susceptibility, ethnicity, birth weight) and medical management factors.10
+
+Overall, the literature highlights significant inter-individual variation in developmental outcomes1 and the need for early intervention11 and special education.12 Therefore, an accurate assessment of the proportion of children in this population screening positive for an ASD and the factors contributing to their diagnostic status is essential to inform future research efforts and clinical management. The relationship between medical and patient factors and an ASD diagnosis may elucidate a clearer predictive relationship for social concerns.
+
+The research questions addressed in this manuscript are as follows: first, are children with a history of serious CHD and infant surgery at increased risk for positive results on a ASD screener relative to the general population?13 Second, what are the relative contributions of individual/genetic, behavioral, and medical management factors to the likelihood of screening positive for an ASD? The information gained through this investigation will directly inform patient care, service delivery, and research efforts to decrease morbidity in this developmentally-vulnerable population.
+
+Children in the current study were participants in a large cohort with CHD previously described through longitudinal neurodevelopmental evaluations.9 Briefly, data were collected as part of a prospective study of neurodevelopmental outcomes in children with apo-lipoprotein E (APOE) polymorphisms after infant cardiac surgery. Data collection was approved by The Children's Hospital of Philadelphia Institutional Review Board. The original sample consisted of neonates and infants who required surgical repair of congenital heart disease between 1998 and 2003. Eligibility requirements included surgery within the first six months of life for the treatment of serious CHD. Surgical interventions involved cardiopulmonary bypass, with or without DHCA. Exclusion criteria included (1) multiple congenital abnormalities, (2) recognizable genetic/phenotypic syndrome other than chromosome 22q11.2 microdeletion syndrome, and (3) language other than English spoken in the home. Participants in the current study were not recruited due to a specific concern regarding social development, but rather were evaluated in the context of routine follow-up and developmental tracking of this vulnerable population.
+
+The original study group included 675 eligible infants, with 550 (81%) enrolled.9
+APOE genotyping was completed with 540 (98%) of the enrolled children; of these participants, 486 were alive and eligible for follow-up between their fourth and fifth birthdays, of which 381 (78%) participated. As previously reported, the only significant difference between those who did and did not participate in the 4-year-old follow-up was underrepresentation of patients who identified their ethnicity as “Black, Non-Hispanic” (21% versus 29%).9 Detailed neurodevelopmental findings from the 4-year-old examinations are presented in Gaynor et al. (2010).14
+
+As part of subsequent follow-up, 381 participants were mailed parent-report questionnaires in 2010 (two-to-seven years after their 4-year-old evaluation). Of the remaining eligible participants, 216 (56%) returned completed packets; 195 completed both the 4-year-old evaluation and the subsequent mailing and were therefore included in the current risk model analyses.1 Demographic information for the original sample is presented in Table 1.
+
+Note.
+
+CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+
+Measures in the current analyses included selected assessment tools from the 4-year-old neurodevelopmental evaluations and parent-report information/questionnaires from the subsequent 2010 mailing. Relevant measures are listed in Table 2.15
+
+Note:
+
+From the 2010 mailing, parent-report of an ASD (via the health history from) was used as a clinical marker of ASD diagnosis. More specifically, parents were asked “Have you ever been told your child has: (Check any that apply) Autism, Asperger syndrome, pervasive developmental disorder (PPD)” among other options. The Social Communication Questionnaire (SCQ) was used as a parent-report screening measure for ASD.16 A sum score of ≥ 15 indicates a “possible” ASD. The SCQ aims to quantify the extent to which social and communicative functioning is consistent with a diagnosis of an ASD. A comprehensive, neurodevelopmental diagnostic evaluation is required to confirm clinical diagnoses; however, the SCQ has been shown to be the most efficacious ASD screening tool,17 parallel the gold standard diagnostic measures (e.g., Autism Diagnostic Observation Schedule and Autism Diagnostic Interview, Revised), and has been used to characterize ASD prevalence in other patient groups.18,19 According to the creators of the SCQ, a lower cutoff scores (≥ 12) could be considered for investigations with younger individuals and with informants who are less familiar with the traits/behaviors associated with autism than the original norming sample.20 Other researchers have also used ROC curve analyses to determine population-specific cutoffs (in order to maximize the predictive value specific to developmental/medical populations). Johnson et al (2011), for example, found that a cutoff score of ≥ 14 was more appropriate in a sample of extremely pre-term children when assessed at 11-years old.21 It is important to emphasize that a positive screening does not constitute a formal diagnosis of an ASD; failed screening indicates that a child may be at risk for an ASD diagnosis and comprehensive assessment is needed to confirm diagnostic status and to rule out other neurodevelopmental issues.
+
+The rate of positive results on a ASD screener in this sample was compared to the 2010 CDC rates of ASD prevalence (1:68)22 using a Chi-square Test of Equal Proportions. Analyses were conducted using the established SCQ cutoff score of ≥ 15. Additional analyses were conducted using a research-supported cutoff score of ≥ 12, as well as parent-reported ASD diagnoses (to reflect clinical diagnoses). Of note, parent-reported diagnoses did not consistently match children identified by SCQ screening.
+
+The optimal SCQ cutoff to reflect parent-reported diagnosis on the health history form was determined using ROC analyses (i.e., area under the curve). The optimal cutoff for this sample is defined as the value that maximizes both sensitivity and specificity of predicting parent-reported diagnosis.
+
+The stepwise variable selection method was used to create a “best prediction model” using the patient factors and behavioral data collected from the 4-year old evaluation. All significant univariate variables were included in this selection method. Factors were identified that increased or decreased the probability of screening positive on the SCQ. A multivariable logistic regression was then used to identify the variables that accounted for the most variance in diagnostic status. Since there was some concern that some patient factors may be associated with some of the 4-year behavioral outcomes, sensitivity analyses were conducted to assess multicollinearity. While some variables were correlated with each other, multicollinearity analyses indicate that this correlation was not strong enough to affect the results of the models (i.e., Variance Inflation Factors [VIFs] of 1.60 or less).
+The prevalence of ASDs
+
+A significantly higher proportion of children in this study were identified via SCQ screening and/or parent-reported diagnosis than predicted based on national rates of ASDs at the time of assessment, ps < .05 (Table 3). Compared to the national rate of ASD diagnoses (1:68; 1.47%), children with CHD screened positive for an ASD at a rate of 1:30.9 (3.2%) using conservative, established cutoffs.
+
+Note.
+
+
+
+The optimal cutoff value for this sample, which maximizes both sensitivity and specificity is 7 (n = 71). Using a value of ≥ 7 as the SCQ cutoff yields a sensitivity of 0.75 and a specificity of 0.71.
+
+
+
+The optimal cutoff value for this sample, which maximizes both sensitivity and specificity is 7 (n = 71). Using a value of ≥ 7 as the SCQ cutoff yields a sensitivity of 0.75 and a specificity of 0.71.
+Predictive Models: Factors contributing to ASD risk
+
+The variables associated with risk of screening positive on the SCQ are organized by (1) factors associated with increased risk and (2) factors associated with decreased risk. Results are listed by diagnostic reporting method in Tables 4 (medical/patient factors) and 5 (4-year-old assessment behavioral factors).
+
+Bolded numbers indicate significant at the 0.05 level.
+
+
+
+Using an SCQ cutoff score of ≥ 15, patient factors, operative management factors, and 4-year neurodevelopmental screening factors were significant predictors, ps < .05.
+
+Univariate analyses indicated that the following variables were associated with increased risk of screening positive on the SCQ: medical/patient factors- having a possible genetic abnormality; having a confirmed genetic abnormality; having a delayed sternal closure; behavioral factors at 4-years- having more parent-rated developmental problems symptoms of ADHD.
+
+The following variables were found to be associated with a decreased risk of screening positive on the SCQ: medical/patient factors- having the APOE genotype 33; older gestational age; having no genetic abnormalities; behavioral factors at 4-years- having better language skills; having better social/behavioral skills; and having a higher IQ.
+
+Delayed sternal closure and pervasive developmental problems at 4-years (CBCL PDP) were independent predictors of diagnostic status in the univariate models. However, multivariable analysis showed that when the model was adjusted for the above predictors, only CBCL PDP was a significant predictor of diagnostic status (Table 6).
+
+Note. CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; PKBS-2, Preschool and Kindergarten Behavior Scales, Second Edition; ADHD-IV, Attention-Deficit/Hyperactivity Disorder, Fourth Edition; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+
+
+
+Analyses were then conducted using the research-supported SCQ cutoff of ≥ 12. Factors contributing to risk of screening positive on the SCQ (n = 19) are also listed in Tables 4 and ​and5.5. The only additional significant variable (compared to the SCQ cutoff at ≥ 15 analyses) was that those with APOE ε2 allele were at 4.09 increased odds of ASD compared to the other genotypes. The multivariable analyses identified social skills and pervasive developmental problems as independent predictors and accounting for the most variance in diagnostic status, 35.1%, after controlling for all other variables in the model.
+
+
+
+Logistic regression analyses were then conducted using the optimal cutoff of ≥ 7 (identified via ROC analyses), results are listed in Tables 4, ​,5,5, and ​and6,6, respectively. The multivariable analyses identified social skills at 4-years, pervasive developmental problems at 4-years, and intellectual functioning at 4-years as independent predictors and accounting for the most variance, after controlling for all other variables in the model.
+
+
+
+Additionally, analyses were conducted using both SCQ and parent-reported diagnosis to capture children identified by either method. The only unique variable in this univariate analysis was race: participants who are not of Caucasian race have a 53.1% (95% CI: 0.1%, 78%) decreased odds of being identified as having an ASD [OR: 0.469 (95% CI: 0.222, 0.999)], p = 0.0497. The multivariable model identified pervasive developmental problems at 4-years and inattention at 4-years as independent predictors and accounting for the most variance in diagnostic status.
+Table 6
+
+
+
+Using an SCQ cutoff score of ≥ 15, patient factors, operative management factors, and 4-year neurodevelopmental screening factors were significant predictors, ps < .05.
+
+Univariate analyses indicated that the following variables were associated with increased risk of screening positive on the SCQ: medical/patient factors- having a possible genetic abnormality; having a confirmed genetic abnormality; having a delayed sternal closure; behavioral factors at 4-years- having more parent-rated developmental problems symptoms of ADHD.
+
+The following variables were found to be associated with a decreased risk of screening positive on the SCQ: medical/patient factors- having the APOE genotype 33; older gestational age; having no genetic abnormalities; behavioral factors at 4-years- having better language skills; having better social/behavioral skills; and having a higher IQ.
+
+Delayed sternal closure and pervasive developmental problems at 4-years (CBCL PDP) were independent predictors of diagnostic status in the univariate models. However, multivariable analysis showed that when the model was adjusted for the above predictors, only CBCL PDP was a significant predictor of diagnostic status (Table 6).
+
+Note. CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; PKBS-2, Preschool and Kindergarten Behavior Scales, Second Edition; ADHD-IV, Attention-Deficit/Hyperactivity Disorder, Fourth Edition; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+Table 5
+
+
+
+Analyses were then conducted using the research-supported SCQ cutoff of ≥ 12. Factors contributing to risk of screening positive on the SCQ (n = 19) are also listed in Tables 4 and ​and5.5. The only additional significant variable (compared to the SCQ cutoff at ≥ 15 analyses) was that those with APOE ε2 allele were at 4.09 increased odds of ASD compared to the other genotypes. The multivariable analyses identified social skills and pervasive developmental problems as independent predictors and accounting for the most variance in diagnostic status, 35.1%, after controlling for all other variables in the model.
+
+
+
+Logistic regression analyses were then conducted using the optimal cutoff of ≥ 7 (identified via ROC analyses), results are listed in Tables 4, ​,5,5, and ​and6,6, respectively. The multivariable analyses identified social skills at 4-years, pervasive developmental problems at 4-years, and intellectual functioning at 4-years as independent predictors and accounting for the most variance, after controlling for all other variables in the model.
+
+
+
+Additionally, analyses were conducted using both SCQ and parent-reported diagnosis to capture children identified by either method. The only unique variable in this univariate analysis was race: participants who are not of Caucasian race have a 53.1% (95% CI: 0.1%, 78%) decreased odds of being identified as having an ASD [OR: 0.469 (95% CI: 0.222, 0.999)], p = 0.0497. The multivariable model identified pervasive developmental problems at 4-years and inattention at 4-years as independent predictors and accounting for the most variance in diagnostic status.
+
+Discussion
+
+The current study found that children with a history of severe CHD requiring infant surgery are at higher risk for screening positive on a well-established ASD screener when compared to rates of ASDs in the general population.
+
+It is important to note, however, that this risk is associated with a variety of genetic, individual, operative management, and behavioral/developmental factors. When using conservative cutoffs, delayed sternal closure and parent-reported pervasive developmental problems at 4-years of age were significantly associated with ASD-screening status. When evaluating the utility of more experimental screening cutoff points, (i.e., SCQ ≥ 7, 12, or 15), it appears that medical variables were more predictive of ASD-screening status when using more conservative cutoff scores. These findings are consistent with previous work showing that surgical intervention, while necessary for survival, introduces a multitude of risk factors for complicating neurobehavioral development, including pre- and post-operative brain injury23 and intra- and post-operative hemodynamic factors.24 Timing of diagnosis has also found to be linked to developmental outcomes.25 Unfortunately, the patient and management factors identified as predictors of risk are largely non-modifiable.
+
+Behavioral variables were associated with a positive ASD-screening status regardless of cutoff point. Importantly, children with more domain-general neurocognitive issues at 4-years-old (e.g., cognitive, language, and attention issues) are at higher risk and need to be assessed for ASD-related issues: there may be higher false positive rates in populations with more neurodevelopmental and domain-general cognitive issues, highlighting the need for comprehensive ASD-diagnostic assessments to confirm current findings. Finally, although socioeconomic and cultural/racial factors were not independently associated with screening results, they are important factors to consider, particularly in light of research highlighting ethnic disparity in ASD diagnosis.26 Taken together, these findings support that early medical factors and behavioral performance at 4-years-old can help to suggest which children may be in need of additional follow-up and intervention to promote adequate neurodevelopmental progress. However, it should be emphasized that early developmental screening (beginning at 9-months) and ASD screening beginning at 18-months of age should be routine, as suggested by the American Academy of Pediatrics (AAP; July 2006), in order to initiate needed interventions earlier to promote better outcomes. The current study reports on data collected at age 4-years in order to evaluate potential associated factors via available data, not as a suggestion that neurodevelopmental screening should begin at this age.
+
+It is also important to highlight the utility of using lower thresholds for concern in this medically-complex population. According to current results, a cutoff of ≥ 7 on the SCQ best reflected parent-reported diagnoses via the health history form, which likely take a broader developmental/functional context into account. If more conservative cutoffs are used, there is the risk of missing children in need of a more thorough evaluation, although this more liberal screening increases the rate of false positively identified children. Recent studies have found relatively low false positive rates in the “general” population, though failed screening may be more likely for children with other neurodevelopmental disorders: Chandler et al. (2007) found that 5.3% of their “general” population sample screened positive on the SCQ at a cutoff of ≥ 15; however, 12 of 13 children screening positive had a neurodevelopmental diagnosis from a community clinician (e.g., intellectual disability; seven of which were an ASD diagnosis).27 Furthermore, a recent study highlighted that children with comorbid attentional problems may be at risk for delayed ASD diagnoses;28 a lower screening threshold for this vulnerable population may serve to ensure that children with primary social issues are not overlooked due to their more general neurocognitive delays. Therefore, a lower threshold should be used clinically, in order to best identify those children in this vulnerable population who require additional assessment to clarify neurodevelopmental issues and to provide them with the most appropriate therapeutic services.
+
+Overall, findings from this study are in line with past research showing that children with a history of CHD are at higher risk of academic, behavioral, cognitive, social, and quality-of-life challenges.1,9 Even within this population, Gaynor et al. (2009) previously documented that children with the APOE ∊2 allele were rated as having more impaired social skills than children with the APOE ∊4 allele.9 Calderon et al. (2010) found that seven-year old children with a history of TGA and neonatal arterial switch operations showed greater rates of failure on false belief (theory of mind) tasks compared to controls (measuring the ability to recognize another person's perspective).34 Calderon et al. (2012) also noted that children with prenatal diagnoses received significantly higher theory of mind scores than children with postnatal diagnosis of TGA, highlighting the potential role of medical management factors in social-cognitive development.35 Although not diagnostic of an ASD, these findings highlight that children with CHD are experiencing social-cognitive and communication difficulties and are in need of services to support more typical social development. The current findings are generally consistent with these past results and add to the current literature by presenting factors that may affect ASD-diagnostic risk.
+
+The exploratory nature of this project confers some limitations. First, clinical diagnosis was not confirmed in this study and both diagnostic variables were provided by parent report. As with any screener, children may screen positive for other reasons (e.g., general cognitive/language delays) and, therefore, require ASD-diagnostic clarification. Future studies would benefit from examining factors contributing to diagnostic risk in children with clinically-confirmed diagnoses of ASD. Formal diagnostic clarification via structured parent interview and semi-structured child-focused interactive measures will be important for this goal, in order to confirm clinical diagnoses and provide a more nuanced understanding of social cognitive and social behavioral clinical presentations. Additionally, item-based analyses of the SCQ could be explored, to better understand specific observations bringing these children to the clinical attention of community providers. Second, the low base rate of positive ASD-screening in this sample may have limited power to detect additional relationships between variables. The low response rate of completed packets (56%) is also a limitation. Finally, inherent in the exploratory nature of this study, we chose to conduct multiple comparisons to best describe the relationship between variables. We understand that this introduces the risk of Type 1 error. Readers should interpret the precise relationships with caution and we encourage further analysis and replication to better determine how these preliminary findings fare with alternative thresholds for significance.
+
+Conclusions
+
+In conclusion, although previous research has clearly described the neurodevelopmental risks for children with serious CHD requiring infant cardiac surgery, this study is the first known analysis to document the rates of positive screening for ASD specifically in a large sample, as well as the factors that may be associated with ASD risk. Rates of positive ASD-screening were higher than expected from population rates and was related to both medical/patient factors and behavioral performance at the age of 4-years. Findings highlight the need for careful, early neurodevelopmental tracking in childhood, with ASD screening beginning at 18-months of age and, for some children, referral to a specialist to assess the presence/severity of social-cognitive and communication issues. Our findings suggest that a lower threshold for screening is more applicable in this high-risk population, to ensure that children in need of services are referred to the appropriate diagnostic and therapeutic providers. Additionally, our findings show that screening results do not always match with clinical diagnoses, which emphasizes the need for comprehensive clinical assessment of ASDs and other developmental disorders.
+
+Acknowledgments
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+Atypical development, behavioral difficulties, and academic underachievement are common morbidities in children with a history of congenital heart defects and impact quality of life. Language and social-cognitive deficits have been described, which are associated with autism spectrum disorders. The current study aimed to assess the rates of autism spectrum disorders in a large sample of children with a history of congenital heart defects and to assess medical, behavioral, and individual factors that may be associated with the risk of autism spectrum disorders.
+
+Participants included 195 children with a history of congenital heart defects, who are followed in a large-scale longitudinal study. Measures included behavioral data from 4-year-old neurodevelopmental evaluations and parent-report data from a later annual follow-up.
+
+Using established cut-offs on an autism spectrum disorder screener, children with congenital heart defects showed higher rates of “possible” autism spectrum disorders than national rates, (Chi-square Test of Equal Proportions), all ps < .05. A stepwise variable selection method was used to create a “best prediction model” and multivariable logistic regression was used to identify variables predicting diagnostic status. Factors associated with diagnostic risk included medical (delayed sternal closure, prematurity, positive genetic findings), behavioral (cognitive, language, attention issues), and individual (socioeconomic, cultural/racial) variables. ROC analyses identified a cut-off of 7 to maximize sensitivity/specificity based on parent-reported diagnosis.
+
+Risk of autism spectrum disorder-screening status in children with congenital heart defects was higher than expected from population rates. Findings highlight the need for referral to a specialist to assess the presence and severity of social-communication issues and congenital heart defects population-specific screening thresholds for children with concern for autism spectrum disorders.
+
+With significant advances in medical management, children with serious congenital heart defects (CHD) are surviving into adolescence. Delayed and atypical development, behavioral difficulties, and academic underachievement together are more common morbidities in this population than chronic or later medical complications (e.g., unplanned operations).1 Furthermore, neurodevelopmental and behavioral concerns have an impact on the quality of life, and ultimate educational and occupational attainments.1 A better understanding of the developmental challenges in this population will promote appropriate clinical care, service delivery and, hopefully, outcomes.
+
+Multiple studies have shown that children with surgically-corrected CHD demonstrate significantly more neuropsychological difficulties than typically-developing children.2,3 Furthermore, researchers have suggested that children with CHD may be at increased risk for social-cognitive and social-communication deficits4, similar to those characteristic of children with autism spectrum disorders (ASDs).5 Neufield and colleagues (2008) reported that four children in their sample of 65 five-year olds with a history of transposition of the great arteries (TGA) and an arterial switch operation met criteria for an ASD. 6 Longitudinal follow-up studies with individuals with a history of severe CHD suggest that issues with social cognition and self-reported ASD-associated traits continue into adolescence.7,8 These findings highlight the potential severity and chronicity of social issues.
+
+Additionally, past research has highlighted the complex interplay between genetic susceptibility, medical intervention, and increasing developmental/academic expectations for children with CHD, underscoring the need to understand both the trajectory of behavioral outcomes and the contributing risk factors.9 Neurobehavioral outcomes are likely related to a complex interaction of individual (e.g., genetic susceptibility, ethnicity, birth weight) and medical management factors.10
+
+Overall, the literature highlights significant inter-individual variation in developmental outcomes1 and the need for early intervention11 and special education.12 Therefore, an accurate assessment of the proportion of children in this population screening positive for an ASD and the factors contributing to their diagnostic status is essential to inform future research efforts and clinical management. The relationship between medical and patient factors and an ASD diagnosis may elucidate a clearer predictive relationship for social concerns.
+
+The research questions addressed in this manuscript are as follows: first, are children with a history of serious CHD and infant surgery at increased risk for positive results on a ASD screener relative to the general population?13 Second, what are the relative contributions of individual/genetic, behavioral, and medical management factors to the likelihood of screening positive for an ASD? The information gained through this investigation will directly inform patient care, service delivery, and research efforts to decrease morbidity in this developmentally-vulnerable population.
+
+Children in the current study were participants in a large cohort with CHD previously described through longitudinal neurodevelopmental evaluations.9 Briefly, data were collected as part of a prospective study of neurodevelopmental outcomes in children with apo-lipoprotein E (APOE) polymorphisms after infant cardiac surgery. Data collection was approved by The Children's Hospital of Philadelphia Institutional Review Board. The original sample consisted of neonates and infants who required surgical repair of congenital heart disease between 1998 and 2003. Eligibility requirements included surgery within the first six months of life for the treatment of serious CHD. Surgical interventions involved cardiopulmonary bypass, with or without DHCA. Exclusion criteria included (1) multiple congenital abnormalities, (2) recognizable genetic/phenotypic syndrome other than chromosome 22q11.2 microdeletion syndrome, and (3) language other than English spoken in the home. Participants in the current study were not recruited due to a specific concern regarding social development, but rather were evaluated in the context of routine follow-up and developmental tracking of this vulnerable population.
+
+The original study group included 675 eligible infants, with 550 (81%) enrolled.9
+APOE genotyping was completed with 540 (98%) of the enrolled children; of these participants, 486 were alive and eligible for follow-up between their fourth and fifth birthdays, of which 381 (78%) participated. As previously reported, the only significant difference between those who did and did not participate in the 4-year-old follow-up was underrepresentation of patients who identified their ethnicity as “Black, Non-Hispanic” (21% versus 29%).9 Detailed neurodevelopmental findings from the 4-year-old examinations are presented in Gaynor et al. (2010).14
+
+As part of subsequent follow-up, 381 participants were mailed parent-report questionnaires in 2010 (two-to-seven years after their 4-year-old evaluation). Of the remaining eligible participants, 216 (56%) returned completed packets; 195 completed both the 4-year-old evaluation and the subsequent mailing and were therefore included in the current risk model analyses.1 Demographic information for the original sample is presented in Table 1.
+
+Note.
+
+CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+
+Measures in the current analyses included selected assessment tools from the 4-year-old neurodevelopmental evaluations and parent-report information/questionnaires from the subsequent 2010 mailing. Relevant measures are listed in Table 2.15
+
+Note:
+
+From the 2010 mailing, parent-report of an ASD (via the health history from) was used as a clinical marker of ASD diagnosis. More specifically, parents were asked “Have you ever been told your child has: (Check any that apply) Autism, Asperger syndrome, pervasive developmental disorder (PPD)” among other options. The Social Communication Questionnaire (SCQ) was used as a parent-report screening measure for ASD.16 A sum score of ≥ 15 indicates a “possible” ASD. The SCQ aims to quantify the extent to which social and communicative functioning is consistent with a diagnosis of an ASD. A comprehensive, neurodevelopmental diagnostic evaluation is required to confirm clinical diagnoses; however, the SCQ has been shown to be the most efficacious ASD screening tool,17 parallel the gold standard diagnostic measures (e.g., Autism Diagnostic Observation Schedule and Autism Diagnostic Interview, Revised), and has been used to characterize ASD prevalence in other patient groups.18,19 According to the creators of the SCQ, a lower cutoff scores (≥ 12) could be considered for investigations with younger individuals and with informants who are less familiar with the traits/behaviors associated with autism than the original norming sample.20 Other researchers have also used ROC curve analyses to determine population-specific cutoffs (in order to maximize the predictive value specific to developmental/medical populations). Johnson et al (2011), for example, found that a cutoff score of ≥ 14 was more appropriate in a sample of extremely pre-term children when assessed at 11-years old.21 It is important to emphasize that a positive screening does not constitute a formal diagnosis of an ASD; failed screening indicates that a child may be at risk for an ASD diagnosis and comprehensive assessment is needed to confirm diagnostic status and to rule out other neurodevelopmental issues.
+
+The rate of positive results on a ASD screener in this sample was compared to the 2010 CDC rates of ASD prevalence (1:68)22 using a Chi-square Test of Equal Proportions. Analyses were conducted using the established SCQ cutoff score of ≥ 15. Additional analyses were conducted using a research-supported cutoff score of ≥ 12, as well as parent-reported ASD diagnoses (to reflect clinical diagnoses). Of note, parent-reported diagnoses did not consistently match children identified by SCQ screening.
+
+The optimal SCQ cutoff to reflect parent-reported diagnosis on the health history form was determined using ROC analyses (i.e., area under the curve). The optimal cutoff for this sample is defined as the value that maximizes both sensitivity and specificity of predicting parent-reported diagnosis.
+
+The stepwise variable selection method was used to create a “best prediction model” using the patient factors and behavioral data collected from the 4-year old evaluation. All significant univariate variables were included in this selection method. Factors were identified that increased or decreased the probability of screening positive on the SCQ. A multivariable logistic regression was then used to identify the variables that accounted for the most variance in diagnostic status. Since there was some concern that some patient factors may be associated with some of the 4-year behavioral outcomes, sensitivity analyses were conducted to assess multicollinearity. While some variables were correlated with each other, multicollinearity analyses indicate that this correlation was not strong enough to affect the results of the models (i.e., Variance Inflation Factors [VIFs] of 1.60 or less).
+
+A significantly higher proportion of children in this study were identified via SCQ screening and/or parent-reported diagnosis than predicted based on national rates of ASDs at the time of assessment, ps < .05 (Table 3). Compared to the national rate of ASD diagnoses (1:68; 1.47%), children with CHD screened positive for an ASD at a rate of 1:30.9 (3.2%) using conservative, established cutoffs.
+
+Note.
+
+Funding source: This work was supported by a grant from the Fannie E. Rippel Foundation, an American Heart Association National Grant-in-Aid (9950480N), HL071834 from the National Institutes of Health, and the Daniel M. Tabas Endowed Chair in Pediatric Cardiothoracic Surgery.
+
+Footnotes
+
+
+
+Conflict of Interest Statement: The authors have no conflicts of interest to disclose.
+
+
+
+
+
+Financial Disclosure Statement: The authors have no financial relationships relevant to this article to disclose.
+
+
+
+
+
+Author note: Jessica L. Bean Jaworski is now at Baystate Medical Center.
+
+
+
+1The response rate of 56% is consistent with expectations given the literature regarding typical response rates to mailed surveys. For example, Shih and Fan (2008) found a typical response rate to mailed surveys of 45% via a meta-analysis of response rates from web-based and mailed surveys.1 Asch and colleagues (1997) documented a mean response rate among mail surveys published in medical journals at approximately 60%.2
+
+
+
+
+Author Contributions: Jessica L. Bean Jaworski, PhD participated in the conceptualization of this project, drafted the initial manuscript, and approved the final manuscript for submission.
+
+Nancy Burnham, RN, MSN, CRNP participated in the coordination of the parent project, data preparation, data analysis and interpretation of this project, edited the manuscript, and approved the final manuscript for publication.
+
+Jesse L. Chittams, MS participated in design and concept of the analysis, data interpretation, edited the manuscript, and approved the final manuscript for submission.
+
+Therese Sammarco, MS participated in data analysis and interpretation, edited the manuscript, and approved the final manuscript for submission.
+
+Marsha Gerdes, PhD participated in the clinical evaluation of this cohort of patients and helped to edit the manuscript and approve the final manuscript for publication.
+
+Judy C. Bernbaum, MD participated in the clinical evaluation of this cohort of patients and helped to edit the manuscript and approve the final manuscript for publication.
+
+Robert R. Clancy, MD obtained neurological historical data and performed the neurological examinations at the 4 year follow up assessment of this cohort, edited the manuscript, and approved the final manuscript for publication.
+
+Cynthia B. Solot, MA, CCC-SLP participated in the clinical evaluation of this cohort of patients and helped to edit the manuscript and approve the final manuscript for publication.
+
+Elaine H. Zackai, MD participated in evaluation of cohort to exclude syndromic subjects.
+
+Donna M. McDonald-McGinn, MS, LCGC participated in evaluation of cohort to exclude syndromic subjects, edited the manuscript and approved the final manuscript for submission.
+
+J. William Gaynor, MD participated in the design and management of the parent project, conceptualization of this project, data analysis and interpretation, edited the initial manuscript, and approved the final manuscript for submission.
+
+References
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+ 1The Children's Hospital of Philadelphia
+
+Atypical development, behavioral difficulties, and academic underachievement are common morbidities in children with a history of congenital heart defects and impact quality of life. Language and social-cognitive deficits have been described, which are associated with autism spectrum disorders. The current study aimed to assess the rates of autism spectrum disorders in a large sample of children with a history of congenital heart defects and to assess medical, behavioral, and individual factors that may be associated with the risk of autism spectrum disorders.
+
+Participants included 195 children with a history of congenital heart defects, who are followed in a large-scale longitudinal study. Measures included behavioral data from 4-year-old neurodevelopmental evaluations and parent-report data from a later annual follow-up.
+
+Using established cut-offs on an autism spectrum disorder screener, children with congenital heart defects showed higher rates of “possible” autism spectrum disorders than national rates, (Chi-square Test of Equal Proportions), all ps < .05. A stepwise variable selection method was used to create a “best prediction model” and multivariable logistic regression was used to identify variables predicting diagnostic status. Factors associated with diagnostic risk included medical (delayed sternal closure, prematurity, positive genetic findings), behavioral (cognitive, language, attention issues), and individual (socioeconomic, cultural/racial) variables. ROC analyses identified a cut-off of 7 to maximize sensitivity/specificity based on parent-reported diagnosis.
+
+Risk of autism spectrum disorder-screening status in children with congenital heart defects was higher than expected from population rates. Findings highlight the need for referral to a specialist to assess the presence and severity of social-communication issues and congenital heart defects population-specific screening thresholds for children with concern for autism spectrum disorders.
+
+With significant advances in medical management, children with serious congenital heart defects (CHD) are surviving into adolescence. Delayed and atypical development, behavioral difficulties, and academic underachievement together are more common morbidities in this population than chronic or later medical complications (e.g., unplanned operations).1 Furthermore, neurodevelopmental and behavioral concerns have an impact on the quality of life, and ultimate educational and occupational attainments.1 A better understanding of the developmental challenges in this population will promote appropriate clinical care, service delivery and, hopefully, outcomes.
+
+Multiple studies have shown that children with surgically-corrected CHD demonstrate significantly more neuropsychological difficulties than typically-developing children.2,3 Furthermore, researchers have suggested that children with CHD may be at increased risk for social-cognitive and social-communication deficits4, similar to those characteristic of children with autism spectrum disorders (ASDs).5 Neufield and colleagues (2008) reported that four children in their sample of 65 five-year olds with a history of transposition of the great arteries (TGA) and an arterial switch operation met criteria for an ASD. 6 Longitudinal follow-up studies with individuals with a history of severe CHD suggest that issues with social cognition and self-reported ASD-associated traits continue into adolescence.7,8 These findings highlight the potential severity and chronicity of social issues.
+
+Additionally, past research has highlighted the complex interplay between genetic susceptibility, medical intervention, and increasing developmental/academic expectations for children with CHD, underscoring the need to understand both the trajectory of behavioral outcomes and the contributing risk factors.9 Neurobehavioral outcomes are likely related to a complex interaction of individual (e.g., genetic susceptibility, ethnicity, birth weight) and medical management factors.10
+
+Overall, the literature highlights significant inter-individual variation in developmental outcomes1 and the need for early intervention11 and special education.12 Therefore, an accurate assessment of the proportion of children in this population screening positive for an ASD and the factors contributing to their diagnostic status is essential to inform future research efforts and clinical management. The relationship between medical and patient factors and an ASD diagnosis may elucidate a clearer predictive relationship for social concerns.
+
+The research questions addressed in this manuscript are as follows: first, are children with a history of serious CHD and infant surgery at increased risk for positive results on a ASD screener relative to the general population?13 Second, what are the relative contributions of individual/genetic, behavioral, and medical management factors to the likelihood of screening positive for an ASD? The information gained through this investigation will directly inform patient care, service delivery, and research efforts to decrease morbidity in this developmentally-vulnerable population.
+
+Children in the current study were participants in a large cohort with CHD previously described through longitudinal neurodevelopmental evaluations.9 Briefly, data were collected as part of a prospective study of neurodevelopmental outcomes in children with apo-lipoprotein E (APOE) polymorphisms after infant cardiac surgery. Data collection was approved by The Children's Hospital of Philadelphia Institutional Review Board. The original sample consisted of neonates and infants who required surgical repair of congenital heart disease between 1998 and 2003. Eligibility requirements included surgery within the first six months of life for the treatment of serious CHD. Surgical interventions involved cardiopulmonary bypass, with or without DHCA. Exclusion criteria included (1) multiple congenital abnormalities, (2) recognizable genetic/phenotypic syndrome other than chromosome 22q11.2 microdeletion syndrome, and (3) language other than English spoken in the home. Participants in the current study were not recruited due to a specific concern regarding social development, but rather were evaluated in the context of routine follow-up and developmental tracking of this vulnerable population.
+
+The original study group included 675 eligible infants, with 550 (81%) enrolled.9
+APOE genotyping was completed with 540 (98%) of the enrolled children; of these participants, 486 were alive and eligible for follow-up between their fourth and fifth birthdays, of which 381 (78%) participated. As previously reported, the only significant difference between those who did and did not participate in the 4-year-old follow-up was underrepresentation of patients who identified their ethnicity as “Black, Non-Hispanic” (21% versus 29%).9 Detailed neurodevelopmental findings from the 4-year-old examinations are presented in Gaynor et al. (2010).14
+
+As part of subsequent follow-up, 381 participants were mailed parent-report questionnaires in 2010 (two-to-seven years after their 4-year-old evaluation). Of the remaining eligible participants, 216 (56%) returned completed packets; 195 completed both the 4-year-old evaluation and the subsequent mailing and were therefore included in the current risk model analyses.1 Demographic information for the original sample is presented in Table 1.
+
+Note.
+
+CBCL PDP, Child Behavior Checklist Pervasive Developmental Problems; WPPSI-III FSIQ, Wechsler Preschool and Primary Scale of Intelligence, Third Edition Full Scale IQ
+
+Measures in the current analyses included selected assessment tools from the 4-year-old neurodevelopmental evaluations and parent-report information/questionnaires from the subsequent 2010 mailing. Relevant measures are listed in Table 2.15
+
+Note:
+
+From the 2010 mailing, parent-report of an ASD (via the health history from) was used as a clinical marker of ASD diagnosis. More specifically, parents were asked “Have you ever been told your child has: (Check any that apply) Autism, Asperger syndrome, pervasive developmental disorder (PPD)” among other options. The Social Communication Questionnaire (SCQ) was used as a parent-report screening measure for ASD.16 A sum score of ≥ 15 indicates a “possible” ASD. The SCQ aims to quantify the extent to which social and communicative functioning is consistent with a diagnosis of an ASD. A comprehensive, neurodevelopmental diagnostic evaluation is required to confirm clinical diagnoses; however, the SCQ has been shown to be the most efficacious ASD screening tool,17 parallel the gold standard diagnostic measures (e.g., Autism Diagnostic Observation Schedule and Autism Diagnostic Interview, Revised), and has been used to characterize ASD prevalence in other patient groups.18,19 According to the creators of the SCQ, a lower cutoff scores (≥ 12) could be considered for investigations with younger individuals and with informants who are less familiar with the traits/behaviors associated with autism than the original norming sample.20 Other researchers have also used ROC curve analyses to determine population-specific cutoffs (in order to maximize the predictive value specific to developmental/medical populations). Johnson et al (2011), for example, found that a cutoff score of ≥ 14 was more appropriate in a sample of extremely pre-term children when assessed at 11-years old.21 It is important to emphasize that a positive screening does not constitute a formal diagnosis of an ASD; failed screening indicates that a child may be at risk for an ASD diagnosis and comprehensive assessment is needed to confirm diagnostic status and to rule out other neurodevelopmental issues.
+
+The rate of positive results on a ASD screener in this sample was compared to the 2010 CDC rates of ASD prevalence (1:68)22 using a Chi-square Test of Equal Proportions. Analyses were conducted using the established SCQ cutoff score of ≥ 15. Additional analyses were conducted using a research-supported cutoff score of ≥ 12, as well as parent-reported ASD diagnoses (to reflect clinical diagnoses). Of note, parent-reported diagnoses did not consistently match children identified by SCQ screening.
+
+The optimal SCQ cutoff to reflect parent-reported diagnosis on the health history form was determined using ROC analyses (i.e., area under the curve). The optimal cutoff for this sample is defined as the value that maximizes both sensitivity and specificity of predicting parent-reported diagnosis.
+
+The stepwise variable selection method was used to create a “best prediction model” using the patient factors and behavioral data collected from the 4-year old evaluation. All significant univariate variables were included in this selection method. Factors were identified that increased or decreased the probability of screening positive on the SCQ. A multivariable logistic regression was then used to identify the variables that accounted for the most variance in diagnostic status. Since there was some concern that some patient factors may be associated with some of the 4-year behavioral outcomes, sensitivity analyses were conducted to assess multicollinearity. While some variables were correlated with each other, multicollinearity analyses indicate that this correlation was not strong enough to affect the results of the models (i.e., Variance Inflation Factors [VIFs] of 1.60 or less).
+
+A significantly higher proportion of children in this study were identified via SCQ screening and/or parent-reported diagnosis than predicted based on national rates of ASDs at the time of assessment, ps < .05 (Table 3). Compared to the national rate of ASD diagnoses (1:68; 1.47%), children with CHD screened positive for an ASD at a rate of 1:30.9 (3.2%) using conservative, established cutoffs.
+
+Note.
+
+http://www.ncbi.nlm.nih.gov/pubmed/28299880

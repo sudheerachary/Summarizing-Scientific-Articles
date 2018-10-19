@@ -1,0 +1,133 @@
+WearSense: Detecting Autism Stereotypic Behaviors through Smartwatches.
+
+Abstract
+
+Autism is a complex developmental disorder that affects approximately 1 in 68 children (according to the recent survey conducted by the Centers for Disease Control and Prevention—CDC) in the U.S., and has become the fastest growing category of special education. Each student with autism comes with her or his own unique needs and an array of behaviors and habits that can be severe and which interfere with everyday tasks. Autism is associated with intellectual disability, impairments in social skills, and physical health issues such as sleep and abdominal disturbances. We have designed an Internet-of-Things (IoT) framework named WearSense that leverages the sensing capabilities of modern smartwatches to detect stereotypic behaviors in children with autism. In this work, we present a study that used the inbuilt accelerometer of a smartwatch to detect three behaviors, including hand flapping, painting, and sibbing that are commonly observed in children with autism. In this feasibility study, we recruited 14 subjects to record the accelerometer data from the smartwatch worn on the wrist. The processing part extracts 34 different features in each dimension of the three-axis accelerometer, resulting in 102 features. Using and comparing various classification techniques revealed that an ensemble of 40 decision trees has the best accuracy of around 94.6%. This accuracy shows the quality of the data collected from the smartwatch and feature extraction methods used in this study. The recognition of these behaviors by using a smartwatch would be helpful in monitoring individuals with autistic behaviors, since the smartwatch can send the data to the cloud for comprehensive analysis and also to help parents, caregivers, and clinicians make informed decisions.
+
+1. Related Work
+
+Many studies have been performed to develop and evaluate tools for the recognition of physical and emotional activity for individuals with autism.
+
+In particular, N. Mohammadian Rad [5] presented a wireless inertial sensing technology that offers an infrastructure for real-time Stereotypical Motor Movements (SMM) detection. The automation would provide support for tuned intervention and possibly early alert on the onset of meltdown events. The authors developed automatic SMM detection systems based on a deep learning architecture. Authors proposed to employ the deep learning paradigm in order to learn the discriminating features from multi-sensor accelerometer signals.
+
+Recently, another study by A. Coronato [6,7] reported a method and an infrastructure for the detection of the stereotyped motion disorders of patients with ASD. The method adopted artificial intelligence techniques such as Artificial Neural Network (ANN) for the identification of stereotyped motion disorders and the Situation-Awareness paradigm for the reduction of misclassification and the extraction information from accelerometer signals. Quantitatively, the off-line classifier has shown an accuracy of over 99%; whereas the on-line classifier has an accuracy of 92%.
+
+In another study by M. S. Goodwin et al. [8,9,10], authors used three-axis accelerometer data obtained through wearable wireless sensors. The data was collected from six individuals on the autism spectrum. The authors compared pattern recognition results for different classifiers such as Support Vector Machine and Decision Tree, in combination with different feature sets based on time–frequency characteristics of accelerometer data. they achieved accuracy rates over 90% for SMM such as hand flapping and body rocking across subjects.
+
+Inspired by the work of [11], researchers focus on automatically detecting SMMs in real-time considering two different approaches. The first approach uses the Microsoft sensor Kinect and gesture recognition algorithms, and the second approach uses a trademark device of Texas Instruments with built-in accelerometers and statistical methods to recognize stereotyped movements. The two proposed systems were tested in children with ASD, and the results were compared.
+
+Our review on the state of the art shows extensive usage of various feature extraction approaches and machine learning algorithms from the accelerometer signals. In the current study, according to our consult with the specialist in autism school, the use of a sensor and wristband may increase the risk of an autism attack; we therefore used a smartwatch, which was more convenient for the children with autism to wear. Additionally, a set of features in time and frequency domains is reported which was obtained by using a combination of signal processing tools such as Wigner-Ville Bispectrum and Wigner-Ville Trispectrum. In this paper, we propose a method for automatically classifying accelerometer signals based on the three most common SMMs using an ensemble of decision trees to identify autism stereotypic behaviors.
+
+2. WearSense Architecture
+
+The Autism data were collected in two phases. (i) We recruited 12 healthy subjects aged between 23–33 and 165 samples collected data. We asked them to simulate some of these stereotypic behaviors, commonly observed in autism; (ii) We also recruited two subjects (ages 15 and 16) diagnosed with autism. These two subjects (one male, one female) were students of the J. Arthur Trudeau Memorial Center Pathways program, RI. Pathways is a classroom located in Cranston High School West, focused on autistic children at the high school age level. The smart watch recorded sensor data from the subjects as they went about their normal day. Data was recorded from these two subjects over the course of many months, with average trial sessions typically lasting from one to two hours. Trial Notes were simultaneously taken with observations and time stamps of what was happening with the client wearing the smart watch. These notes gave the researchers an idea as to which portions of data would prove useful to our research.
+
+The tasks that the subjects were invited to do included three different types for 20 s. The first task was “flapping” their hands in front of their face. The second task was “painting” a common task of writing or drawing on a piece of paper which represents one of the daily life activity that is performed by children or adults with autism. The third task was “sibbing”, which means hitting themselves on the top of their head. The WearSense architecture includes three aspects:
+
+Smartwatch: During the whole procedure of recording the data, the participants wore a Moto360 SmartWatch protected by a 3D-printed shield. The Moto360 carries several sensors for recording the data; in this work, an accelerometer sensor with a sampling rate of 50 Hz was used. The smartwatch sent the data to a smartphone via Bluetooth and saved the data on the smartphone (see Figure 1).
+
+Smartphone App: An Android app was prepared with both a smartphone and smartwatch component, written in Kotlin 1.0.0. Google Play services provide communication between both devices. The phone queries the watch for a list of all the possible sensors, and the watch responds, populating the sensor list on the phone. Users can select any number of these sensors to record from. Once started, the UI displays all data in real-time, and the data is also saved in a .CSV format for later use.
+
+Cloud Computing: The accelerometer is an electromechanical device that measures the acceleration forces, which could be static or dynamic. Measuring the static acceleration reveals the angle that the device is placed on the earth, and then we can find out how and in which direction the device is moving by measuring the amount of dynamic acceleration. The accelerometer signals are usually in three dimensions—X, Y, and Z. An example of the accelerometer signal in three different activities is shown in Figure 2. The accelerometer signals from the smartphone are analyzed in the cloud through the use of classification algorithms such as an ensemble of decisions trees that are explained in the next section.
+
+Illustration of Z-axis variation of the accelerometer for three activities.
+
+3. Methods
+
+Autism is a complex developmental disorder that affects approximately 1 in 68 children (according to the recent survey conducted by the Centers for Disease Control and Prevention—CDC) in the U.S., and has become the fastest growing category of special education. Each student with autism comes with her or his own unique needs and an array of behaviors and habits that can be severe and which interfere with everyday tasks. Autism is associated with intellectual disability, impairments in social skills, and physical health issues such as sleep and abdominal disturbances. We have designed an Internet-of-Things (IoT) framework named WearSense that leverages the sensing capabilities of modern smartwatches to detect stereotypic behaviors in children with autism. In this work, we present a study that used the inbuilt accelerometer of a smartwatch to detect three behaviors, including hand flapping, painting, and sibbing that are commonly observed in children with autism. In this feasibility study, we recruited 14 subjects to record the accelerometer data from the smartwatch worn on the wrist. The processing part extracts 34 different features in each dimension of the three-axis accelerometer, resulting in 102 features. Using and comparing various classification techniques revealed that an ensemble of 40 decision trees has the best accuracy of around 94.6%. This accuracy shows the quality of the data collected from the smartwatch and feature extraction methods used in this study. The recognition of these behaviors by using a smartwatch would be helpful in monitoring individuals with autistic behaviors, since the smartwatch can send the data to the cloud for comprehensive analysis and also to help parents, caregivers, and clinicians make informed decisions.
+
+Autism spectrum disorder (ASD) refers to a group of complex neurodevelopmental disorders that can be characterized by repetitive and characteristic patterns of behavior, and difficulties with social communication and interaction. The symptoms typically appear in early childhood and affect the individual’s ability to communicate and interact with others. According to the latest report from the Centers for Disease Control and Prevention in 2014, 1 in 68 children in the United States is diagnosed with ASD, which is almost twice as high as 1 in 125 for 2004 [1]. Caring for a child with autism is expensive; the scaled cost of caring for a child with autism for a lifetime is estimated to be as significant as $2.4 million [2], and the Autism Society has estimated that around $90 billion is invested for costs of autism in the United States annually [3]. This shows the need for more extensive research in the field, and the research needs to be conducted during early stages to improve the quality of life for individuals with autism.
+
+The symptoms of Autism can be categorized into three groups: social development, communication, and repetitive behaviors; i.e., flapping or stimming. These stereotypic behaviors happen when a child is trying to regulate the sensory input from their surrounding environment. For a long time, it was assumed that these three characteristic symptoms have a common cause at the genetic, cognitive, and neural levels. However, ongoing research has indicated that autism is a convoluted disorder with specific causes that often co-occur [4].
+
+The goal of our work is to establish and test an Internet of things (IoT) framework named WearSense that could leverage the sensing capabilities of modern smartwatches in detecting and monitoring such behaviors to facilitate clinical assessment. WearSense consists of a smartwatch, a smartphone with an app to collect the accelerometer sensor data, and machine learning algorithms to detect and classify the repetitive behaviors (see Figure 1).
+
+WearSense system architecture for monitoring autism behavior activity.
+
+We have conducted a feasibility study on 12 healthy and 2 pathological participants who were asked to perform three tasks involving repetitive behaviors observed in autism. The objectives of the study were:
+
+3.1. Bispectrum
+
+The power spectrum is based on the second-order statistics of the time series, and the third-order spectrum, called Bispectrum [12]. In particular, Bispectrum is an example of a higher-order spectrum (HOS), which is defined as the Fourier transform of third-order cumulant sequence [13]. If the signal is a stationary random process with real values, then it can be defined as follows [14]:
+
+
+
+
+As Bispectrum analysis is not easy to calculate, and it shows signal into ω1 and ω2 frequency domains, this slice of spectrum obtained from a Bispectrum is used to assess whether the analysis of data exhibits nonlinear or Gaussian distribution in the signal.
+3.2. Wigner-Ville Bispectrum and Trispectrum
+
+The Wigner-Ville distribution (WVD) is one class of bilinear distributions which transfers signal into time–frequency domains capabilities [15].
+
+The WVD has multiple extensions, one including the Wigner high-order spectrum (WHOS). The WHOS keeps the advantages the WVD intact, but also the benefits of the HOS. These spectra have been used in both non-stationary and non-Gaussian realms, signifying its use for analyzing accelerometer signals. WVD combined with WHOS is able to extract time and frequency information simultaneously [16].
+
+The higher-order spectra of WVD of order k of a complex deterministic signal x(t) can be defined as follows [17]:
+
+
+
+where Wkx(t, f1, f2,  ⋯ , fk) is a k-dimensional Fourier transform of a k-dimensional local moment function as Rkt(τ1,  ⋯ , τk) described in [16]. According to the Equation (2), special cases of WHOS include Wigner Bispectrum (WB) for k = 2 is obtained:
+
+
+
+and we propose the following definition for the Wigner Trispectrum (WT) for k = 3:
+
+
+
+
+In the real-valued case, the accelerometer signals can be recovered from this projection. The WB and WT are analyzed for use as inputs in a classifier.
+
+4. Classification
+
+To classify autistic behavior activities, an ensemble of decision trees—performed by Bagging method—is used. Decision tree (DT) is a nonparametric classification method, and its structure is like a tree, wherein it starts from the topmost by a root node and splits into two branches. DT decides whether to assign a class label to the node or to recursively split the node into two internal nodes which denote a test on an attribute. The outgoing branches of a node represent an outcome of the test [18,19].
+
+The Bagging methods are proposed for the construction of a set of individual decision trees. Bagging is one of the most efficient ensemble learning methods, used in this work to increase the prediction accuracy of DTs. Leo Breiman, 1996 presented this approach, and Bagging creates an ensemble of classifiers by sampling with replacement from training data set to bring a new training set called “bags” [20] (see Figure 3).
+
+Schematic of the ensemble of decision trees (DTs) made by 40 DTs.
+
+5. Experiments and Results
+
+This section reports the experimental results, which have been tested to analyze the proposed method. Our first step was to extract the features of accelerometer signals, as the performance of the classifiers mostly depends on selecting proper features. The feature set is 102 which was obtained by using various signal processing tools in time–frequency domains as mentioned in the Methods section. The ensemble of decision trees is proposed as a classifier, where the final ensemble consists of 40 trees (Figure 3).
+
+K-fold cross validation (K = 10) has been used for training and validation (testing). In this method, a feature set is split into K parts of approximately equal sizes with the K − 1 part used to develop a model through training, and the remaining Kth part is used for testing. This process is repeated K times [21].
+
+Experiments have been performed on a balanced set of 165 samples gained by windowing signals into a 2-s window (meaning that the number of samples was the same for each activity). The overall accuracy was calculated by averaging the results obtained over 10 times run of DT ensembles. Classification results of the ensemble of DT are shown in Table 1 in the form of a confusion matrix, together with the percentage of each classification accuracy.
+
+Classification result of autism behavior activity.
+
+It can be seen that all samples of hand flapping and painting were classified correctly, and out of 50 sibbing tasks, 45 (90%) were correctly classified as sibbing, and 5 (10%) were misclassified as hand flapping. The classification results verify the validity and performance of the proposed algorithm to recognizing autistic behavior activity with 94.6% accuracy.
+
+The Receiver Operating Characteristic (ROC) curve is for a binary classification problem, the true positive rate is reported as a function of the false positive rate for different cut-off points. A classifier with perfect performance has an area under the curve (AUC) equal to 1 (see Figure 4).
+
+Receiver Operating Characteristic (ROC) curve of autism behavior activity recognition.
+
+Table 2 shows the results in comparison with other classifiers regarding accuracy, the area under ROC, and training time. K-fold cross-validation has been used for all classifiers.
+
+Comparison of accuracy, area under the curve (AUC), and training time for different classifiers.
+
+6. Conclusions
+
+The aim of this study was to establish a smartwatch-based system to recognize and monitor the autism behavior activity which may be harmful to the person. The novelty of the methods and algorithms used in this study shows that it is possible to record the motion data by a smartwatch which can easily communicate with a smartphone and send data to the cloud for future processing. The full range of features was extracted from the data, and an ensemble of DTs was used that led to an accuracy of 96.7% in the recognition of the autistic behaviors. In particular, combining classifiers using majority votes turned out to be a superior classifier for classifying three autism actions. The findings in this paper can be exceptionally helpful for monitoring and serving children who have autism. 
+
+Author Contributions
+
+Amir Mohammad Amiri contributed to experiment design, data collection, analysis, implant planning, and manuscript preparation; Nicholas Peltier contributed to data collection, participant consent, implant planning, and manuscript preparation; Cody Goldberg contributed to design and creating the smartphone app and manuscript preparation; Yan Sun manuscript reviewing and preparation; Anoo Nathan contributed to experiment design; Shivayogi Hiremath contributed to analysis and manuscript preparation; Kunal Mankodiya was the principal investigator and contributed to experiment design, data collection, implant planning, and manuscript preparation.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+References
+
+Autism is a complex developmental disorder that affects approximately 1 in 68 children (according to the recent survey conducted by the Centers for Disease Control and Prevention—CDC) in the U.S., and has become the fastest growing category of special education. Each student with autism comes with her or his own unique needs and an array of behaviors and habits that can be severe and which interfere with everyday tasks. Autism is associated with intellectual disability, impairments in social skills, and physical health issues such as sleep and abdominal disturbances. We have designed an Internet-of-Things (IoT) framework named WearSense that leverages the sensing capabilities of modern smartwatches to detect stereotypic behaviors in children with autism. In this work, we present a study that used the inbuilt accelerometer of a smartwatch to detect three behaviors, including hand flapping, painting, and sibbing that are commonly observed in children with autism. In this feasibility study, we recruited 14 subjects to record the accelerometer data from the smartwatch worn on the wrist. The processing part extracts 34 different features in each dimension of the three-axis accelerometer, resulting in 102 features. Using and comparing various classification techniques revealed that an ensemble of 40 decision trees has the best accuracy of around 94.6%. This accuracy shows the quality of the data collected from the smartwatch and feature extraction methods used in this study. The recognition of these behaviors by using a smartwatch would be helpful in monitoring individuals with autistic behaviors, since the smartwatch can send the data to the cloud for comprehensive analysis and also to help parents, caregivers, and clinicians make informed decisions.
+
+Autism spectrum disorder (ASD) refers to a group of complex neurodevelopmental disorders that can be characterized by repetitive and characteristic patterns of behavior, and difficulties with social communication and interaction. The symptoms typically appear in early childhood and affect the individual’s ability to communicate and interact with others. According to the latest report from the Centers for Disease Control and Prevention in 2014, 1 in 68 children in the United States is diagnosed with ASD, which is almost twice as high as 1 in 125 for 2004 [1]. Caring for a child with autism is expensive; the scaled cost of caring for a child with autism for a lifetime is estimated to be as significant as $2.4 million [2], and the Autism Society has estimated that around $90 billion is invested for costs of autism in the United States annually [3]. This shows the need for more extensive research in the field, and the research needs to be conducted during early stages to improve the quality of life for individuals with autism.
+
+The symptoms of Autism can be categorized into three groups: social development, communication, and repetitive behaviors; i.e., flapping or stimming. These stereotypic behaviors happen when a child is trying to regulate the sensory input from their surrounding environment. For a long time, it was assumed that these three characteristic symptoms have a common cause at the genetic, cognitive, and neural levels. However, ongoing research has indicated that autism is a convoluted disorder with specific causes that often co-occur [4].
+
+The goal of our work is to establish and test an Internet of things (IoT) framework named WearSense that could leverage the sensing capabilities of modern smartwatches in detecting and monitoring such behaviors to facilitate clinical assessment. WearSense consists of a smartwatch, a smartphone with an app to collect the accelerometer sensor data, and machine learning algorithms to detect and classify the repetitive behaviors (see Figure 1).
+
+WearSense system architecture for monitoring autism behavior activity.
+
+We have conducted a feasibility study on 12 healthy and 2 pathological participants who were asked to perform three tasks involving repetitive behaviors observed in autism. The objectives of the study were:
+
+
+http://www.ncbi.nlm.nih.gov/pubmed/28264474
