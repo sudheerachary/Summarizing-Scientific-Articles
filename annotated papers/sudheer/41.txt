@@ -1,0 +1,478 @@
+Effect of vitamin D3 on self-perceived fatigue: A double-blind randomized placebo-controlled trial.
+
+Abstract
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+1. Introduction
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+
+2. Methods
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+2.1. Study design
+
+This investigator-initiated double-blinded RCT was conducted in accordance with the Declaration of Helsinki and the Guidelines on Good Clinical Practice. The protocol and its amendment were approved by the local ethics committee prior to data collection. All participants gave written informed consent and none received financial compensation. The study was monitored by the independent Clinical Trial Centre at the University Hospital Zurich and was registered at www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+2.2. Participants
+
+Study participants with fatigue were enrolled at the Medical Outpatients Division University Hospital Zurich. Healthy individuals who suffer from fatigue were recruited by posting announcements on in-house info boards and on the intranet of the University of Zurich and the University Hospital Zurich. Healthy subjects of 20 to 50 years with a body mass index (BMI) of 18 to 25 kg/m2 were further evaluated for inclusion.
+
+Exclusion criteria were intake of vitamin D preparations during 8 weeks prior to study enrollment, pregnancy or lactation, hypersensitivity to vitamin D, any known cardiovascular, pulmonary, renal, or hepatic disease, anemia, hyper- and hypocalcemia (corrected serum calcium levels >2.54 mmol/L or <2.09 mmol/L, respectively, the normal range given by the local laboratory), presence of muscle or bone disease, severe infection, inflammation, malignancy, known mental disorders, sleep disorders, chronic intake of concurrent medication, except oral contraceptives, known chronic kidney disease with glomerular filtration rate (CKD-EPI-estimated) <60 mL/min/1.73 m2, medication affecting physical or mental performance, participation in any other therapeutic trial within the previous month, inability to follow the procedures of the study, for example, due to language problems, psychological disorders, dementia etc., enrollment of the investigator, his/her family members, employees, and other dependent persons (Supplemental Table).
+2.3. Randomization and masking
+
+Participants were randomly allocated in a 1:1 ratio to receive an oral dose of 100,000 IU vitamin D (cholecalciferol) or placebo. The randomization schedule was generated by the hospital pharmacy prior to start of the recruitment using the software DatInf GmbH Wilhelmstr (Tübingen, Germany). Blocks of 10 participants, 5 randomly assigned for 100,000 IU vitamin D (cholecalciferol) and 5 for placebo, were generated. The randomization list remained preserved by the hospital pharmacy and was not accessible to the investigators until the end of the follow-up of the last patient.
+
+The vitamin D study medication and the placebo were manufactured to have identical appearance, taste and smell. Two capsules, each containing 50,000 IU vitamin D or placebo (mannitol), were packed in small sealed plastic cans, tagged with the corresponding randomization number. These plastic cans were opened shortly before intake and taken by the participant under supervision by the study MD.
+
+Participants were instructed not to take vitamin D preparations or other vitamins and supplements during the entire study period.
+2.4. Outcomes
+
+The primary endpoint was intra individual change in the fatigue assessment scale (FAS) from baseline to 4 weeks (https://clinicaltrials.gov/ct2/show/{"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475).
+
+FAS is a self-reported 10-item paper-and-pencil scale evaluating symptoms of chronic fatigue with lower scores indicating less fatigue. A negative change from baseline indicates improvement. Each of the 10 items has 5 response options (never, sometimes, regularly, often or always). This score was developed and validated and showed good psychometric qualities in a community setting of working population, the mean FAS was around 19 ± 6 points (range 10–50 points) in such population in previous studies.[13] Although not validated in German, the FAS is a comprehensive and easy understandable questionnaire for a lay person with any education level.
+
+The FAS score includes 2 subscales: physical fatigue and mental fatigue, with 5 items in each subscale. According to the original publication, the internal consistency of the FAS test was high at 0.90.[13]
+
+As a secondary endpoint, we investigated the efficacy of vitamin D administration on fatigue using a short self-developed fatigue test (fatigue course assessment; FCA). The FCA is a 5-item self-report paper-and-pencil scale where patients categorize their current level of fatigue as compared with its level at baseline: completely resolved = 2, improved = 1, unchanged = 0, worse = −1, much worse = −2. By this so far not validated questionnaire, we aimed to establish a short inventory for future own fatigue projects.
+
+A further secondary endpoint was the safety of oral administration of vitamin D based on clinical (physical examination, adverse events) and laboratory (serum parathyroid hormone [PTH], calcium, and phosphate levels) findings.
+2.5. Procedures
+
+The schedule of study visits is shown in Supplemental Figure.
+
+Enrollment criteria fatigue. A validated 4-item basic questionnaire for fatigue (BQF)[14] was applied to confirm fatigue symptoms at baseline. Accordingly, subjects were considered as eligible for inclusion if 2 or more points were reached. To exclude other fatigue-associated disorders such as depression, major psychiatric and sleep disorders, beck depression inventory (BDI),[15] mini international neuropsychiatric interview (M.I.N.I.),[16] and insomnia severity index (ISI)[17] were administered thereafter. Furthermore, blood was analyzed to exclude anemia, iron deficiency, hyponatremia, kidney, liver and muscle disease, thyroid disorder, and inflammation. A pregnancy test was performed in all women patients.
+
+
+
+To qualify for our enrollment criteria of vitamin D deficiency at baseline, we required a 25(OH)D level below 20 μg/L, this threshold has been used according to the latest report on dietary requirements for calcium and vitamin D from the Institute of Medicine.[18,19]
+
+25(OH) vitamin D was analyzed at the time of the screening assessment in the Institute of Clinical Chemistry, University Hospital of Zurich, using an automated immunoassay (Cobas 8000 Analyser; Roche Diagnostics, Rotkreuz, Switzerland).
+
+Additional laboratory measures included: intact PTH, calcium, phosphate, hemoglobin, ferritin, thyroid-stimulating hormone, C-reactive protein, alanine aminotransferase, alkaline phosphatase, creatinine, creatine kinase.
+
+
+
+The first clinical visit was the screening visit where exclusion and inclusion criteria were assessed. The body weight and height were measured; BMI was calculated as the weight in kilograms divided by the square of the height in meters.
+
+Eligible individuals who also signed written informed consent were invited to the baseline visit.
+
+The baseline visit was scheduled to be 2 weeks after the screening visit. At this visit, the FAS questionnaire[13] was completed by the participant. Blood pressure was measured after 5 minutes’ rest in a sitting position. Blood was taken to determine 25(OH)D, intact PTH, serum phosphate, and serum calcium. Following this, a single oral dose of 100,000 units of vitamin D or placebo was administered, supervised by the study MD.
+
+The follow-up visit took place 4 weeks (+ maximum 7 days) after the baseline visit and ingestion of the study medication. The time interval between the baseline and follow-up visit was defined based on reported pharmacokinetics of a high-dosage vitamin D administration,[20–22] in the study by Romagnoli et al,[21] the highest 25(OH)D- and the lowest PTH-level were achieved at day 30 after a per oral bolus high dose vitamin D application. Because we hypothesized that fatigue can be improved by vitamin D treatment, we assumed that the best improvement effect should be achieved at the maximum of vitamin D levels after treatment. Again, the FAS questionnaire was filled in by the participant. Additionally, FCA was applied. Thereafter, the same laboratory values were measured at the follow-up visit as at the baseline visit.
+
+
+
+To qualify for our enrollment criteria of vitamin D deficiency at baseline, we required a 25(OH)D level below 20 μg/L, this threshold has been used according to the latest report on dietary requirements for calcium and vitamin D from the Institute of Medicine.[18,19]
+
+25(OH) vitamin D was analyzed at the time of the screening assessment in the Institute of Clinical Chemistry, University Hospital of Zurich, using an automated immunoassay (Cobas 8000 Analyser; Roche Diagnostics, Rotkreuz, Switzerland).
+
+Additional laboratory measures included: intact PTH, calcium, phosphate, hemoglobin, ferritin, thyroid-stimulating hormone, C-reactive protein, alanine aminotransferase, alkaline phosphatase, creatinine, creatine kinase.
+
+
+
+The first clinical visit was the screening visit where exclusion and inclusion criteria were assessed. The body weight and height were measured; BMI was calculated as the weight in kilograms divided by the square of the height in meters.
+
+Eligible individuals who also signed written informed consent were invited to the baseline visit.
+
+The baseline visit was scheduled to be 2 weeks after the screening visit. At this visit, the FAS questionnaire[13] was completed by the participant. Blood pressure was measured after 5 minutes’ rest in a sitting position. Blood was taken to determine 25(OH)D, intact PTH, serum phosphate, and serum calcium. Following this, a single oral dose of 100,000 units of vitamin D or placebo was administered, supervised by the study MD.
+
+The follow-up visit took place 4 weeks (+ maximum 7 days) after the baseline visit and ingestion of the study medication. The time interval between the baseline and follow-up visit was defined based on reported pharmacokinetics of a high-dosage vitamin D administration,[20–22] in the study by Romagnoli et al,[21] the highest 25(OH)D- and the lowest PTH-level were achieved at day 30 after a per oral bolus high dose vitamin D application. Because we hypothesized that fatigue can be improved by vitamin D treatment, we assumed that the best improvement effect should be achieved at the maximum of vitamin D levels after treatment. Again, the FAS questionnaire was filled in by the participant. Additionally, FCA was applied. Thereafter, the same laboratory values were measured at the follow-up visit as at the baseline visit.
+2.6. Adverse events
+
+Adverse events were reported by the patients or assessed by the study physicians at the 4 weeks’ follow-up visit.
+2.7. Statistical analysis
+
+Categorical variables were expressed as proportions, continuous variables as means with standard deviations and medians with interquartile ranges (IQR). Comparisons between the study groups were performed using the t test, Mann–Whitney U test, or the Chi-square test as appropriate. Correlations were determined according to the method of Pearson. Intention-to-treat analysis included all patients randomized, treated and completing the follow-up visit. All statistical tests were 2-sided, and P values <0.05 were considered significant. The whole data set was complete.
+
+A power calculation indicated a minimum of 25 patients per treatment group to detect an effect size of 20% (α = 0.05; β = 0.2). The power analysis was performed on the basis of previously published clinical fatigue studies in sarcoidosis due to lack of randomized studies using FAS in vitamin D treatment.[23] We enrolled more patients in our study based on the assumption that the FAS treatment effect may be lower in otherwise healthy individuals.
+
+3. Results
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+
+This investigator-initiated double-blinded RCT was conducted in accordance with the Declaration of Helsinki and the Guidelines on Good Clinical Practice. The protocol and its amendment were approved by the local ethics committee prior to data collection. All participants gave written informed consent and none received financial compensation. The study was monitored by the independent Clinical Trial Centre at the University Hospital Zurich and was registered at www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Study participants with fatigue were enrolled at the Medical Outpatients Division University Hospital Zurich. Healthy individuals who suffer from fatigue were recruited by posting announcements on in-house info boards and on the intranet of the University of Zurich and the University Hospital Zurich. Healthy subjects of 20 to 50 years with a body mass index (BMI) of 18 to 25 kg/m2 were further evaluated for inclusion.
+
+Exclusion criteria were intake of vitamin D preparations during 8 weeks prior to study enrollment, pregnancy or lactation, hypersensitivity to vitamin D, any known cardiovascular, pulmonary, renal, or hepatic disease, anemia, hyper- and hypocalcemia (corrected serum calcium levels >2.54 mmol/L or <2.09 mmol/L, respectively, the normal range given by the local laboratory), presence of muscle or bone disease, severe infection, inflammation, malignancy, known mental disorders, sleep disorders, chronic intake of concurrent medication, except oral contraceptives, known chronic kidney disease with glomerular filtration rate (CKD-EPI-estimated) <60 mL/min/1.73 m2, medication affecting physical or mental performance, participation in any other therapeutic trial within the previous month, inability to follow the procedures of the study, for example, due to language problems, psychological disorders, dementia etc., enrollment of the investigator, his/her family members, employees, and other dependent persons (Supplemental Table).
+
+Participants were randomly allocated in a 1:1 ratio to receive an oral dose of 100,000 IU vitamin D (cholecalciferol) or placebo. The randomization schedule was generated by the hospital pharmacy prior to start of the recruitment using the software DatInf GmbH Wilhelmstr (Tübingen, Germany). Blocks of 10 participants, 5 randomly assigned for 100,000 IU vitamin D (cholecalciferol) and 5 for placebo, were generated. The randomization list remained preserved by the hospital pharmacy and was not accessible to the investigators until the end of the follow-up of the last patient.
+
+The vitamin D study medication and the placebo were manufactured to have identical appearance, taste and smell. Two capsules, each containing 50,000 IU vitamin D or placebo (mannitol), were packed in small sealed plastic cans, tagged with the corresponding randomization number. These plastic cans were opened shortly before intake and taken by the participant under supervision by the study MD.
+
+Participants were instructed not to take vitamin D preparations or other vitamins and supplements during the entire study period.
+
+The primary endpoint was intra individual change in the fatigue assessment scale (FAS) from baseline to 4 weeks (https://clinicaltrials.gov/ct2/show/{"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475).
+
+FAS is a self-reported 10-item paper-and-pencil scale evaluating symptoms of chronic fatigue with lower scores indicating less fatigue. A negative change from baseline indicates improvement. Each of the 10 items has 5 response options (never, sometimes, regularly, often or always). This score was developed and validated and showed good psychometric qualities in a community setting of working population, the mean FAS was around 19 ± 6 points (range 10–50 points) in such population in previous studies.[13] Although not validated in German, the FAS is a comprehensive and easy understandable questionnaire for a lay person with any education level.
+
+The FAS score includes 2 subscales: physical fatigue and mental fatigue, with 5 items in each subscale. According to the original publication, the internal consistency of the FAS test was high at 0.90.[13]
+
+As a secondary endpoint, we investigated the efficacy of vitamin D administration on fatigue using a short self-developed fatigue test (fatigue course assessment; FCA). The FCA is a 5-item self-report paper-and-pencil scale where patients categorize their current level of fatigue as compared with its level at baseline: completely resolved = 2, improved = 1, unchanged = 0, worse = −1, much worse = −2. By this so far not validated questionnaire, we aimed to establish a short inventory for future own fatigue projects.
+
+A further secondary endpoint was the safety of oral administration of vitamin D based on clinical (physical examination, adverse events) and laboratory (serum parathyroid hormone [PTH], calcium, and phosphate levels) findings.
+
+The schedule of study visits is shown in Supplemental Figure.
+
+Enrollment criteria fatigue. A validated 4-item basic questionnaire for fatigue (BQF)[14] was applied to confirm fatigue symptoms at baseline. Accordingly, subjects were considered as eligible for inclusion if 2 or more points were reached. To exclude other fatigue-associated disorders such as depression, major psychiatric and sleep disorders, beck depression inventory (BDI),[15] mini international neuropsychiatric interview (M.I.N.I.),[16] and insomnia severity index (ISI)[17] were administered thereafter. Furthermore, blood was analyzed to exclude anemia, iron deficiency, hyponatremia, kidney, liver and muscle disease, thyroid disorder, and inflammation. A pregnancy test was performed in all women patients.
+3.1. Primary endpoint
+
+Over 4 weeks, the mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01) (Fig. ​(Fig.1,1, Table ​Table2).2). FAS improved significantly only in the vitamin D (P < 0.001) but not in the placebo (P = 0.24) group (Fig. ​(Fig.2).2). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62).
+
+Change of fatigue assessment scale depending on the administration of vitamin D or placebo (dotted lines correspond to means).
+
+Change in fatigue assessment scale and blood parameters 4 weeks after vitamin D treatment.
+
+Fatigue at baseline and after 4 weeks in the vitamin D-treated and placebo-treated group (dotted lines correspond to means).
+
+A greater improvement of FAS was associated with a greater increase in the 25(OH)D level (R = −0.22; P = 0.02).
+
+If calculating including the participant who started taking venlafaxine after the baseline visit (intention-to-treat analysis), the mean FAS still decreased significantly more in the vitamin D group (−3.2 ± 5.3; 95% CI for change −14.0 to 4.0) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7) (P = 0.01).
+3.2. Secondary endpoints
+
+Improvement in fatigue at the 4 weeks’ follow-up visit, as assessed by the self-developed FCA, was reported by 28 (48%) of vitamin D treated and 23 (37%) of placebo-treated patients (P = 0.22) (OR 1.58; 95% CI for OR 0.76–3.28).
+
+A significant increase in 25-OH vitamin D was observed in vitamin D but not in placebo-treated participants (14.0 ± 5.4 vs −0.3 ± 3.2 μg/L; P < 0.001). A significant decrease in PTH levels in vitamin D-treated and an increase in placebo-treated participants was observed (−2.6 ± 13 vs 3.9 ± 18 ng/L; P = 0.03). Calcium and phosphate levels remained unchanged in both groups (Table ​(Table22).
+
+The number of participants reporting adverse events and the number of adverse events per patient was similar in both groups (Table ​(Table3).3). No serious events occurred. The most often reported adverse event was infection, the majority viral upper respiratory likely due to the influenza outbreaks in spring and winter 2014 and 2015, when the most patients were recruited.
+
+Adverse events.
+
+4. Discussion
+
+This is the first double-blind RCT that tested a 1-time vitamin D treatment among otherwise healthy vitamin D deficient individuals with fatigue, were strict criteria were used to exclude common medical conditions potentially causing fatigue. Our results showed that 100,000 IE single dose vitamin D treatment lead to a significant improvement in fatigue in the vitamin D group compared with the placebo group. Moreover, improvement in fatigue modestly but significantly correlated with the change in 25(OH)D levels among all participants. The vitamin D treatment was shown to be well-tolerated.
+
+In this study, we enrolled fatigued persons not suffering from other physical or mental illnesses but with 25-hydroxyvitamin D levels below 20 μg/L.[18,19]
+
+The strength of our study is the placebo-controlled design in a population where main causes of fatigue were excluded using validated tools. Vitamin D treatment led to a significant reduction in parathyroid hormone secretion, along with an increase in 25(OH)D, indicating a treatment effect and confirming the biological 25(OH)D deficiency at baseline.
+
+It should be noted that the study population consisted of healthy individuals responding to an advertisement. Therefore, it remains to be further elucidated if the treatment effect would be less or as great or greater in a help seeking population in primary care settings. Importantly, the generalizability of the findings is limited to an otherwise healthy population, in an elderly more ill population, a high-dose vitamin D therapy showed an increase in fall incidence.[24] Also, our study is limited by its short-term follow-up and should serve as a pilot study for future vitamin D treatment on fatigue trials. Moreover, the study results are not generalizable to milder vitamin D insufficiency. A further potential disadvantage is that we did not enroll all patients at the same time of year in order to equalize sunlight exposure, which may influence fatigue independently of sun-induced vitamin D synthesis in the skin. However, allocation to the treatment groups was similar between seasons, as shown in the results section. A further possible limitation of our study is the lack of fatigue-associated further endpoints such as muscle pains and strength, quality of life and cognition. On the other hand, by using 1 primary end-point, we potentially avoid a multi-testing issue. Finally, this study does not answer the question to what extent treatment with vitamin D also reduces other harms associated with fatigue, such as occupational impairment or costs of care. Last but not least, future prospective randomized studies should also address the question if the parameters of cardiovascular health could be improved by vitamin D treatment. Study by Witham et al[7] previously showed no improvement of CFS following a high-dose intermittent oral vitamin D therapy. There are possible explanations why our study results are different. First, Witham et al[7] used the Fukuda et al[25] and Carruthers et al[26] CFS criteria for the study inclusion. In contrast, our population had no underlying illnesses and was younger. Patients with CFS may suffer from fatigue of a multidimensional origin, arising from an underlying medical condition, comedication, inflammation, and other pathologies. Importantly, our study results are not generalizable to CFS. Second, we included participants with lower vitamin D levels in whom vitamin D replacement may have led to a more pronounced effect.
+
+Previous prospective non-randomized studies suggested that normalization of vitamin D status significantly improved severity of fatigue in patients with various medical conditions.[9–11] However, self-reported improvements in fatigue are highly susceptible to placebo effects,[12] which are also evident in our own placebo group (Table ​(Table2,2, Fig. ​Fig.2).2). We, therefore, chose to conduct a double-blind placebo-controlled trial.
+
+While the effects of vitamin D on fracture and fall prevention among vitamin D deficient seniors are well investigated,[24] other non-skeletal effects of vitamin D are increasingly attracting research interest,[27] but lack evidence from double-blind RCTs.[18] The mechanism by which vitamin D treatment may improve fatigue is unknown. However, the vitamin D receptor has been shown to be present in many areas of the brain.[28] Central fatigue has been proposed to arise from a dopamine imbalance within the central nervous system and the vitamin D receptor has been demonstrated in dopaminergic neurons of human and rat midbrain; these neurons have been found to be regulated by the active form of vitamin D.[29] Moreover, vitamin D has been shown to act as key regulator of brain serotonin synthesis.[30] Additional clinical and experimental evidence suggests that a defect in serotonergic function might also be associated with fatigue.[31] These changes may potentially lead to an improvement of physical function and of depressive symptoms. Furthermore, cholecalciferol therapy increases muscle mitochondrial oxidative phosphorylation in vitamin D deficient individuals, potentially leading to a modulation of fatigue.[32] In agreement with the latter observation, vitamin D was found to influence oxidative phosphorylation in rat liver mitochondria.[33]
+
+In conclusion, our study shows that a single dose of oral 100,000 IE vitamin D3 is an effective, well-tolerated, and economical treatment strategy for healthy adults who report fatigue.
+
+Supplementary Material
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+
+This investigator-initiated double-blinded RCT was conducted in accordance with the Declaration of Helsinki and the Guidelines on Good Clinical Practice. The protocol and its amendment were approved by the local ethics committee prior to data collection. All participants gave written informed consent and none received financial compensation. The study was monitored by the independent Clinical Trial Centre at the University Hospital Zurich and was registered at www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Study participants with fatigue were enrolled at the Medical Outpatients Division University Hospital Zurich. Healthy individuals who suffer from fatigue were recruited by posting announcements on in-house info boards and on the intranet of the University of Zurich and the University Hospital Zurich. Healthy subjects of 20 to 50 years with a body mass index (BMI) of 18 to 25 kg/m2 were further evaluated for inclusion.
+
+Exclusion criteria were intake of vitamin D preparations during 8 weeks prior to study enrollment, pregnancy or lactation, hypersensitivity to vitamin D, any known cardiovascular, pulmonary, renal, or hepatic disease, anemia, hyper- and hypocalcemia (corrected serum calcium levels >2.54 mmol/L or <2.09 mmol/L, respectively, the normal range given by the local laboratory), presence of muscle or bone disease, severe infection, inflammation, malignancy, known mental disorders, sleep disorders, chronic intake of concurrent medication, except oral contraceptives, known chronic kidney disease with glomerular filtration rate (CKD-EPI-estimated) <60 mL/min/1.73 m2, medication affecting physical or mental performance, participation in any other therapeutic trial within the previous month, inability to follow the procedures of the study, for example, due to language problems, psychological disorders, dementia etc., enrollment of the investigator, his/her family members, employees, and other dependent persons (Supplemental Table).
+
+Participants were randomly allocated in a 1:1 ratio to receive an oral dose of 100,000 IU vitamin D (cholecalciferol) or placebo. The randomization schedule was generated by the hospital pharmacy prior to start of the recruitment using the software DatInf GmbH Wilhelmstr (Tübingen, Germany). Blocks of 10 participants, 5 randomly assigned for 100,000 IU vitamin D (cholecalciferol) and 5 for placebo, were generated. The randomization list remained preserved by the hospital pharmacy and was not accessible to the investigators until the end of the follow-up of the last patient.
+
+The vitamin D study medication and the placebo were manufactured to have identical appearance, taste and smell. Two capsules, each containing 50,000 IU vitamin D or placebo (mannitol), were packed in small sealed plastic cans, tagged with the corresponding randomization number. These plastic cans were opened shortly before intake and taken by the participant under supervision by the study MD.
+
+Participants were instructed not to take vitamin D preparations or other vitamins and supplements during the entire study period.
+
+The primary endpoint was intra individual change in the fatigue assessment scale (FAS) from baseline to 4 weeks (https://clinicaltrials.gov/ct2/show/{"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475).
+
+FAS is a self-reported 10-item paper-and-pencil scale evaluating symptoms of chronic fatigue with lower scores indicating less fatigue. A negative change from baseline indicates improvement. Each of the 10 items has 5 response options (never, sometimes, regularly, often or always). This score was developed and validated and showed good psychometric qualities in a community setting of working population, the mean FAS was around 19 ± 6 points (range 10–50 points) in such population in previous studies.[13] Although not validated in German, the FAS is a comprehensive and easy understandable questionnaire for a lay person with any education level.
+
+The FAS score includes 2 subscales: physical fatigue and mental fatigue, with 5 items in each subscale. According to the original publication, the internal consistency of the FAS test was high at 0.90.[13]
+
+As a secondary endpoint, we investigated the efficacy of vitamin D administration on fatigue using a short self-developed fatigue test (fatigue course assessment; FCA). The FCA is a 5-item self-report paper-and-pencil scale where patients categorize their current level of fatigue as compared with its level at baseline: completely resolved = 2, improved = 1, unchanged = 0, worse = −1, much worse = −2. By this so far not validated questionnaire, we aimed to establish a short inventory for future own fatigue projects.
+
+A further secondary endpoint was the safety of oral administration of vitamin D based on clinical (physical examination, adverse events) and laboratory (serum parathyroid hormone [PTH], calcium, and phosphate levels) findings.
+
+The schedule of study visits is shown in Supplemental Figure.
+
+Enrollment criteria fatigue. A validated 4-item basic questionnaire for fatigue (BQF)[14] was applied to confirm fatigue symptoms at baseline. Accordingly, subjects were considered as eligible for inclusion if 2 or more points were reached. To exclude other fatigue-associated disorders such as depression, major psychiatric and sleep disorders, beck depression inventory (BDI),[15] mini international neuropsychiatric interview (M.I.N.I.),[16] and insomnia severity index (ISI)[17] were administered thereafter. Furthermore, blood was analyzed to exclude anemia, iron deficiency, hyponatremia, kidney, liver and muscle disease, thyroid disorder, and inflammation. A pregnancy test was performed in all women patients.
+
+Acknowledgments
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+
+This investigator-initiated double-blinded RCT was conducted in accordance with the Declaration of Helsinki and the Guidelines on Good Clinical Practice. The protocol and its amendment were approved by the local ethics committee prior to data collection. All participants gave written informed consent and none received financial compensation. The study was monitored by the independent Clinical Trial Centre at the University Hospital Zurich and was registered at www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Study participants with fatigue were enrolled at the Medical Outpatients Division University Hospital Zurich. Healthy individuals who suffer from fatigue were recruited by posting announcements on in-house info boards and on the intranet of the University of Zurich and the University Hospital Zurich. Healthy subjects of 20 to 50 years with a body mass index (BMI) of 18 to 25 kg/m2 were further evaluated for inclusion.
+
+Exclusion criteria were intake of vitamin D preparations during 8 weeks prior to study enrollment, pregnancy or lactation, hypersensitivity to vitamin D, any known cardiovascular, pulmonary, renal, or hepatic disease, anemia, hyper- and hypocalcemia (corrected serum calcium levels >2.54 mmol/L or <2.09 mmol/L, respectively, the normal range given by the local laboratory), presence of muscle or bone disease, severe infection, inflammation, malignancy, known mental disorders, sleep disorders, chronic intake of concurrent medication, except oral contraceptives, known chronic kidney disease with glomerular filtration rate (CKD-EPI-estimated) <60 mL/min/1.73 m2, medication affecting physical or mental performance, participation in any other therapeutic trial within the previous month, inability to follow the procedures of the study, for example, due to language problems, psychological disorders, dementia etc., enrollment of the investigator, his/her family members, employees, and other dependent persons (Supplemental Table).
+
+Participants were randomly allocated in a 1:1 ratio to receive an oral dose of 100,000 IU vitamin D (cholecalciferol) or placebo. The randomization schedule was generated by the hospital pharmacy prior to start of the recruitment using the software DatInf GmbH Wilhelmstr (Tübingen, Germany). Blocks of 10 participants, 5 randomly assigned for 100,000 IU vitamin D (cholecalciferol) and 5 for placebo, were generated. The randomization list remained preserved by the hospital pharmacy and was not accessible to the investigators until the end of the follow-up of the last patient.
+
+The vitamin D study medication and the placebo were manufactured to have identical appearance, taste and smell. Two capsules, each containing 50,000 IU vitamin D or placebo (mannitol), were packed in small sealed plastic cans, tagged with the corresponding randomization number. These plastic cans were opened shortly before intake and taken by the participant under supervision by the study MD.
+
+Participants were instructed not to take vitamin D preparations or other vitamins and supplements during the entire study period.
+
+The primary endpoint was intra individual change in the fatigue assessment scale (FAS) from baseline to 4 weeks (https://clinicaltrials.gov/ct2/show/{"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475).
+
+FAS is a self-reported 10-item paper-and-pencil scale evaluating symptoms of chronic fatigue with lower scores indicating less fatigue. A negative change from baseline indicates improvement. Each of the 10 items has 5 response options (never, sometimes, regularly, often or always). This score was developed and validated and showed good psychometric qualities in a community setting of working population, the mean FAS was around 19 ± 6 points (range 10–50 points) in such population in previous studies.[13] Although not validated in German, the FAS is a comprehensive and easy understandable questionnaire for a lay person with any education level.
+
+The FAS score includes 2 subscales: physical fatigue and mental fatigue, with 5 items in each subscale. According to the original publication, the internal consistency of the FAS test was high at 0.90.[13]
+
+As a secondary endpoint, we investigated the efficacy of vitamin D administration on fatigue using a short self-developed fatigue test (fatigue course assessment; FCA). The FCA is a 5-item self-report paper-and-pencil scale where patients categorize their current level of fatigue as compared with its level at baseline: completely resolved = 2, improved = 1, unchanged = 0, worse = −1, much worse = −2. By this so far not validated questionnaire, we aimed to establish a short inventory for future own fatigue projects.
+
+A further secondary endpoint was the safety of oral administration of vitamin D based on clinical (physical examination, adverse events) and laboratory (serum parathyroid hormone [PTH], calcium, and phosphate levels) findings.
+
+The schedule of study visits is shown in Supplemental Figure.
+
+Enrollment criteria fatigue. A validated 4-item basic questionnaire for fatigue (BQF)[14] was applied to confirm fatigue symptoms at baseline. Accordingly, subjects were considered as eligible for inclusion if 2 or more points were reached. To exclude other fatigue-associated disorders such as depression, major psychiatric and sleep disorders, beck depression inventory (BDI),[15] mini international neuropsychiatric interview (M.I.N.I.),[16] and insomnia severity index (ISI)[17] were administered thereafter. Furthermore, blood was analyzed to exclude anemia, iron deficiency, hyponatremia, kidney, liver and muscle disease, thyroid disorder, and inflammation. A pregnancy test was performed in all women patients.
+
+The authors thank Emily Pollock for careful proofreading of the manuscript.
+
+Footnotes
+
+
+
+Abbreviations: 25(OH)D = 25-hydroxyvitamin D, BDI = beck depression inventory, BMI = body mass index, BQF = basic questionnaire for fatigue, CFS = chronic fatigue syndrome, FAS = fatigue assessment scale, FCA = fatigue course assessment, IQR = interquartile range, ISI = insomnia severity index, IU = international unit, M.I.N.I = mini international neuropsychiatric interview, MD = medical doctor, OR = odds ratio, PTH = parathyroid hormone, RCT = randomized clinical trial, TSH = thyroid stimulating hormone.
+
+
+
+
+
+This trial was partly funded by EMDO Foundation. The funding source had no role in the design and conduct of the study; collection, management, analysis, or interpretation of the data; or preparation, review or approval of the manuscript. The researchers were independent from funders.
+
+
+
+
+
+The authors report no conflicts of interest.
+
+
+
+
+
+Supplemental digital content is available for this article.
+
+
+
+References
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+bInstitute for Clinical Chemistry, University Hospital Zurich and University of Zurich
+
+cDivision of Endocrinology, Diabetology and Clinical Nutrition
+
+dDepartment of Geriatrics, University Hospital Zurich, Zurich
+
+aDepartment of Internal Medicine
+
+aDepartment of Internal Medicine
+
+eDepartment of Internal Medicine, Spital Linth, Uznach, Switzerland.
+
+Vitamin D deficiency is frequent and has been associated with fatigue in uncontrolled trials.
+
+This is the first double-blind placebo-controlled clinical trial to investigate the efficacy of per os vitamin D3 (cholecalciferol) in treating fatigue among otherwise healthy persons with low serum 25-hydroxyvitamin D (25(OH)D) levels. We enrolled 120 individuals (mean age 29 ± 6 years, 53% women) presenting with fatigue and vitamin D deficiency (serum 25(OH)D < 20 μg/L). Participants were randomized to a single oral dose of 100,000 units of vitamin D or placebo. The primary endpoint was intra-individual change in the fatigue assessment scale (FAS) at 4 weeks after treatment.
+
+The mean age of the participants was 29 ± 6 years, 53% were women. Mean FAS decreased significantly more in the vitamin D group (−3.3 ± 5.3; 95% confidence interval [CI] for change −14.1 to 4.1) compared with placebo (−0.8 ± 5.3; 95% CI for change −9.0 to 8.7); (P = 0.01). Amelioration of fatigue was reported more frequently in vitamin D than in placebo group (42 [72%] vs. 31 [50%]; P = 0.01; odds ratio [OR] 2.63, 95% CI for OR 1.23–5.62). Among all participants, improvement in fatigue score correlated with the rise in 25(OH)D level (R = −0.22, P = 0.02).
+
+Vitamin D treatment significantly improved fatigue in otherwise healthy persons with vitamin D deficiency.
+
+This study was registered at the www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Fatigue is a frequent complaint in primary care in developed and developing countries.[1] It can lead to impaired quality of life and loss of productive work time.[2] Physicians are likely to prescribe vitamins—especially vitamin D, iron, and nutritional supplements to treat the symptom presumptively. In consequence, such preparations account for a large number of drugs dispensed. However, there is little scientific evidence to support this procedure and practitioners may experience uncertainty due to lack of available scientific data.
+
+Vitamin D deficiency is frequent[3] and has been associated with fatigue and other unspecific symptoms including headache,[4] musculoskeletal pain and weakness,[5] depression,[6] and impaired cognitive performance.[4] One randomized controlled trial tested the effect of high-dose vitamin D3 on symptoms in chronic fatigue syndrome (CFS), where no improvement of fatigue was found.[7] In another randomized controlled trial, muscle pains improved in a population of primary care patients with vitamin D deficiency.[8] Several uncontrolled studies suggested that fatigue may improve after correction of low vitamin D levels in individuals with stable chronic diseases,[9] breast cancer,[10] and myasthenia gravis.[11] However, the results of these studies need to be confirmed by a double-blind randomized clinical trial (RCT) because strong placebo effect can influence investigation of any therapeutic approach to reduce fatigue.[12]
+
+In this study, we aimed to test if a single vitamin D dose improves fatigue after 30 days among vitamin D deficient individuals who report fatigue but are otherwise healthy.
+
+This investigator-initiated double-blinded RCT was conducted in accordance with the Declaration of Helsinki and the Guidelines on Good Clinical Practice. The protocol and its amendment were approved by the local ethics committee prior to data collection. All participants gave written informed consent and none received financial compensation. The study was monitored by the independent Clinical Trial Centre at the University Hospital Zurich and was registered at www.ClinicalTrials.gov Protocol ID {"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475.
+
+Study participants with fatigue were enrolled at the Medical Outpatients Division University Hospital Zurich. Healthy individuals who suffer from fatigue were recruited by posting announcements on in-house info boards and on the intranet of the University of Zurich and the University Hospital Zurich. Healthy subjects of 20 to 50 years with a body mass index (BMI) of 18 to 25 kg/m2 were further evaluated for inclusion.
+
+Exclusion criteria were intake of vitamin D preparations during 8 weeks prior to study enrollment, pregnancy or lactation, hypersensitivity to vitamin D, any known cardiovascular, pulmonary, renal, or hepatic disease, anemia, hyper- and hypocalcemia (corrected serum calcium levels >2.54 mmol/L or <2.09 mmol/L, respectively, the normal range given by the local laboratory), presence of muscle or bone disease, severe infection, inflammation, malignancy, known mental disorders, sleep disorders, chronic intake of concurrent medication, except oral contraceptives, known chronic kidney disease with glomerular filtration rate (CKD-EPI-estimated) <60 mL/min/1.73 m2, medication affecting physical or mental performance, participation in any other therapeutic trial within the previous month, inability to follow the procedures of the study, for example, due to language problems, psychological disorders, dementia etc., enrollment of the investigator, his/her family members, employees, and other dependent persons (Supplemental Table).
+
+Participants were randomly allocated in a 1:1 ratio to receive an oral dose of 100,000 IU vitamin D (cholecalciferol) or placebo. The randomization schedule was generated by the hospital pharmacy prior to start of the recruitment using the software DatInf GmbH Wilhelmstr (Tübingen, Germany). Blocks of 10 participants, 5 randomly assigned for 100,000 IU vitamin D (cholecalciferol) and 5 for placebo, were generated. The randomization list remained preserved by the hospital pharmacy and was not accessible to the investigators until the end of the follow-up of the last patient.
+
+The vitamin D study medication and the placebo were manufactured to have identical appearance, taste and smell. Two capsules, each containing 50,000 IU vitamin D or placebo (mannitol), were packed in small sealed plastic cans, tagged with the corresponding randomization number. These plastic cans were opened shortly before intake and taken by the participant under supervision by the study MD.
+
+Participants were instructed not to take vitamin D preparations or other vitamins and supplements during the entire study period.
+
+The primary endpoint was intra individual change in the fatigue assessment scale (FAS) from baseline to 4 weeks (https://clinicaltrials.gov/ct2/show/{"type":"clinical-trial","attrs":{"text":"NCT02022475","term_id":"NCT02022475"}}NCT02022475).
+
+FAS is a self-reported 10-item paper-and-pencil scale evaluating symptoms of chronic fatigue with lower scores indicating less fatigue. A negative change from baseline indicates improvement. Each of the 10 items has 5 response options (never, sometimes, regularly, often or always). This score was developed and validated and showed good psychometric qualities in a community setting of working population, the mean FAS was around 19 ± 6 points (range 10–50 points) in such population in previous studies.[13] Although not validated in German, the FAS is a comprehensive and easy understandable questionnaire for a lay person with any education level.
+
+The FAS score includes 2 subscales: physical fatigue and mental fatigue, with 5 items in each subscale. According to the original publication, the internal consistency of the FAS test was high at 0.90.[13]
+
+As a secondary endpoint, we investigated the efficacy of vitamin D administration on fatigue using a short self-developed fatigue test (fatigue course assessment; FCA). The FCA is a 5-item self-report paper-and-pencil scale where patients categorize their current level of fatigue as compared with its level at baseline: completely resolved = 2, improved = 1, unchanged = 0, worse = −1, much worse = −2. By this so far not validated questionnaire, we aimed to establish a short inventory for future own fatigue projects.
+
+A further secondary endpoint was the safety of oral administration of vitamin D based on clinical (physical examination, adverse events) and laboratory (serum parathyroid hormone [PTH], calcium, and phosphate levels) findings.
+
+The schedule of study visits is shown in Supplemental Figure.
+
+Enrollment criteria fatigue. A validated 4-item basic questionnaire for fatigue (BQF)[14] was applied to confirm fatigue symptoms at baseline. Accordingly, subjects were considered as eligible for inclusion if 2 or more points were reached. To exclude other fatigue-associated disorders such as depression, major psychiatric and sleep disorders, beck depression inventory (BDI),[15] mini international neuropsychiatric interview (M.I.N.I.),[16] and insomnia severity index (ISI)[17] were administered thereafter. Furthermore, blood was analyzed to exclude anemia, iron deficiency, hyponatremia, kidney, liver and muscle disease, thyroid disorder, and inflammation. A pregnancy test was performed in all women patients.
+
+http://www.ncbi.nlm.nih.gov/pubmed/28033244
