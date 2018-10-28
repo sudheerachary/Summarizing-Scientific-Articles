@@ -1,6 +1,6 @@
 # clean.py
 ```
-python clean.py inputFile > outFile
+python clean.py inputFile | awk '!uniq[substr($0, 0, 10000)]++' > outFile
 ```
 - Basic cleaning of the `inputFile` and writing to `outFile`, each line in `outFile` being a sentence from the `inputFile`.
 - May have errors, ignore them or manually correct if you want.
