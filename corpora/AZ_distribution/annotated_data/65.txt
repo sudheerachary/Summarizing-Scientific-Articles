@@ -1,0 +1,101 @@
+Krifka 1993 has suggested that focus should be seen as a means of providing material for a range of semantic and pragmatic functions to work on , rather than as a specific semantic or pragmatic function itself .
+The current paper describes an implementation of this general idea , and applies it to the interpretation of only and not .
+Consider the following sentences :
+All of them entail the same basic message , namely that I borrowed your car .
+In addition to the basic message , however , they also carry information about what I didn't do .
+ says that I didn't borrow any of your other possessions ,  says that I didn't borrow anyone else 's car , and  says that I didn't do anything else to your car .
+It seems as though the word only and the focus marker ( indicated here by underlining the stressed word ) combine to add an extra message about what I didn't do .
+A similar phenomenon appears to be taking place in the next set of sentences :
+Each of these says that I didn't steal your car , but again they each carry some extra message .
+ says that I did steal something which belongs to you ,  says that I stole somebody 's car , but not yours , and  says that I did do something to your car ( I probably borrowed it , though that is not entailed by  ) .
+Krifka 1993 argues that in  -  and  -  , and in a number of other situations as well , the focus marker is used to extract part of the interpretation .
+Operators like only and so-called `` focussed negation then combine the extracted element of the interpretation with what was left behind to carry complex messages of the kind discussed above .
+The current paper shows how to implement this general notion , without following Krifka 's analysis in detail .
+The crucial point is the provision of some way of storing the extracted part of the interpretation and making it available when required .
+The interpretation of only and focussed negation is fairly straightforward , so long as the treatment of the focussed item itself is coherent .
+The general aim of this paper is to show how to use focus to decompose the interpretation of a phrase into two parts , where one part is the interpretation of the focussed item and the other is some object with which this can combine .
+Suppose , for example , we thought that the VP ` ate a peach ' should be interpreted as :
+In other words , this VP is an abstraction over events where somebody ate a peach .
+Then we would want the two objects corresponding to the interpretation of ate a peach to be something like :
+and
+Here we have extracted the denotation of peach as the property of being a peach , and converted the interpretation of the VP to an abstraction which will combine appropriately with this property to reproduce the original interpretation .
+Where else do we see a phenomenon of this kind ?
+Consider the following phrases :
+In  the property of being a man combines with the property of being someone who stole your bike to construct a contextually minimal unique characterisation of the relevant individual , and similarly in  .
+To achieve this , we need to interpret the relative pronouns in the two relative clauses as leaving a hole in the interpretation of clause and then abstracting with respect to that hole .
+This is clear for  , but it also holds for  if we want to interpret a sentence like a man stole a bike as
+where the quantifier introduced by the subject does not in fact have maximal scope ( an analysis I have argued for elsewhere Ramsay 1992a ) .
+The treatment of  clearly requires much the same mechanism as we will require if we want to deal with focus as outlined above , and this may or may not also hold for  .
+Any serious NLP system will include some way of dealing with the interpretation of cases like  , and almost any such mechanism should be open to adaptation to deal with focus along the suggested lines .
+One such approach is outlined below .
+We expect to interpret relative clauses ( uncontroversially ) and phrases with focussed constituents ( more controversially ) as abstractions over the interpretations of simple sentences .
+In order to construct interpretations of the kinds of objects we are interested in , then , we have to start by looking at simple sentences .
+The analyses presented in this paper start from the following observations , most of which are fairly orthodox :
+Indefinite NPs should be viewed as a way of introducing items ( or preferably sets of items ) into the discourse .
+Universally quantified NPs say that all items of the specified type satisfy some property .
+VPs should be viewed as a way of introducing events or possibly sets of events into the discourse .
+If you construct interpretations by paraphrasing NL sentences into a formal language which extends predicate calculus , you have to realise that the scope of quantifiers in your paraphrases may not be determined by simple structural properties of the source text .
+Definite NPs and other presuppositional constructions place constraints on the discourse , so that a sentence containing the phrase the man will be uninterpretable in contexts not containing a unique man ( a version of this point has been made by , among others , Barwise and Perry 1983 , Kamp 1984 , Groenendijk and Stokhof 1987 ) .
+There are interactions of scope between definite NPs and other types of expression : in Each man kills the thing he loves , the presuppositional construct the thing he loves requires the existence of a single target of affection per man .
+The standard way to deal with the potential discrepancy between where a phrase appears and the width of its scope is by storing quantifiers on a quantifier stack until the entire sentence has been interpreted , and then using explicit information about the priority of various quantifiers to sort things out Cooper 1983, Vestre 1991 .
+The work reported here follows this treatment , but extends it by introducing quantifier-like entities for dealing with presuppositional items such as definite NPs ( see Ramsay 1992b , Ramsay 1994a for a formal account of such CONSTRAINTS on whether a sentence is meaningful with respect to a situation ) .
+As an example , the sentence the woman stole a bike is interpreted as
+This says that the relationship simple holds between some past instant A and the property of being a certain sort of event .
+What sort of event ?
+One where a bike is stolen by someone ( or rather , where a singleton set of bikes is stolen ) .
+Writing something like  , where W may contain occurrences of B , says that W holds for the contextually unique individual B which satisfies the restriction that B is a woman ( is a singleton set of women ) .
+If this restriction fails to pick out a unique individual the whole expression is meaningless in the context .
+Most of this analysis is fairly orthodox .
+The two main points that might require some defence are the analysis of aspect in terms of a relationship between temporal objects and event types , which is discussed in Ramsay 1993 , and the treatment of definite reference in terms of constraints on meaningfulness .
+Neither of these is crucial to the remainder of the paper , but if you don't like them you will have to replace them with something better , and you are unlikely to find something which is both better and simpler .
+The analysis above was obtained in a framework where quantifier scope is determined on the basis of information explicitly associated with a form of COOPER STORAGE Cooper 1983 , using abstraction operators of the form  ,  or  which can be applied to a formula to bind its free variables .
+Within this framework , it is perfectly easy to deal with cases like  by allowing the relative pronoun to add the expression  to the quantifier store , annotated to specify that this expression has maximal scope .
+If this expression is applied to a formula containing a free occurrence of X it will return an abstraction with respect to X -- exactly what we want .
+The requirement that this should have maximal scope will ensure that X is the last free variable in W .
+But if we can use this mechanism to construct an abstraction as the interpretation of a relative clause , we can also use it to construct an abstraction as the interpretation of a phrase containing a focussed item .
+The only extra work we have to perform is that we have to find somewhere to put the interpretation of the focussed item itself .
+To do this , all that is needed is an extra feature focus in the descriptions of linguistic items .
+The value of focus is the focussed item itself .
+focus behaves like a GPSG FOOT FEATURE , in that at most one daughter of an item can have a non-vacuous value for focus , and that if an item does have exactly one daughter with a non-vacuous value for this feature then the item will share this value with that daughter .
+focus is thus very like the standard feature slash which is used for dealing with left extraposition -- it is a foot feature whose value is some item which is somehow `` out of position .
+Once we have this mechanism , we can use it to construct interpretations of sentences like  -  .
+Consider , for instance , the example :
+where K is  ( this has been extracted from the displayed formula to get it inside the available space -- it is in fact part of that formula ) .
+This says that the relationship only holds between the property of being a car and some other object .
+This is fine as far as it goes , but it isn't worth very much unless we spell out the conditions under which this relationship holds .
+The following meaning postulate does just that :
+In other words , if only ( P , Q ) holds then P satisfies Q and nothing else does .
+In the present case , the first of these consequences means that I did indeed borrow a car :
+where  has again been extracted to save space .
+This was obtained from the meaning postulate by substituting  for B and using  .
+The second consequence of the MP for only says that there is no other category of item which satisfies the abstraction -- that the only thing I borrowed was a car .
+If we put the focus somewhere else , we get another interpretation :
+where  .
+This says that only holds between a description of the type of event C where somebody B borrows something A , and an abstraction over situations in which I did something to some car .
+Then the first consequence of only says that what I did to this car was I borrowed it : substituting the description of the event type for the abstracted variable F produces  as the second argument of simple , and this reduces to  , which is what we want .
+The second says that I didn't do anything else to it .
+Much the same will happen with .
+where  .
+Here we have a 2-place relation not , which is backed up by the following MP :
+This says that this form of negation holds between P and Q if Q does not hold of P , but does hold for some other entity P ' .
+In the present case , this means that I did do something to it ( whatever `` it is ) , but what I did was not stealing .
+This contrasts with simple negation , with no focussed item , as in :
+where  .
+This simply says that it is not the case that there is a past stealing event involving me and it .
+The choice between the two is forced by the presence or absence of a focussed item .
+As a final example , consider a sentence which contains a focussed item but no operator for using it up :
+The analysis of this is an abstraction over kinds of individuals who ate it .
+with  , and with the focus set as the description ( including the semantic analysis ) of the focussed phrase man .
+This is just the kind of object required for a discourse operator such as contrast or elaboration -- exactly which such operator is appropriate depends on factors not visible in  itself , but whatever it is it will require a pair of arguments of this kind .
+The discussion above shows what can be achieved by treating focus as a syntactic marker which makes information available to a variety of operators .
+The mechanism for doing this involves introducing a foot feature to carry the focussed item around , and constructing appropriate abstractions by using the standard quantifier scoping mechanism which is required for other phenomena anyway .
+Different NLP systems will deal with the syntax and semantics of phenomena such as left - and right-extraposition in different ways .
+What I have argued is that almost any approach to these phenomena can be adapted to deal with focus as well .
+The examples in Section  showed how you can combine these analyses of focus with a variety of operators to convey a range of interpretations of the same sequence of words .
+It is important to recall at this point that the interpretation language being used here is a highly intensional logic which permits quantification over arbitrary kinds of individual , including quantification over properties and propositions .
+I have argued elsewhere that such a language is required for a wide variety of phenomena .
+The interpretation of focus is just another example .
+All the analyses in this paper were produced , and  - reduced ( and turned into LaTeX ! ) , by a version of the system described in Ramsay 1992a .
+This consists of a highly lexical grammar with a compositional semantics , parsed via a bi-directional head-driven chart parser .
+I believe it is virtually impossible to do this kind of work without embodying it in a working system .
+You simply cannot explore the consequences of doing something one way rather than another , or of combining an analysis of this with an analysis of that , unless activities such as compositional construction and subsequent  - reduction of interpretations is done for you by machine .

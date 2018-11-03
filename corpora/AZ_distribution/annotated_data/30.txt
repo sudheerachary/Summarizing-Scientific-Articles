@@ -1,0 +1,120 @@
+The previously proposed semantic-head-driven generation methods run into problems if none of the daughter constituents in the syntacto-semantic rule schemata of a grammar fits the definition of a semantic head given in Shieber et al. 1990 .
+This is the case for the semantic analysis rules of certain constraint-based semantic representations , e.g. Underspecified Discourse Representation Structures ( UDRSs ) Frank and Reyle 1992 .
+Since head-driven generation in general has its merits , we simply return to a syntactic definition of ` head ' and demonstrate the feasibility of syntactic-head-driven generation .
+In addition to its generality , a syntactic-head-driven algorithm provides a basis for a logically well-defined treatment of the movement of ( syntactic ) heads , for which only ad-hoc solutions existed , so far .
+Head-driven generation methods combine both , top-down search and bottom-up combination , in an ideal way .
+Shieber et al. 1990 proposed to define the ` head ' constituent h of phrase with category x on semantic grounds : the semantic representations of h and x are identical .
+This puts a strong restriction on the shape of semantic analysis rules : one of the leaves must share its semantic form with the root node .
+However , there are composition rules for semantic representations which violate this restriction , e.g. the schemata for the construction of Underspecified Discourse Representation Structures ( UDRSs ) Frank and Reyle 1992 where , in general , the root of a tree is associated with a strictly larger semantic structure than any of the leaves .
+In order to make a generation method available for grammars which do not follow the strict notion of a semantic head , a syntactic-head-driven generation algorithm is presented , which can be specialized to generate from UDRSs .
+In a second step , the method will be extended in order to handle the movement of ( syntactic ) heads in a logically well-defined manner .
+The ( tactical ) generation problem is the task to generate a string from a semantic representation according to the syntax-semantics-relation defined in a given grammar .
+Let 's assume that the latter relation is stated by pairs of trees .
+The left tree states a local syntactic dependency , i.e. the dominance relation between a root node and a set of leaf nodes and the linear precedence relation among the leaves .
+The right tree defines the relation among the semantic representation of the root and the semantic representations of the leaves .
+We assume that there is a one-to-one map from the nonterminal leaf nodes of the ( local ) syntax tree on the leaf nodes of the ( local ) semantic derivation tree .
+Example :
+If one assumes a pairwise linking from left to right then the links between the two trees can be omitted .
+Although such pairs of trees are reminiscent of synchronous trees in TAG 's Shieber and Schabes 1991 , they are simpler in various ways , in particular because we will not make use of the adjunction operation later on .
+In essence , pairs of trees are just a graphical notation for what has been put forward as the ` rule-to-rule ' - hypothesis , cf. Gazdar et al. 1985 , the fact that in the grammar each syntax rule is related with a semantic analysis rule .
+However , on the long run , the tree notation suggests a more general relation , e.g. more internal structure or additional , terminal leaf nodes in the local syntax tree .
+An obvious way to implement a generation procedure ( see Fig.  ) is to relate the input semantics with the start symbol of the grammar and then to try to expand this node in a top-down manner according to the rules specified in the grammar .
+This node expansion corresponds to an application of the ( predict ) - rule in the following abstract specification of a top-down generator .
+Generation terminates successfully if all the leaf nodes are labeled with terminals ( success ) .
+The question is which method is used to make two , possibly complex symbols equal .
+For the sake of simplicity , we assume that the open leaves  resp .
+ are matched by ( feature ) term unification with the corresponding mother nodes in the grammar rule .
+However , for the semantic form  , a decidable variant of higher order unification might be used instead , in order to include the reduction of  - expressions .
+Of course , the necessary precautions have to be taken in order to avoid the confusion between object - and meta-level variables , cf. Shieber et al. 1990 .
+A depth-first realization of this abstract top-down algorithm would work fine as long as the semantic representations of the leaves are always strictly smaller in size as the semantic form of the root node .
+But , if the actual semantic decomposition takes place in the lexicon , the semantic representations of some subgoals will be variables , which stand for semantic representations of any size :
+A strict left-to-right , depth-first expansion of subgoals might run into problems with the grammar fragment in  if a left-recursive np-rule exists , because the semantics of the np is only instantiated once the 'semantic head ' of the vp has been looked up in the lexicon .
+A top-down , semantic-structure-driven generation algorithm has been defined by Wedekind 1988 which gives a basis for dynamic subgoal-reordering guided by the semantic input .
+Some proposals have been made for subgoal reordering at compile-time , e.g. Minnen et al. 1993 elaborating on the work by Strzalkowski 1990 .
+But there will be no helpful subgoal reordering for rules with semantic head recursion :
+Obviously , a bottom-up component is required .
+One solution is to keep to a top-down strategy but to do a breadth-first search , cf. Kohl 1992 , which will be fair and not delay the access to the lexicon forever , as a pure depth-first strategy does .
+Alternatively , one could adopt a pure bottom-up strategy like the one which has been proposed in Shieber 1988 and which is presented in Fig.  in a highly schematic manner .
+A lexical entry qualifies as a potential leaf node if its semantic form is a non-trivial substructure of the input semantics ( rule ( lex ) ) .
+The derivation trees are built up by the ( complete ) - rule .
+Generation finally succeeds if the root node of the current syntax tree is labeled with the start symbol of the grammar and the root of the semantic analysis tree with the input semantics .
+Due to the exclusion of phrases with 'empty ' semantics ( which would be trivial substructures of the input semantics ) , the method always terminates .
+However , the lack of top-down guidance will lead , in general , to a lot of non-determinism .
+The strong substructure condition means that the algorithm will be incomplete for grammars which cover semantically void phrases like expletive expressions , particles , and subphrases of idioms .
+The head-corner generator in van Noord 1993 is an illustrative instance of a sophisticated combination of top-down prediction and bottom-up structure building , see Fig.  .
+The rule ( lex ) restricts the selection of lexical entries to those which can be ` linked ' to the local goal category ( visualized by a dotted line ) .
+According to van Noord , two syntax-semantics pairs are linkable if their semantic forms are identical , i.e. 
+The rule ( hc-complete ) performs a 'head - corner ' completion step for a ( linked ) phrase  .
+A link marking can be removed if the linked categories resp. the linked semantic forms are identical ( rule local-success ) .
+Generation succeeds if all the leaves of the syntax tree are labeled with terminals and no link markings exist (rule global-success ) .
+In order to obtain completeness in the general case , the inference schemata of the head-corner generator must be executed by a breadth-first interpreter , since a depth-first interpreter will loop if the semantic analysis rules admit that subtrees are associated with semantic forms which are not proper substructures of the input semantics , and if these subtrees can be composed recursively .
+Such an extreme case would be a recursive rule for semantically empty particles :
+( ' empty ' semantics is represented by the empty list symbol [] ) :
+However , if we assume that structures of that kind do not occur , a depth-first interpreter will be sufficient , e.g. the inference rules of the algorithm can be encoded and interpreted directly in Prolog .
+Note that van Noord 's method is restricted to grammars where phrases have always a lexical semantic head .
+The algorithm in Shieber et al. 1990 relaxes this condition .
+In the following , we will present shortly a semantic representation formalism and a corresponding set of analysis rules which resist to the definition of ` semantic head ' as it is required in van Noord 's head-corner algorithm .
+Reyle 1993 developed an inference system for Underspecified Discourse Representation Structures ( UDRS 's ) , i.e. Discourse Representation Structures  Kamp and Reyle 1993 which are underspecified with respect to scope .
+The following UDRS represents simultaneously the two readings of the sentence ` every woman loves a man ' by leaving the exact structural embedding of the quantified phrases underspecified .
+An arrow pointing from  to  is called a subordination constraint and means that the formula  must not have wider scope than  .
+Frank and Reyle 1992 proposed rules for the construction of UDRS 's in an HPSG-style syntax , cf. Pollard and Sag 1993 , which are shown in Fig.  and  in a somewhat adapted manner .
+Semantic composition is performed by the coindexing of the features dref , res , subj , etc .
+which serve as an interface to the value of the sem feature , the actual semantic representation .
+For the phrase-structure tree rooted with s , there is no leaf which would fulfill the definition of a semantic head given in Shieber et al. 1990 or van Noord 1993 .
+Hence , the head-corner generator of Fig.  with a link relation based on semantic heads will not be applicable .
+One could define a weak notion of a semantic head which requires that the semantic form of the semantic head is a ( possibly empty ) substructure of the root semantics .
+But this is rather meaningless , since now every leaf will qualify as a semantic head .
+As a way out , there is still the notion of a syntactic head , which can serve as the pivot of the generation process .
+Assume that the syntactic head leaf for each local syntax tree has been defined by the grammar writer .
+We get the following preliminary version of a syntax-based link relation :
+This is the kind of link relation which is used for parsing .
+In general , it works fine there , because with each lexical lookup a part of the input structure , i.e. of the input string , is consumed .
+In order to reduce the number of non-terminating cases for generation , a similar precaution has to be added , i.e. the input structure has to be taken into account .
+The final version of a syntax-based link relation incorporates a test for the weak notion of a semantic head :
+The substructure check makes only sense if the semantics  of the current goal is instantiated .
+This might not be the case , when the proper semantic head and the syntactic head differ , and a sister goal of the semantic head is to be expanded before the head itself .
+Hence , in general , the sister goals must be reordered according to the degree of instantiation of their semantic representations .
+In addition to the improved termination properties , the condition on the semantic representation helps to filter out useless candidates from the lexicon , i.e. lexical entries which will never become part of the final derivation because their semantic representations do not fit .
+In order to simplify the representation in the following , we assume that each syntax tree in a grammar is isomorphic to the corresponding semantic analysis tree .
+This means that both trees can merged into one tree by labeling the nodes with syntax-semantics-pairs :
+In Shieber et al. 1990 an ad-hoc solution was proposed to enforce termination when the semantic head has been moved .
+By adopting a syntactic-head-driven strategy , head-movement does not cause a problem if the landing site of the head is the ` syntactic head ' ( or rather : the main functor category of the clause , in categorial grammar terminology ) of a superordinate clause .
+This is postulated by syntactic descriptions like
+where  means that the derivation of the vp-node has to include an empty v-leaf .
+In the example in Fig.  , the syntactic head ( the c-position ) of the  will be visited before the vp is to be derived , hence the exact information of the verb trace will be available in time .
+Similarly for the movement to the ` vorfeld ' .
+However , if verb second configurations are described by a single structure
+the algorithm runs into a deadlock : the vp-node cannot be processed completely , because the semantics of the XP-trace is unknown , and the expansion of the XP-filler position will be delayed for the same reason .
+If this syntactic description had to be preferred over the one in  , the link relation should be further modified .
+The substructure test wrt. the semantics of the current goal should be replaced by a substructure test wrt. the global input semantics , which leads to a loss of flexibility , as it has been discussed in connection with the pure bottom-up approach .
+Since the algorithm has been implemented in the CUF language , which includes a wait-mechanism , the reodering of subgoals can be delegated to CUF .
+Instead of a full-blown substructure test which might be quite complicated on graphs like UDRS 's , only the predicate names ( and other essential 'semantic ' keywords ) of the lexical entry are mapped on the current goal semantics .
+If such a map is not feasible , this lexical entry is dropped .
+We restrict the grammars to lexicalized ones .
+A grammar is lexicalized if for every local syntax tree there is at least one preterminal leaf , cf. Schabes and Waters 1993 .
+Note that lexicalization does not affect the expressibility of the grammar Bar-Hillel et al. 1960, Schabes and Waters 1993 .
+However , the generation algorithm turns much simpler and hence more efficient .
+There is no need for a transitive link relation , since a goal can match immediately the mother node of a preterminal .
+The lexicon access and the head-corner completion step can be merged into one rule schema .
+A version of the Non-Local-Feature principle of HPSG has been integrated into the algorithm .
+Every non-head nonterminal leaf of a local tree must come with a ( possibly empty ) multiset of syntax-semantics pairs as the value of its to _ bind : slash-feature ( feature abbreviated as / ) , cf. example  .
+From these static values , the dynamic inherited : slash-values ( feature abbreviated as /  / ) can be calculated during generation , see rule ( lex ) in Fig.  .
+Choose a lexical entry as the head  of the current goal  .
+Then the substructure condition must hold for the corresponding semantic forms  and  .
+The /  / - value  must be empty .
+Or choose an element of the /  / - value  of the current head  .
+Then the /  / - value  becomes [  ] .
+The associated string  is empty .
+There must be a lexicalized tree which connects the goal  and the chosen head  .
+The /  / - value  is split into disjoint sets  , ... ,  .
+The /  / - values of the new subgoals  , ... ,  are the disjoint set unions  where  is the / - value of  in the local tree given in the grammar .
+Note that this version of the Non-Local-Feature principle corresponds to the hypothetical reasoning mechanism which is provided by the Lambek categorial grammars Lambek 1958, Koenig 1994a .
+This is illustrated by the fact that e.g. the left tree in example  can be rendered in categorial grammar notation as  .
+Hence , the algorithm in Fig.  has a clear logical basis .
+This paper gives a syntactic-head-driven generation algorithm which includes a well-defined treatment of moved constituents .
+Since it relies on the notion of a syntactic head instead of a semantic head it works also for grammars where semantic heads are not available in general , like for a grammar which includes semantic decomposition rules of ( scopally ) Underspecified Discourse Representation Structures .
+By using the same notion of head both for parsing and for generation , both techniques become even closer .
+In effect , the abstract specifications of the generation algorithms which we gave above , could be read as parsing algorithms , modulo a few changes ( of the success condition and the link relation ) .
+Generation from Underspecified DRS 's means that sentences can be generated from meaning representations which have not been disambiguated with regard to quantifier scope .
+This is of particular importance for applications in machine translation , where one wants to avoid the resolution of scope relations as long as the underspecified meaning can be rendered in the source and in the target language .
+Future work should consider more the strategic part of the generation problem , e.g. try to find heuristics and strategies which handle situations of ` scope mismatch ' where one language has to be more precise with regard to scope than the other .

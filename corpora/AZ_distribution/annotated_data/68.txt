@@ -1,0 +1,153 @@
+It is proposed that these features interact with one of two types of discourse inference , namely Common Topic inference and Coherent Situation inference .
+The differing ways in which these types of inference utilize syntactic and semantic representations predicts phenomena for which it is otherwise difficult to account .
+Ellipsis is pervasive in natural language , and hence has received much attention within both computational and theoretical linguistics .
+However , the conditions under which a representation of an utterance may serve as a suitable basis for interpreting subsequent elliptical forms remain poorly understood ; specifically , past attempts to characterize these processes within a single traditional module of language processing ( e.g. , considering either syntax , semantics , or discourse in isolation ) have failed to account for all of the data .
+In this paper , we claim that a variety of facts concerning ellipsis resolution , event reference , and interclausal coherence can be explained by the interaction between the syntactic and semantic properties of the form in question and the type of discourse inference operative in establishing the coherence of the antecedent and elided clauses .
+In the next section , we introduce the facts concerning gapping , VP-ellipsis , and non-elliptical event reference that we seek to explain .
+whether the expression leaves behind an empty constituent in the syntax , and
+whether the expression is anaphoric in the semantics .
+In Section  we describe two types of discourse inference , namely Common Topic inference and Coherent Situation inference , and make a specific proposal concerning the interface between these and the syntactic and semantic representations they utilize .
+In Section  , we show how this proposal accounts for the data presented in Section  .
+We contrast the account with relevant past work in Section  , and conclude in Section  .
+It has been noted in previous work that the felicity of certain forms of ellipsis is dependent on the type of coherence relationship extant between the antecedent and elided clauses Levin and Prince 1982, Kehler 1993b .
+In this section we review the relevant facts for two such forms of ellipsis , namely gapping and VP-ellipsis , and also compare these with facts concerning non-elliptical event reference .
+Gapping is characterized by an antecedent sentence ( henceforth called the source sentence ) and the elision of all but two constituents ( and in limited circumstances , more than two constituents ) in one or more subsequent target sentences , as exemplified in sentence  :
+We are concerned here with a particular fact about gapping noticed by Levin and Prince 1982 , namely that gapping is acceptable only with the purely conjunctive symmetric meaning of and conjoining the clauses , and not with its causal asymmetric meaning ( paraphraseable by `` and as a result '' ) .
+That is , while either of sentences  or  can have the purely conjunctive reading , only sentence  can be understood to mean that Hillary 's becoming angry was caused by or came as a result of Bill 's becoming upset .
+This can be seen by embedding each of these examples in a context that reinforces one of the meanings .
+For instance , gapping is felicitous in passage  , where context supports the symmetric reading , but is infelicitous in passage  under the intended causal meaning of and .
+The common stipulation within the literature stating that gapping applies to coordinate structures and not to subordinate ones does not account for why any coordinated cases are unacceptable .
+VP-ellipsis is characterized by an initial source sentence , and a subsequent target sentence with a bare auxiliary indicating the elision of a verb phrase :
+The distribution of VP-ellipsis has also been shown to be sensitive to the coherence relationship extant between the source and target clauses , but in a different respect .
+In a previous paper Kehler 1993b , five contexts for VP-ellipsis were examined to determine whether the representations retrieved are syntactic or semantic in nature .
+Evidence was given that VP-ellipsis copies syntactic representations in what was termed parallel constructions ( predicting the unacceptability of the voice mismatch in example  and nominalized source in example  ) , but copies semantic representations in non-parallel constructions ( predicting the acceptability of the voice mismatch in example  and the nominalized source in example  ) :
+These examples are analogous with the gapping cases in that constraints against mismatches of syntactic form hold for the symmetric ( i.e. , parallel ) use of and in examples  and  , but not the asymmetric ( i.e. , non-parallel ) meaning in examples  and  .
+In fact , it appears that gapping is felicitous in those constructions where VP-ellipsis requires a syntactic antecedent , whereas gapping is infelicitous in cases where VP-ellipsis requires only a suitable semantic antecedent .
+Past approaches to VP-ellipsis that operate within a single module of language processing fail to make the distinctions necessary to account for these differences .
+Sag and Hankamer 1984 note that while elliptical sentences such as  are unacceptable because of a voice mismatch , similar examples with non-elided event referential forms such as do it are much more acceptable :
+An adequate theory of ellipsis and event reference must account for this distinction .
+In sum , the felicity of both gapping and VP-ellipsis appears to be dependent on the type of coherence relation extant between the source and target clauses .
+Pronominal event reference , on the other hand , appears not to display this dependence .
+We seek to account for these facts in the sections that follow .
+whether the form leaves behind an empty constituent in the syntax , and
+whether the form is anaphoric in the semantics .
+In subsequent sections , we show how the distinct mechanisms for recovering these types of missing information interact with two types of discourse inference to predict the phenomena noted in the previous section .
+We illustrate the relevant syntactic and semantic properties of these forms using the version of Categorial Semantics described in Pereira 1990 .
+In the Montagovian tradition , semantic representations are compositionally generated in correspondence with the constituent modification relationships manifest in the syntax ; predicates are curried .
+Traces are associated with assumptions which are subsequently discharged by a suitable construction .
+Figure  shows the representations for the sentence Bill became upset ; this will serve as the initial source clause representation for the examples that follow .
+For our analysis of gapping , we follow Sag 1976 in hypothesizing that a post-surface-structure level of syntactic representation is used as the basis for interpretation .
+In source clauses of gapping constructions , constituents in the source that are parallel to the overt constituents in the target are abstracted out of the clause representation .
+For simplicity , we will assume that this abstraction is achieved by fronting the constituents in the post-surface-structure , although nothing much hinges on this ; our analysis is compatible with several possible mechanisms .
+The syntactic and semantic representations for the source clause of example  after fronting are shown in Figure  ; the fronting leaves trace assumptions behind that are discharged when combined with their antecedents .
+Target clauses in gapping constructions are therefore represented with the overt constituents fronted out of an elided sentence node ; for instance the representation of the target clause in example  is shown in Figure  ( the empty node is indicated by  ) .
+The empty constituent is reconstructed by copying the embedded sentence from the source to the target clause , along with parallel trace assumptions which are to be bound within the target .
+The semantics for this embedded sentence is the open proposition that the two clauses share .
+This semantics , we claim , can only be recovered by copying the syntax , as gapping does not result in an independently anaphoric expression in the semantics .
+In fact , as can be seen from Figure  , before copying takes place there is no sentence-level semantics for gapped clauses at all .
+Like gapping , VP-ellipsis results in an empty constituent in the syntax , in this case , a verb phrase .
+However , unlike gapping , VP-ellipsis also results in an independently anaphoric form in the semantics .
+Figure  shows the representations for the clause Hillary did ( the anaphoric expression is indicated by P ) .
+Given the representation in Figure  as the source , the semantics for the missing VP may be recovered in one of two ways .
+The syntactic VP could be copied down with its corresponding semantics , from which the semantics for the complete sentence can be derived .
+In this case , the anaphoric expression is constrained to have the same semantics as the copied constituent .
+Alternatively , the anaphoric expression could be resolved purely semantically , resulting in the discharge of the anaphoric assumption P .
+The higher-order unification method developed by Dalrymple et al. 1991 could be used for this purpose ; in this case the sentence-level semantics is recovered without copying any syntactic representations .
+Event referential forms such as do it , do that , and do so constitute full verb phrases in the syntax .
+It has been often noted Halliday and Hasan 1976 , inter alia ,  that it is the main verb do that is operative in these forms of anaphora , in contrast to the auxiliary do operative in VP-ellipsis .
+It is the pronoun in event referential forms that is anaphoric ; the fact that the pronouns refer to events results from the type constraints imposed by the main verb do .
+Therefore , such forms are anaphoric in the semantics , but do not leave behind an empty constituent in the syntax .
+To summarize this section , we have characterized the forms being addressed according to two features , a summary of which appears in Table  .
+Whereas anaphoric forms in the semantics for these forms are independently resolved , empty syntactic constituents in and of themselves are not anaphoric , and thus may only be restored when some independently-motivated process necessitates it .
+In the section that follows we outline two types of discourse inference , one of which requires such restoration of empty constituents .
+To be coherent , utterances within a discourse segment require more than is embodied in their individual syntactic and semantic representations alone ; additional inter-utterance constraints must be met .
+Here we describe two types of inference used to enforce the constraints that are imposed by coherence relations .
+In each case , arguments to coherence relations take the form of semantic representations retrieved by way of their corresponding node ( s ) in the syntax ; the operations performed on these representations are dictated by the nature of the constraints imposed .
+The two types of inference are distinguished by the level in the syntax from which these arguments are retrieved .
+Understanding segments of utterances standing in a Common Topic relation requires the determination of points of commonality ( parallelism ) and departure ( contrast ) between sets of corresponding entities and properties within the utterances .
+This process is reliant on performing comparison and generalization operations on the corresponding representations Scha and Polanyi 1988 , Hobbs 1990 , Pruest 1992, Asher 1993 .
+Table  sketches definitions for some Common Topic relations , some taken from and others adapted from Hobbs 1990 .
+In each case , the hearer is to understand the relation by inferring  from sentence  and inferring  from sentence  under the listed constraints .
+In order to meet these constraints , the identification of  and  may require arbitrary levels of generalization from the relations explicitly stated in the utterances .
+Examples of these relations are given in sentences  -  .
+Passage  , for instance , is coherent under the understanding that John and Fred have a common property , namely having done something to support Clinton .
+Passage  is likewise coherent by virtue of the inferences resulting from identifying parallel elements and properties , including that John is a young aspiring politician and that he 's a Democrat ( since Clinton is identified with his party 's candidate ) .
+The characteristic that Common Topic relations share is that they require the identification of parallel entities ( i.e. , the  and  ) and relations (  and  ) as arguments to the constraints .
+We posit that the syntactic representation is used both to guide the identification of parallel elements and to retrieve their semantic representations .
+Understanding utterances standing in a Coherent Situation relation requires that hearers convince themselves that the utterances describe a coherent situation given their knowledge of the world .
+This process requires that a path of inference be established between the situations ( i.e. , events or states ) described in the participating utterances as a whole , without regard to any constraints on parallelism between sub-sentential constituents .
+Four such relations are summarized in Table  .
+In all four cases , the hearer is to infer A from sentence  and B from sentence  under the constraint that the presuppositions listed be abduced Hobbs et al. 1993 .
+Examples of these relations are given in sentences  -  .
+Beyond what is asserted by the two clauses individually , understanding each of these sentences requires the presupposition that being a politician implies being dishonest .
+Inferring this is only reliant on the sentential-level semantics for the clauses as a whole ; there are no p ,  , or  to be independently identified .
+The same is true for what Hume called Contiguity relations ( perhaps including Hobbs 's Occasion and Figure-ground relations ) ; for the purpose of this paper we will consider these as weaker cases of Cause or Effect .
+To reiterate the crucial observation , Common Topic inference utilizes the syntactic structure in identifying the semantics for the sub-sentential constituents to serve as arguments to the coherence constraints .
+In contrast , Coherent Situation inference utilizes only the sentential-level semantic forms as is required for abducing a coherent situation .
+The question then arises as to what happens when constituents in the syntax for an utterance are empty .
+Given that the discourse inference mechanisms retrieve semantic forms through nodes in the syntax , this syntax will have to be recovered when a node being accessed is missing .
+Therefore , we posit that missing constituents are recovered as a by-product of Common Topic inference , to allow the parallel properties and entities serving as arguments to the coherence relation to be accessed from within the reconstructed structure .
+On the other hand , such copying is not triggered in Coherent Situation inference , since the arguments are retrieved only from the top-level sentence node , which is always present .
+In the next section , we show how this difference accounts for the data given in Section  .
+In previous sections , we have classified several elliptical and event referential forms as to whether they leave behind an empty constituent in the syntax and whether they are anaphoric in the semantics .
+Empty constituents in the syntax are not in themselves referential , but are recovered during Common Topic inference .
+Anaphoric expressions in the semantics are independently referential and are resolved through purely semantic means regardless of the type of discourse inference .
+In this section we show how the phenomena presented in Section  follow from these properties .
+Recall from Section  that gapping constructions such as  are only felicitous with the symmetric ( i.e. , Common Topic ) meaning of and :
+This fact is predicted by our account in the following way .
+In the case of Common Topic constructions , the missing sentence in the target will be copied from the source , the sentential semantics may be derived , and the arguments to the coherence relations can be identified and reasoning carried out , predicting felicity .
+In the case of Coherent Situation relations , no such recovery of the syntax takes place .
+Since a gapped clause in and of itself has no sentence-level semantics , the gapping fails to be felicitous in these cases .
+This account also explains similar differences in felicity for other coordinating conjunctions as discussed in Kehler 1994c , as well as why gapping is infelicitous in constructions with subordinating conjunctions indicating Coherent Situation relations , as exemplified in  .
+The stripping construction is similar to gapping except that there is only one bare constituent in the target ( also generally receiving contrastive accent ) ; unlike VP-ellipsis there is no stranded auxiliary .
+We therefore might predict that stripping is also acceptable in Common Topic constructions but not in Coherent Situation constructions , which appears to be the case :
+In summary , gapping and related constructions are infelicitous in those cases where Coherent Situation inference is employed , as there is no mechanism for recovering the sentential semantics of the elided clause .
+Recall from Section  that only in Coherent Situation constructions can VP-ellipsis obtain purely semantic antecedents without regard to constraints on structural parallelism , as exemplified by the voice mismatches in sentences  and  .
+These facts are also predicted by our account .
+In the case of Common Topic constructions , a suitable syntactic antecedent must be reconstructed at the site of the empty VP node , with the result that the anaphoric expression takes on its accompanying semantics .
+Therefore , VP-ellipsis is predicted to require a suitable syntactic antecedent in these scenarios .
+In Coherent Situation constructions , the empty VP node is not reconstructed .
+In these cases the anaphoric expression is resolved on purely semantic grounds ; therefore VP-ellipsis is only constrained to having a suitable semantic antecedent .
+The analysis accounts for the range of data given in Kehler 1993b , although one point of departure exists between that account and the current one with respect to clauses conjoined with but .
+In the previous account these cases are all classified as non-parallel , resulting in the prediction that they only require semantic source representations .
+In our analysis , we expect cases of pure contrast to pattern with the parallel class since these are Common Topic constructions ; this is opposed to the violated expectation use of but which indicates a Coherent Situation relation .
+The current account makes the correct predictions ; examples  and  , where but has the contrast meaning , appear to be markedly less acceptable than examples  and  , where but has the violated expectation meaning :
+To summarize thus far , the data presented in the earlier account as well as examples that conflict with that analysis are all predicted by the account given here .
+As a final note , we consider the interaction between VP-ellipsis and gapping .
+The following pair of examples are adapted from those of Sag 1976 , pg. 291 :
+Sag defines an alphabetic variance condition that correctly predicts that sentence  is infelicitous , but incorrectly predicts that sentence  is also .
+Sag then suggests a weakening of his condition , with the result that both of the above examples are incorrectly predicted to be acceptable ; he doesn't consider a solution predicting the judgements as stated .
+The felicity of sentence  and the infelicity of sentence  are exactly what our account predicts .
+In example  , the third clause is in a Common Topic relationship with the second ( as well as the first ) and therefore requires that the VP be reconstructed at the target site .
+However , the VP is not in a suitable form , as the object has been abstracted out of it ( yielding a trace assumption ) .
+Therefore , the subsequent VP-ellipsis fails to be felicitous .
+In contrast , the conjunction although used before the third clause in example  indicates a Coherent Situation relation .
+Therefore , the VP in the third clause need not be reconstructed , and the subsequent semantically-based resolution of the anaphoric form succeeds .
+Thus , the apparent paradox between examples  and  is just what we would expect .
+Recall that Sag and Hankamer 1984 note that whereas elliptical sentences such as  are unacceptable due to a voice mismatch , similar examples with event referential forms are much more acceptable as exemplified by sentence  :
+As stated earlier , forms such as do it are anaphoric , but leave no empty constituents in the syntax .
+Therefore , it follows under the present account that such reference is successful without regard to the type of discourse inference employed .
+The literature on ellipsis and event reference is voluminous , and so we will not attempt a comprehensive comparison here .
+Instead , we briefly compare the current work to three previous studies that explicitly tie ellipsis resolution to an account of discourse structure and coherence , namely our previous account Kehler 1993b and the accounts of Pruest 1992 and Asher 1993 .
+In Kehler 1993b , we presented an analysis of VP-ellipsis that distinguished between two types of relationship between clauses , parallel and non-parallel .
+An architecture was presented whereby utterances were parsed into propositional representations which were subsequently integrated into a discourse model .
+It was posited that VP-ellipsis could access either propositional or discourse model representations : in the case of parallel constructions , the source resided in the propositional representation ; in the case of non-parallel constructions , the source had been integrated into the discourse model .
+In Kehler 1994c , we showed how this architecture also accounted for the facts that Levin and Prince noted about gapping .
+The current work improves upon that analysis in several respects .
+First , it no longer needs to be posited that syntactic representations disappear when integrated into the discourse model ; instead , syntactic and semantic representations co-exist .
+Second , various issues with regard to the interpretation of propositional representations are now rendered moot .
+Third , there is no longer a dichotomy with respect to the level of representation from which VP-ellipsis locates and copies antecedents .
+Instead , two distinct factors have been separated out : the resolution of missing constituents under Common Topic inference is purely syntactic whereas the resolution of anaphoric expressions in all cases is purely semantic ; the apparent dichotomy in VP-ellipsis data arises out of the interaction between these different phenomena .
+Finally , the current approach more readily scales up to more complex cases .
+For instance , it was not clear in the previous account how non-parallel constructions embedded within parallel constructions would be handled , as in sentences  :
+The current approach accounts for these cases .
+The works of Pruest 1992 and Asher 1993 provide analyses of VP-ellipsis in the context of an account of discourse structure and coherence .
+With Pruest utilizing a mixed representation ( called syntactic / semantic structures ) and Asher utilizing Discourse Representation Theory constructs , each defines mechanisms for determining relations such as parallelism and contrast , and gives constraints on resolving VP-ellipsis and related forms within their more general frameworks .
+However , each essentially follows Sag in requiring that elided VP representations be alphabetic variants of their referents .
+This constraint rules out cases where VP-ellipsis obtains syntactically mismatched antecedents , such as example  and other non-parallel cases given in <REF SELF="YES"
+It also appears that neither approach can account for the infelicity of mixed gapping / VP-ellipsis cases such as sentence  .
+We have also described two forms of discourse inference , namely Common Topic inference and Coherent Situation inference .
+The interaction between the two features and the two types of discourse inference predicts facts concerning gapping , VP-ellipsis , event reference , and interclausal coherence for which it is otherwise difficult to account .
+In future work we will address other forms of ellipsis and event reference , as well as integrate a previous account of strict and sloppy ambiguity into this framework <REF SELF="YES"
+This work was supported in part by National Science Foundation Grant IRI - 9009018 , National Science Foundation Grant IRI - 9350192 , and a grant from the Xerox Corporation .
+I would like to thank Stuart Shieber , Barbara Grosz , Fernando Pereira , Mary Dalrymple , Candy Sidner , Gregory Ward , Arild Hestvik , Shalom Lappin , Christine Nakatani , Stanley Chen , Karen Lochbaum , and two anonymous reviewers for valuable discussions and comments on earlier drafts .

@@ -1,0 +1,195 @@
+Despite the large amount of theoretical work done on non-constituent coordination during the last two decades , many computational systems still treat coordination using adapted parsing strategies , in a similar fashion to the SYSCONJ system developed for ATNs .
+This paper reviews the theoretical literature , and shows why many of the theoretical accounts actually have worse coverage than accounts based on processing .
+Finally , it shows how processing accounts can be described formally and declaratively in terms of Dynamic Grammars .
+This paper is concerned with symmetrical coordination , where the order of the conjuncts ( the items being coordinated by a conjunction such as and or or ) can be altered without affecting acceptability .
+Coordination of this kind is traditionally split into constituent coordination , where each conjunct forms a constituent according to ` standard ' phrase structure grammars , and non-constituent coordination .
+Constituent and non-constituent coordination have been treated as entirely separate phenomena ( see van Oirsouw 1987 for discussion ) , and different mechanisms have been proposed for each .
+However , by considering grammaticality judgements alone , there seems little justification for such a division .
+To illustrate this , consider the sentence :
+Each of the final proper substrings of the sentence ( i.e. some books , Mary some books etc. ) can be used as a conjunct e.g.
+Similarly , each of the initial substrings can be used as a conjunct e.g .
+and so can each of the middle substrings e.g .
+Only examples  are constituent coordinations .
+Example  seems slightly unnatural , but it is much improved if we replace books by a heavier string such as books about gardening .
+Thus , for this example , any substring of the sentence can form a viable conjunct .
+In the last twenty to thirty years there have been a series of accounts of coordination involving various deletion mechanisms ( from e.g. Gleitman 1965 to van Oirsouw 1987 ) .
+For example , from the following ` antecedent ' sentence ,
+van Oirsouw allows deletion of words to the left and to the right of the conjunction ,
+resulting in the sentence :
+Most deletion accounts assume that deletion is performed under identity of words , but don't analyse what it means for two words to be identical ( an exception is van Oirsouw who discusses phonological , morphological and referential identity ) .
+Consider the following example of deletion .
+Here the two cases of drive are phonologically identical , but have different syntactic categories .
+Now consider :
+These are cases of ` zeugma ' and are unacceptable except as jokes .
+It therefore seems that the deleted words must have the same major syntactic category , and the same lexical meaning .
+However , even if we fix both syntactic category and lexical meaning , we still get some weird coordinations .
+For example , consider :
+In example  the two prepositions are attached differently , one to the verb saw , the other to the noun , man .
+In example  , attributed to Paul Dekker , the two conjuncts require Mary 's handbag to have a different syntactic structure : the bracketing appropriate for the first conjunct is [ [ a friend of Mary ] 's handbag ] .
+The unacceptability of these examples suggests that word by word identity is insufficient , and that deleted material must have identical syntactic structure , as well as identical lexical meanings .
+Some of the most compelling arguments against deletion have been semantic .
+For example , Lakoff and Peters 1969 argued that deletion accounts are inappropriate for certain constituent coordinations such as :
+since the ` antecedent ' sentence John are alike and Mary are alike is nonsensical ( it is also ungrammatical if we consider number agreement ) .
+However , semantically inappropriate or nonsensical ` antecedents ' are also possible when we consider non-constituent coordination .
+For example , consider ` antecedents ' for the following :
+ is non-constituent coordination under the primary reading where the scope of former does not contain living in England i.e. where the semantic bracketing is :
+Examples  and  could be expanded out at the NP level , but not at the S level .
+However  cannot be expanded out at any constituent level , whilst retaining an appropriate semantics .
+For example , expansion at the VP level gives :
+Thus , although Lakoff and Peters 's arguments count against standard deletion analyses , they do not count as general arguments against a unified treatment of constituent and non-constituent coordination .
+Consider the sentence :
+Instead of thinking of John gave and by Chomsky as deleted , we can also think of them as shared by the two conjuncts .
+This structure can be represented as follows :
+From the result of the previous section , each conjunct must share not just the phonological material , but also the syntactic structure and the lexical meanings .
+There are three main methods by which this sharing of structure can be achieved : phrasal coordination , 3-D coordination , and processing strategies .
+At first sight , analysing non-constituent coordination using phrasal ( i.e. constituent ) coordination seems nonsensical .
+This is not the case .
+Coordinations are classified as non-constituent coordination if the conjuncts fail to be constituents in a ` standard ' phrase structure grammar .
+However , they may well be constituents in other grammars .
+For example , it has been argued that the weaker notion of constituency provided by Categorial Grammars is exactly what is required to allow all conjuncts to be treated as constituents Steedman 1985 .
+Phrasal coordination is exemplified by the schema : X  X Conj X The shared material is necessarily treated identically for each conjunct since there is only a single copy : the conjunction is embedded in a single syntax tree .
+The phrasal coordination schema requires each conjunct to be given a single type , and for the conjuncts and the conjunction as a whole to be of the same type .
+Problems with the latter requirement were pointed out by Sag et al. 1985 , who gave the following counterexamples :
+Sag et al. deal with these examples by treating categories as feature bundles , and allowing coordination in cases where there are features in common .
+For example , the two conjuncts in  share the feature +MANNER .
+As it stands , the account does not deal with examples such as the following ,
+Here the adverbial phrase would presumably be +MANNER , and the prepositional phrase , +TEMP .
+Further examples which are problematic for Sag et al. are given by Jorgensen and Abeille 1992 .
+An alternative , suggested by Morrill 1990 and similar to Jorgensen and Abeille 1992 , is to use the following coordination schema :
+X  Y  X Conj Y
+This does not impose any condition that the two categories X and Y share anything in common .
+However , the new category X  Y is used to ensure that both categories are appropriate in the context .
+For example ,  is acceptable since the coordination type is NP  AP , and is subcategorises for both NPs and APs .
+A rather more difficult problem is that of providing types for all possible conjuncts .
+Consider the following :
+ is a conjunction of two pairs of noun phrases .
+ is a case of ` unbounded Right-Node Raising ' where the noun phrase Peter is embedded at different depths in the two conjuncts .
+There have been two main approaches to dealing with examples such as  using phrasal coordination .
+The first is to introduce an explicit product operator Wood 1988 , allowing types of the form NP * NP .
+The second is to use a calculus in which types can undergo ` type-raising ' Dowty 1988 , or can be formed by abstraction ( as in the Lambek Calculus , Lambek 1958 ) .
+The effect is to treat Fred a book as a verb phrase missing its verb .
+The advantage of adopting a general abstraction mechanism , as in the Lambek Calculus , is that this also provides a treatment of examples such as  .
+Unfortunately , the ability to perform abstraction of categories with functional types ( which is required for  ) also allows shared material to get different syntactic analyses , resulting in acceptance of all the sentences predicted by deletion accounts where identity of lexical categories and lexical semantics is respected , but not identity of syntactic structure .
+Reconsider :
+We can obtain identical syntactic types for a friend of and the manufacturer of by subtracting the lexical types of I , saw , Mary , 's , and handbag from the sentence type S .
+Since the types are identical , coordination can then take place .
+Thus the ability to ` subtract ' one type from another allows the Lambek Calculus to replicate a deletion account , and it thereby suffers from the same problems .
+There have been some proposals to restrict the Lambek Calculus in order to prevent such overgeneration .
+Barry and Pickering 1993 propose a calculus in which  is dealt with using a product operation , and abstraction is limited to categories which do not act as a function in the derivation .
+This account makes reasonably good empirical predictions , though it does fail for the following examples :
+In  , each conjunct contains different numbers of modifiers of different types ( an adverbial phrase with two prepositional phrases ) .
+In  the subcategorisation order is swapped in the two conjuncts .
+Successful treatment of non-constituent coordination using phrasal coordination seems to require elaborate encoding in the conjunct type of a simple generalisation : conjuncts can coordinate provided they are acceptable within the same syntactic context .
+The 3-D approaches and processing strategies use syntactic context more directly , and it is to these methods which we now turn .
+Let us briefly reconsider our explanation of deletion .
+Example  was explained by saying that the two strings by Chomsky and Sue gave are deleted under some notion of identity .
+However , we could equally well have described this as a process whereby the first instance of by Chomsky is merged with the second ( under some notion of identity ) , and the second instance of Sue gave is merged with the first .
+Merging word strings instead of deleting them does not help with the problems of deletion accounts which we outlined earlier .
+In particular , it does not help to exclude examples  and  which suggest shared material must have identical syntactic structure .
+However , once we have started to think in terms of merging , there is an obvious next step , which is to move from merging of word strings to merging of syntax trees .
+This is the move made by Goodall 1987 , who advocates treating coordination as a union of phrase markers : `` a ` pasting together ' one on top of the other of two trees , with any identical nodes merging together '' Goodall 1987  .
+We can visualise the result in terms of a three-dimensional tree structure , where the merged material is on one plane , and the syntax trees for each conjunct are on two other planes .
+For example , consider the 3-D tree for example  given in Fig.  .
+The merged part of the tree includes all the nodes which dominate the shared material Sue gave .
+The conjuncts retain separate planes ( denoted here by using stars or crosses for branches ) .
+Goodall 's account does not deal with examples such as  , which he argues to be examples of a different phenomenon .
+However these can be incorporated into a 3-D account Moltmann 1992 .
+There are various technical difficulties with Goodall 's account van Oirsouw 1987 , Moltmann 1992 .
+There is also a fundamental problem concerning semantic interpretation of coordinated structures ( see Moltmann 1992 which provides a revised and more complex 3-D account based on Muadz 1991 ) .
+For coordination of unlike categories , as in the examples in  , Goodall proposes a treatment somewhat similar to Sag et al. 1985 .
+However there is still a problem in dealing with examples where there are different numbers of modifiers , such as  or the following :
+The syntactic structure appropriate for TNT deliver efficiently has one S node and two VP nodes .
+However , the structure for TNT deliver after 5 pm in Edinburgh requires one S node and three VP nodes ( or three S nodes and one VP node ) .
+The two structures therefore fail to merge since the structure dominating the shared material TNT deliver must be identical .
+The use of ordered phrase structure trees also excludes examples such as  .
+In summary , the 3-D approaches correctly enforce identity of syntactic structure for shared material .
+However , the way of characterising syntactic structure using ( parts of ) standard phrase structure trees results in an overly strict requirement of parallelism between the conjuncts .
+We will now consider processing strategies , where syntactic structure of shared material is characterised more indirectly by the state of the parser .
+There have been several attempts to treat coordination by adapting pre-existing parsing strategies .
+For example , ATNs were adapted by Woods 1973 , DCGs by Dahl and McCord 1983 , and chart parsers by Haugeneder 1992 .
+Woods and Dahl and McCord 's system are similar .
+Haugeneder 's system has very limited coverage .
+In Wood 's SYSCONJ system , the parser can back up to various points in the history of the parse , and parse the second conjunct according to the configuration found .
+For example , in parsing ,
+at the point after encountering and , the parser can reaccess the configuration after parsing John gave i.e. a stack consisting of a sentence and a verb-phrase , and an arc traversal by the verb .
+The second conjunct is then parsed according to this configuration .
+SYSCONJ does not immediately merge the two stack configurations after completing the second conjunct , but , instead , separately parses both conjuncts in parallel until a constituent is completed .
+For example , on parsing the sentence ,
+John gave Mary a book and Peter a paper about subjacency
+the SYSCONJ system separately parses Peter a paper about subjacency and Mary a book about subjacency before conjoining at the level of some enclosing constituent ( for example the verb phase ) .
+The result is therefore similar to starting with the sentence :
+As noted by Dahl and McCord , this mechanism means that SYSCONJ inherits the problems of nonsensical semantics which plague the deletion accounts , since John and Mary are alike is treated the same as John are alike and Mary are alike .
+The mechanism also causes problems for dealing with nested coordination .
+Consider the sentence :
+The smallest constituent containing to study medicine when he was eleven is the verb phase wanted to study medicine when he was eleven .
+However , if coordination of the first two conjuncts occurs at this level , it is difficult to see how to deal with the final conjunct .
+Both Woods and Dahl and McCord use stack based configurations rather than a full parsing history .
+Thus once something is popped off the stack its internal structure cannot be accessed by the coordination routine .
+This rules out examples such as the following ,
+where the NP , some books is completed prior to the conjunction being reached .
+Although processing accounts can provide reasonable coverage of the coordination data , the exact predictions often require detailed examination of the code .
+This suggests a need for the more abstract level of description which dynamic grammars provide .
+Dynamics is just the study of states and transitions between states .
+It can be used to specify the states of a left to right parser and the possible mappings between states .
+For example , Milward 1994a provides a dynamic description of a shift reduce parser , and a dynamic description of a fully incremental parser based on dependency grammar .
+Suitable languages for dynamics are both formal and declarative , and are therefore also appropriate to express linguistic generalisations .
+In a Dynamic Grammar Milward 1994a , each word is regarded as an action which performs some change in the syntactic and semantic context .
+For example , a parse of the sentence John likes Mary becomes a mapping between an initial state , c  , through some intermediate states , c  , c  to a final state c  i.e. c   c   c   c  If we use a dynamic grammar to describe a shift reduce parser , states encode the current stack configuration , and are related by rules which correspond to shifting and reducing .
+Since there are arbitrarily large numbers of different stack configurations ( the stack can be of arbitrary size ) , the dynamics for shift reduce parsing involves the use of an infinite number of states .
+It thus differs from , say ATNs Woods 1973 , which have a finite number of states , augmented by an explicit recursion mechanism .
+Dynamic grammars can be presented as rewrite grammars by using transition types instead of the more usual S or NP .
+For example , to get the parse above we need the lexical entries :
+and a single combination rule schema which states that ,
+A string of words is a sentence if it has the type , c  c  where c  and c  are appropriate initial and final states for a parse .
+In a dynamic grammar , any substring of a sentence can be assigned a type .
+For example , likes and Mary can be combined to get the type c   c  .
+Thus we have an appropriate level to perform substring coordination .
+Dynamic grammars may be extended using the following combination rule ( and and or are both given the special transition type CONJ ) : F
+Similar to SYSCONJ , this allows coordination when two conjuncts map between the same pairs of states .
+Processing is also similar , with the encountering of a conjunction causing back-up to an earlier stage in the parsing history .
+However , since there is no popping of a stack , the full parsing history is available .
+For example , Ben gave some books to Sue has the transitions :
+we can then parse papers to Joe using the transitions :
+Since the final state c  matches the state immediately before the conjunction , the two strings can combine .
+The resulting transition diagram is as follows :
+Iterated coordination ( e.g. for examples such as Mary , Peter and Sue ) can be treated in the same way as iterated constituent coordination is treated in phrase structure grammars .
+For example , each transition type can be augmented with a feature ( +/ - ) denoting whether or not that transition has been iterated .
+The coordination rule becomes :
+Iterated types are formed as follows :
+The precise grammaticality predictions made by the dynamic approach depend upon the characterisation of the states , and hence depend on the particular parsing strategy which is specified by the dynamics .
+However there are some general predictions which can be made .
+Firstly , consider conjuncts which correspond one to one in the categories of the corresponding words .
+Here the conjuncts must provide the same transitions , and hence must be able to coordinate ( this is a reflection of the fact that processing can back up to any point in the parsing history ) .
+This predicts that any substring of a sentence can coordinate with itself , and hence that any substring of a sentence can act as a conjunct .
+For convenience we will call this the substring hypothesis .
+This hypothesis has been broadly adopted in the work of van Oirsouw 1987 , Barry and Pickering 1993 , and by work on the Lambek Calculus Moortgat 1988 .
+Apparent counterexamples are as follows :
+However it is difficult to exclude these using syntactic constraints , without also excluding the more acceptable :
+More natural examples where conjuncts are formed by fragments from different constituents are the following :
+The relative unacceptability of the examples in  is perhaps best explained as due to violations of intonational requirements , rather than syntactic requirements Steedman 1989 .
+One case where the dynamic grammars correctly violate the substring hypothesis is when a string already involves a coordination .
+Here , the internal states are not accessible , so we can't get interleaving of two coordinations , as in :
+There may be an argument for similarly blocking coordination in cases which would involve the breaking apart of idioms or other structures which are not standard cases of lexical subcategorisation .
+An example ( due to Mark Steedman ) , which may be such a case , is the following ,
+As noted above , the precise grammaticality predictions depend on the kind of parsing model which is encoded in the states .
+In Milward 1992 , the dynamics specifies a word-by-word incremental parser for a lexicalised version of dependency grammar .
+Each state is a recursively defined category , similar to a category in Categorial Grammar .
+For example , after parsing You can call me one possible state is a sentence missing a sentence modifier .
+This state is appropriate as the initial state for a parse of both directly , or of after 3 pm through my secretary , resulting in a final state of category sentence .
+Thus examples such as  are dealt with , since the syntactic context after You can call me does not distinguish between one or more than one subsequent modifier .
+This lack of distinction as to whether one or more modifier is expected is actually a necessary prerequisite for performing decidable fully word-by-word incremental interpretation Milward and Cooper 1994 .
+Some of the problems with categorial grammar accounts of coordination do reoccur with a dynamic account based on the parser used in Milward 1992 .
+For example ,
+is predicted to be acceptable , as are the following ,
+This second batch of examples is particularly difficult to exclude without making changes to the characterisation of the states .
+A feature plus or minus tensed verb on each conjunct does block them , but is difficult to motivate .
+Dynamic grammars can be regarded purely as formal systems , as direct representations of processing , or as something inbetween ( for example , in the packed parallel parser described in Milward 1994a , the actual parsing states are packed versions of the states in the grammar ) .
+If we consider the dynamics to be a direct representation of processing , then a dependence of linguistic data upon parsing states would only seem plausible if the parsing process corresponds , at least to some extent , with actual human language processing .
+This brings up the intriguing possibility that we can predict coordination facts from known processing data , and vice versa .
+For example , consider the well known example of garden pathing :
+The choice between the use of raced as the main verb , or as part of the reduced relative is usually assumed to be within the fragment the horse raced , suggesting that there are two distinguished parsing states after raced .
+Thus this correctly predicts the unacceptability of the following :
+This paper has sketched various problems with some of the linguistic accounts of coordination .
+It suggested that this was primarily due to difficulty in encoding a proper notion of syntactic context .
+The paper then considered various processing accounts , where the syntactic context is encoded within the state of the parser .
+Finally it showed how dynamics can be used as a formal description of processing accounts which use a full parsing history , and how the characterisations of parsing states can be chosen to enforce the requisite degree of parallelism between conjuncts .
