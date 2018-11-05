@@ -5,8 +5,12 @@ import xml.etree.ElementTree as ET
 class FeaturGenerator:
     """ """
     def __init__(self, xmlcorpora):
-        """ """
+        """ 
+        issues:
+            - add stopwords
+        """
         self.features = {}
+        self.stopwords = []
         self.totalpartitions = 20
         self.location = {
             1: "A", 2: "B", 3: "C", 4: "D", 5: "E",
@@ -14,6 +18,9 @@ class FeaturGenerator:
             11: "F", 12: "F", 13: "F", 14: "F", 15: "G",
             16: "G", 17: "H", 18: "H", 19: "I", 20: "J",
         }
+        self.prototypes = ["Introduction", "Implementation", "Example", "Conclusion","Result",
+                        "Evaluation","Solution","Discussion","Further Work","Data","Related Work",
+                        "Experiment","Problems","Method","Problem Statement","Non-Prototypical"]
         self.parseXML(xmlcorpora)
 
     def parseXML(self, xmlcorpora):
@@ -26,6 +33,10 @@ class FeaturGenerator:
                 self.getTags(xmlfile)
                 self.absoluteLocation(xmlfile)
                 self.explicitStructure(xmlfile)
+                self.paragraphStructure(xmlfile)
+                self.headlines(xmlfile)
+                self.title(xmlfile)
+                self.length(xmlfile)
 
     def getTags(self, xmlfile):
         """ """
@@ -66,13 +77,13 @@ class FeaturGenerator:
 
     def explicitStructure(self, xmlfile):
         """ """
-        for eachpara in self.root.iter("ABSTRACT"):
+        for eachsection in self.root.iter("DIV"):
             total = 1
-            for i in eachpara.iter("A-S"):
+            for i in eachsection.iter("S"):
                 total += 1
 
             line = 1
-            for eachsentence in eachpara.iter("A-S"):
+            for eachsentence in eachsection.iter("S"):
                 sentenceID = eachsentence.attrib["ID"]
                 if line == 1:
                     self.features[xmlfile][sentenceID]["Sec"] = "FIRST"
@@ -89,6 +100,50 @@ class FeaturGenerator:
                 else:
                     self.features[xmlfile][sentenceID]["Sec"] = "SOMEWHERE"
                 line += 1
+
+        for abstract in self.root.iter("ABSTRACT"):
+            total = 1
+            for i in abstract.iter("A-S"):
+                total += 1
+
+            line = 1
+            for eachsentence in abstract.iter("A-S"):
+                sentenceID = eachsentence.attrib["ID"]
+                if line == 1:
+                    self.features[xmlfile][sentenceID]["Sec"] = "FIRST"
+                elif line == 2:
+                    self.features[xmlfile][sentenceID]["Sec"] = "SECOND"
+                elif line == 3:
+                    self.features[xmlfile][sentenceID]["Sec"] = "THIRD"
+                elif line == total-1:
+                    self.features[xmlfile][sentenceID]["Sec"] = "LAST"
+                elif line == total-2:
+                    self.features[xmlfile][sentenceID]["Sec"] = "SECOND-LAST"
+                elif line == total-3: 
+                    self.features[xmlfile][sentenceID]["Sec"] = "THIRD-LAST"
+                else:
+                    self.features[xmlfile][sentenceID]["Sec"] = "SOMEWHERE"
+                line += 1                
+
+
+    def paragraphStructure(self, xmlfile):
+        """ """
+        for abstract in self.root.iter("ABSTRACT"):
+            total = 1
+            for i in abstract.iter("A-S"):
+                total += 1
+
+            line = 1
+            for eachsentence in abstract.iter("A-S"):
+                sentenceID = eachsentence.attrib["ID"]
+                if line == 1:
+                    self.features[xmlfile][sentenceID]["Par"] = "INITIAL"
+                elif line == total-1:
+                    self.features[xmlfile][sentenceID]["Par"] = "FINAL"
+                else:
+                    self.features[xmlfile][sentenceID]["Par"] = "MEDIAL"
+                line += 1                
+
         
         for eachpara in self.root.iter("P"):
             total = 1
@@ -99,22 +154,83 @@ class FeaturGenerator:
             for eachsentence in eachpara.iter("S"):
                 sentenceID = eachsentence.attrib["ID"]
                 if line == 1:
-                    self.features[xmlfile][sentenceID]["Sec"] = "FIRST"
-                elif line == 2:
-                    self.features[xmlfile][sentenceID]["Sec"] = "SECOND"
-                elif line == 3:
-                    self.features[xmlfile][sentenceID]["Sec"] = "THIRD"
+                    self.features[xmlfile][sentenceID]["Par"] = "INITIAL"
                 elif line == total-1:
-                    self.features[xmlfile][sentenceID]["Sec"] = "LAST"
-                elif line == total-2:
-                    self.features[xmlfile][sentenceID]["Sec"] = "SECOND-LAST"
-                elif line == total-3: 
-                    self.features[xmlfile][sentenceID]["Sec"] = "THIRD-LAST"
+                    self.features[xmlfile][sentenceID]["Par"] = "FINAL"
                 else:
-                    self.features[xmlfile][sentenceID]["Sec"] = "SOMEWHERE"
+                    self.features[xmlfile][sentenceID]["Par"] = "MEDIAL"
                 line += 1
+
+
+    def headlines(self, xmlfile):
+        """ 
+        issues:
+            - fix headline for abstract section
+            - fix exact match with partial match
+              after processing headline of the 
+              section.
+        """
+        for eachsection in self.root.iter("DIV"):
+            prototype = self.prototypes[-1]
+            for header in eachsection.iter("HEADER"):
+                if header.text.strip() in self.prototypes:
+                    prototype = header.text.strip()
+                else:
+                    prototype = self.prototypes[-1]
+                break
+
+            for eachsentence in eachsection.iter("S"):
+                sentenceID = eachsentence.attrib["ID"]
+                self.features[xmlfile][sentenceID]["Head"] = prototype
+
+    def length(self, xmlfile):
+        """
+        issues:
+            - fix length without stopwords
+        """
+        for eachsentence in self.root.iter("A-S"):
+            sentenceID = eachsentence.attrib["ID"]
+            length = len(eachsentence.text.split())
+            self.features[xmlfile][sentenceID]["Len"] = length
+
+        for eachsentence in self.root.iter("S"):
+            sentenceID = eachsentence.attrib["ID"]
+            length = len(eachsentence.text.split())
+            self.features[xmlfile][sentenceID]["Len"] = length            
+
+
+    def title(self, xmlfile):
+        """ 
+        issues:
+            - fix exact match of title words with sentence words
+            - fix stopword removal, stemmer, parser
+        """
+        title = None
+        for tag in self.root.iter("TITLE"):
+            title = [w for w in tag.text.split() if not w in self.stopwords]
+
+        for eachsentence in self.root.iter("A-S"):
+            sentenceID = eachsentence.attrib["ID"]
+            for w in eachsentence.text.split():
+                if not w in self.stopwords and w in title:
+                    self.features[xmlfile][sentenceID]["Title"] = "Yes"
+                    break
+                else:
+                    self.features[xmlfile][sentenceID]["Title"] = "No"        
+        
+        for eachsentence in self.root.iter("S"):
+            sentenceID = eachsentence.attrib["ID"]
+            for w in eachsentence.text.split():
+                if not w in self.stopwords and w in title:
+                    self.features[xmlfile][sentenceID]["Title"] = "Yes"
+                    break
+                else:
+                    self.features[xmlfile][sentenceID]["Title"] = "No"
+
 
 
 if __name__ == "__main__":
     xmlcorpora = "../corpora/AZ_distribution/"
     featureGen = FeaturGenerator(xmlcorpora)
+    print featureGen.features["9405001.az-scixml"]["S-0"]
+    print featureGen.features["9405001.az-scixml"]["A-0"]
