@@ -1,6 +1,7 @@
 import os
+import numpy as np
 import xml.etree.ElementTree as ET
-
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 class FeaturGenerator:
     """ """
@@ -9,6 +10,8 @@ class FeaturGenerator:
         issues:
             - add stopwords
         """
+        self.top = 30
+        self.text = []
         self.features = {}
         self.stopwords = []
         self.totalpartitions = 20
@@ -22,6 +25,7 @@ class FeaturGenerator:
                         "Evaluation","Solution","Discussion","Further Work","Data","Related Work",
                         "Experiment","Problems","Method","Problem Statement","Non-Prototypical"]
         self.parseXML(xmlcorpora)
+
 
     def parseXML(self, xmlcorpora):
         """ """
@@ -37,9 +41,12 @@ class FeaturGenerator:
                 self.headlines(xmlfile)
                 self.title(xmlfile)
                 self.length(xmlfile)
+        self.tfIdf(xmlcorpora)
+
 
     def getTags(self, xmlfile):
         """ """
+        lines = []
         for eachsentence in self.root.iter("A-S"):
             sentenceID = eachsentence.attrib["ID"]
             self.features[xmlfile][sentenceID] = {}
@@ -47,6 +54,7 @@ class FeaturGenerator:
                 self.features[xmlfile][sentenceID]["Tag"] = eachsentence.attrib["AZ"]
             except KeyError:
                 self.features[xmlfile][sentenceID]["Tag"] = "NA"
+            lines.append(eachsentence.text)
 
         for eachsentence in self.root.iter("S"):
             sentenceID = eachsentence.attrib["ID"]
@@ -55,6 +63,10 @@ class FeaturGenerator:
                 self.features[xmlfile][sentenceID]["Tag"] = eachsentence.attrib["AZ"]
             except KeyError:
                 self.features[xmlfile][sentenceID]["Tag"] = "NA"
+            lines.append(eachsentence.text)
+
+        self.text.append(" ".join(lines))
+
 
     def absoluteLocation(self, xmlfile):
         """ """
@@ -74,6 +86,7 @@ class FeaturGenerator:
             else:
                 segment = self.totalpartitions
             self.features[xmlfile][ids[i]]["Loc"] = self.location[segment]
+
 
     def explicitStructure(self, xmlfile):
         """ """
@@ -144,7 +157,6 @@ class FeaturGenerator:
                     self.features[xmlfile][sentenceID]["Par"] = "MEDIAL"
                 line += 1                
 
-        
         for eachpara in self.root.iter("P"):
             total = 1
             for i in eachpara.iter("S"):
@@ -182,6 +194,7 @@ class FeaturGenerator:
             for eachsentence in eachsection.iter("S"):
                 sentenceID = eachsentence.attrib["ID"]
                 self.features[xmlfile][sentenceID]["Head"] = prototype
+
 
     def length(self, xmlfile):
         """
@@ -226,6 +239,39 @@ class FeaturGenerator:
                     break
                 else:
                     self.features[xmlfile][sentenceID]["Title"] = "No"
+
+
+    def tfIdf(self, xmlcorpora):
+        """ """
+        vectorizer = TfidfVectorizer(input='content', encoding='utf-8', decode_error='strict', 
+            lowercase=True, preprocessor=None, tokenizer=None, analyzer='word', stop_words=None, 
+            ngram_range=(1, 1), max_df=1.0, min_df=1, max_features=None, norm='l2', 
+            use_idf=True, smooth_idf=True, sublinear_tf=False)
+        vectorizer.fit_transform(self.text)
+        indices = np.argsort(vectorizer.idf_)[::-1]
+        features = vectorizer.get_feature_names()
+        self.tfidf = [features[i] for i in indices[:self.top]]
+
+        for xmlfile in os.listdir(xmlcorpora):
+            if ".az-scixml" in xmlfile:
+                root = ET.parse(xmlcorpora+xmlfile)
+                for eachsentence in root.iter("A-S"):
+                    sentenceID = eachsentence.attrib["ID"]
+                    for w in eachsentence.text.split():
+                        if w in self.tfidf:
+                            self.features[xmlfile][sentenceID]["TfIdf"] = "YES"
+                            break
+                        else:
+                            self.features[xmlfile][sentenceID]["TfIdf"] = "NO"
+
+                for eachsentence in root.iter("S"):
+                    sentenceID = eachsentence.attrib["ID"]
+                    for w in eachsentence.text.split():
+                        if w in self.tfidf:
+                            self.features[xmlfile][sentenceID]["TfIdf"] = "YES"
+                            break
+                        else:
+                            self.features[xmlfile][sentenceID]["TfIdf"] = "NO"
 
 
 
