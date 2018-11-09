@@ -1,14 +1,17 @@
 import numpy as np
+np.random.seed(1234)
+
 from FeatureGenerator import FeatureGenerator
 from sklearn.naive_bayes import GaussianNB
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.naive_bayes import ComplementNB
 from sklearn.naive_bayes import BernoulliNB
 
+
 class NaiveBayes:
     """ """
 
-    def __init__(self, features):
+    def __init__(self, features={}, train_split=0.8, distribution="Bernoulli"):
         """ """
         self.Tag = {
             "OTH": 0, "BKG": 1, "CTR": 2,
@@ -43,13 +46,34 @@ class NaiveBayes:
             "FIRST": 0, "SECOND": 1, "THIRD": 2, "LAST": 3,
             "SECOND-LAST": 4, "THIRD-LAST": 5,"SOMEWHERE": 6,
         }
+
+        self.distribution = distribution
+        self.train_split = train_split
         self.features = features
         self.feed()
 
+
     def feed(self):
         """ """
-        self.X = []; self.y = []
-        for xmlfile in self.features.keys():
+        papers = self.features.keys()
+        order = np.random.permutation(len(papers))
+
+        self.train_papers = []
+        for i in range(int(self.train_split*len(papers))):
+            self.train_papers.append(papers[order[i]])
+
+        self.test_papers = []
+        for i in range(int(self.train_split*len(papers))+1, len(papers)):
+            self.test_papers.append(papers[order[i]])
+
+        self.train_X, self.train_y = self.extractFeatures(self.train_papers)
+        self.test_X, self.test_y = self.extractFeatures(self.test_papers)
+
+
+    def extractFeatures(self, papers):
+        """ """
+        X = []; y = []
+        for xmlfile in papers:
             xmlfile = self.features[xmlfile]
             for eachsentenceID in xmlfile.keys():
                 feature = []
@@ -67,14 +91,15 @@ class NaiveBayes:
                 except KeyError:
                     continue
 
-                self.X.append(feature)
-                self.y.append(label)
+                X.append(feature)
+                y.append(label)
 
-        self.X = np.asarray(self.X)
-        self.y = np.asarray(self.y)
+        X = np.asarray(X)
+        y = np.asarray(y)
+        return X, y
 
 
-    def train(self, distribution="Multinomial"):
+    def train(self):
         """
         issues:
             - more misclassifications
@@ -84,42 +109,74 @@ class NaiveBayes:
             - Gaussian Accuracy: 22.0
 
         """
-        if distribution == "Multinomial": 
+        print("Training on %d papers" %(len(self.train_papers)))
+        if self.distribution == "Multinomial": 
             self.mnb = MultinomialNB()
-            y_pred = self.mnb.fit(self.X, self.y).predict(self.X)
+            y_pred = self.mnb.fit(self.train_X, self.train_y).predict(self.train_X)
             print("Number of mislabeled sentences out of a total %d sentences : %d"
-                  % (self.X.shape[0],(self.y != y_pred).sum()))
-            print("Accuracy: %f"
-                % (self.accuracy((self.y != y_pred).sum(), self.X.shape[0])))
+                  % (self.train_X.shape[0],(self.train_y != y_pred).sum()))
+            print("Train Accuracy: %f"
+                % (self.accuracy((self.train_y != y_pred).sum(), self.train_X.shape[0])))
 
-        elif distribution == "Gaussian":
+        elif self.distribution == "Gaussian":
             self.gnb = GaussianNB()
-            y_pred = self.gnb.fit(self.X, self.y).predict(self.X)
+            y_pred = self.gnb.fit(self.train_X, self.train_y).predict(self.train_X)
             print("Number of mislabeled sentences out of a total %d sentences : %d"
-                  % (self.X.shape[0],(self.y != y_pred).sum()))
-            print("Accuracy: %f"
-                % (self.accuracy((self.y != y_pred).sum(), self.X.shape[0])))
+                  % (self.train_X.shape[0],(self.train_y != y_pred).sum()))
+            print("Train Accuracy: %f"
+                % (self.accuracy((self.train_y != y_pred).sum(), self.train_X.shape[0])))
 
-        elif distribution == "Complement":
+        elif self.distribution == "Complement":
             self.cnb = ComplementNB()
-            y_pred = self.cnb.fit(self.X, self.y).predict(self.X)
+            y_pred = self.cnb.fit(self.train_X, self.train_y).predict(self.train_X)
             print("Number of mislabeled sentences out of a total %d sentences : %d"
-                  % (self.X.shape[0],(self.y != y_pred).sum()))
-            print("Accuracy: %f"
-                % (self.accuracy((self.y != y_pred).sum(), self.X.shape[0])))
+                  % (self.train_X.shape[0],(self.train_y != y_pred).sum()))
+            print("Train Accuracy: %f"
+                % (self.accuracy((self.train_y != y_pred).sum(), self.train_X.shape[0])))
 
-        elif distribution == "Bernoulli":
+        elif self.distribution == "Bernoulli":
             self.bnb = BernoulliNB()
-            y_pred = self.bnb.fit(self.X, self.y).predict(self.X)
+            y_pred = self.bnb.fit(self.train_X, self.train_y).predict(self.train_X)
             print("Number of mislabeled sentences out of a total %d sentences : %d"
-                  % (self.X.shape[0],(self.y != y_pred).sum()))
-            print("Accuracy: %f"
-                % (self.accuracy((self.y != y_pred).sum(), self.X.shape[0])))                   
+                  % (self.train_X.shape[0],(self.train_y != y_pred).sum()))
+            print("Train Accuracy: %f"
+                % (self.accuracy((self.train_y != y_pred).sum(), self.train_X.shape[0])))                   
 
 
     def test(self):
         """ """
-        pass
+        print("Testing on %d papers" %(len(self.test_papers)))
+        if self.distribution == "Multinomial": 
+            self.mnb = MultinomialNB()
+            y_pred = self.mnb.fit(self.test_X, self.test_y).predict(self.test_X)
+            print("Number of mislabeled sentences out of a total %d sentences : %d"
+                  % (self.test_X.shape[0],(self.test_y != y_pred).sum()))
+            print("Test Accuracy: %f"
+                % (self.accuracy((self.test_y != y_pred).sum(), self.test_X.shape[0])))
+
+        elif self.distribution == "Gaussian":
+            self.gnb = GaussianNB()
+            y_pred = self.gnb.fit(self.test_X, self.test_y).predict(self.test_X)
+            print("Number of mislabeled sentences out of a total %d sentences : %d"
+                  % (self.test_X.shape[0],(self.test_y != y_pred).sum()))
+            print("Test Accuracy: %f"
+                % (self.accuracy((self.test_y != y_pred).sum(), self.test_X.shape[0])))
+
+        elif self.distribution == "Complement":
+            self.cnb = ComplementNB()
+            y_pred = self.cnb.fit(self.test_X, self.test_y).predict(self.test_X)
+            print("Number of mislabeled sentences out of a total %d sentences : %d"
+                  % (self.test_X.shape[0],(self.test_y != y_pred).sum()))
+            print("Test Accuracy: %f"
+                % (self.accuracy((self.test_y != y_pred).sum(), self.test_X.shape[0])))
+
+        elif self.distribution == "Bernoulli":
+            self.bnb = BernoulliNB()
+            y_pred = self.bnb.fit(self.test_X, self.test_y).predict(self.test_X)
+            print("Number of mislabeled sentences out of a total %d sentences : %d"
+                  % (self.test_X.shape[0],(self.test_y != y_pred).sum()))
+            print("Test Accuracy: %f"
+                % (self.accuracy((self.test_y != y_pred).sum(), self.test_X.shape[0])))
 
 
     def accuracy(self, misclassifications, samples):
@@ -129,5 +186,6 @@ class NaiveBayes:
 if __name__ == '__main__':
     xmlcorpora = "../data/corpora/AZ_distribution/"
     featureGen = FeatureGenerator(xmlcorpora)
-    classifer = NaiveBayes(featureGen.features)
-    classifer.train(distribution="Bernoulli")
+    classifer = NaiveBayes(features=featureGen.features, distribution="Bernoulli", train_split=0.5)
+    classifer.train()
+    classifer.test()
