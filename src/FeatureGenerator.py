@@ -42,6 +42,8 @@ class FeatureGenerator:
                 self.headlines(xmlfile)
                 self.title(xmlfile)
                 self.length(xmlfile)
+                self.citation(xmlfile)
+                self.history(xmlfile)
         self.tfIdf(xmlcorpora)
 
 
@@ -244,6 +246,58 @@ class FeatureGenerator:
                     break
 
 
+    def citation(self, xmlfile):
+        """
+        issues:
+            - fix stop words, years
+            - add positional information to feature 
+        """
+        authors = []
+        for author in self.root.iter("AUTHOR"):
+            authors.extend(author.text.split())
+
+        for eachsentence in self.root.iter("A-S"):
+            sentenceID = eachsentence.attrib["ID"]
+            self.features[xmlfile][sentenceID]["Ref"] = "None"
+            self.features[xmlfile][sentenceID]["Cit"] = "No"
+            for ref in eachsentence.iter("REF"):
+                self.features[xmlfile][sentenceID]["Ref"] = "Other"
+                self.features[xmlfile][sentenceID]["Cit"] = "Yes"
+                for author in ref.text.split():
+                    if author in authors:
+                        self.features[xmlfile][sentenceID]["Ref"] = "Self"
+                        break
+
+        for eachsentence in self.root.iter("S"):
+            sentenceID = eachsentence.attrib["ID"]
+            self.features[xmlfile][sentenceID]["Ref"] = "None"
+            self.features[xmlfile][sentenceID]["Cit"] = "No"
+            for ref in eachsentence.iter("REF"):
+                self.features[xmlfile][sentenceID]["Ref"] = "Other"
+                self.features[xmlfile][sentenceID]["Cit"] = "Yes"
+                for author in ref.text.split():
+                    if author in authors:
+                        self.features[xmlfile][sentenceID]["Ref"] = "Self"
+                        break
+
+
+    def history(self, xmlfile):
+        """
+        issues:
+            - begining of the paper 
+        """
+        prevTag = "NA"
+        for eachsentence in self.root.iter("A-S"):
+            sentenceID = eachsentence.attrib["ID"]
+            self.features[xmlfile][sentenceID]["His"] = prevTag
+            prevTag = self.features[xmlfile][sentenceID]["Tag"]
+
+        for eachsentence in self.root.iter("S"):
+            sentenceID = eachsentence.attrib["ID"]
+            self.features[xmlfile][sentenceID]["His"] = prevTag
+            prevTag = self.features[xmlfile][sentenceID]["Tag"]
+
+
     def tfIdf(self, xmlcorpora):
         """ """
         vectorizer = TfidfVectorizer(input='content', encoding='utf-8', decode_error='strict', 
@@ -278,5 +332,5 @@ class FeatureGenerator:
 if __name__ == "__main__":
     xmlcorpora = "../data/corpora/AZ_distribution/"
     featureGen = FeatureGenerator(xmlcorpora)
-    print featureGen.features["9405001.az-scixml"]["S-0"]
+    print featureGen.features["9405001.az-scixml"]["S-8"]
     print featureGen.features["9405001.az-scixml"]["A-0"]

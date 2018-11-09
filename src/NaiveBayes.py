@@ -14,7 +14,7 @@ class NaiveBayes:
     def __init__(self, features={}, train_split=0.8, distribution="Bernoulli"):
         """ """
         self.Tag = {
-            "OTH": 0, "BKG": 1, "CTR": 2,
+            "OTH": 0, "BKG": 1, "CTR": 2, "NA": 7,
             "AIM": 3, "OWN": 4, "BAS": 5, "TXT": 6,
         }
 
@@ -46,6 +46,15 @@ class NaiveBayes:
             "FIRST": 0, "SECOND": 1, "THIRD": 2, "LAST": 3,
             "SECOND-LAST": 4, "THIRD-LAST": 5,"SOMEWHERE": 6,
         }
+
+        self.Cit = {
+            "Yes": 0, "No": 1,
+        }
+
+        self.Ref = {
+            "Self": 0, "Other": 1, "None": 2,
+        }
+
 
         self.distribution = distribution
         self.train_split = train_split
@@ -87,6 +96,9 @@ class NaiveBayes:
                     feature.append(self.Title[eachsentencefeature["Title"]])
                     feature.append(self.Head[eachsentencefeature["Head"]])
                     feature.append(self.TfIdf[eachsentencefeature["TfIdf"]])
+                    feature.append(self.Cit[eachsentencefeature["Cit"]])
+                    feature.append(self.Ref[eachsentencefeature["Ref"]])
+                    feature.append(self.Tag[eachsentencefeature["His"]])
                     label = self.Tag[eachsentencefeature["Tag"]]
                 except KeyError:
                     continue
@@ -186,6 +198,6 @@ class NaiveBayes:
 if __name__ == '__main__':
     xmlcorpora = "../data/corpora/AZ_distribution/"
     featureGen = FeatureGenerator(xmlcorpora)
-    classifer = NaiveBayes(features=featureGen.features, distribution="Bernoulli", train_split=0.5)
+    classifer = NaiveBayes(features=featureGen.features, distribution="Bernoulli", train_split=0.85)
     classifer.train()
     classifer.test()
