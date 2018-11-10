@@ -23,45 +23,35 @@ class NaiveBayes:
             "OTH": 0, "BKG": 1, "CTR": 2, "NA": 7,
             "AIM": 3, "OWN": 4, "BAS": 5, "TXT": 6,
         }
-
         self.Loc = {
             "A": 0, "B": 1, "C": 2, "D": 3, "E": 4,
             "F": 5, "G": 6, "H": 7, "I": 8, "J": 9,
         }
-
         self.Par = {
             "INITIAL": 0, "MEDIAL": 1, "FINAL": 2,
         }
-
         self.Title = {
             "Yes": 0, "No": 1,
         }
-
         self.Head = {
             "Introduction": 0, "Implementation": 1, "Example": 2, "Conclusion": 3, "Result": 4,
             "Evaluation": 5, "Solution": 6, "Discussion": 7, "Further Work": 8, "Data": 9,
             "Related Work": 10, "Experiment": 11, "Problems": 12, "Method": 13, 
             "Problem Statement": 14, "Non-Prototypical": 15,
         }
-
         self.TfIdf = {
             "YES": 0, "NO": 1,
         }
-
         self.Sec = {
             "FIRST": 0, "SECOND": 1, "THIRD": 2, "LAST": 3,
             "SECOND-LAST": 4, "THIRD-LAST": 5,"SOMEWHERE": 6,
         }
-
         self.Cit = {
             "Yes": 0, "No": 1,
         }
-
         self.Ref = {
             "Self": 0, "Other": 1, "None": 2,
         }
-
-
         self.distribution = distribution
         self.train_split = train_split
         self.features = features
@@ -93,7 +83,6 @@ class NaiveBayes:
             for eachsentenceID in xmlfile.keys():
                 feature = []
                 eachsentencefeature = xmlfile[eachsentenceID]
-                
                 try:
                     feature.append(eachsentencefeature["Len"])
                     feature.append(self.Loc[eachsentencefeature["Loc"]])
@@ -108,10 +97,8 @@ class NaiveBayes:
                     label = self.Tag[eachsentencefeature["Tag"]]
                 except KeyError:
                     continue
-
                 X.append(feature)
                 y.append(label)
-
         X = np.asarray(X)
         y = np.asarray(y)
         return X, y
@@ -121,37 +108,53 @@ class NaiveBayes:
         """ """
         print("=== Training on %d papers ===" %(len(self.train_papers)))
         if self.distribution == "Multinomial": 
-            self.mnb = MultinomialNB()
-            y_pred = self.mnb.fit(self.train_X, self.train_y).predict(self.train_X)
+            self.clf = MultinomialNB()
         elif self.distribution == "Gaussian":
-            self.gnb = GaussianNB()
-            y_pred = self.gnb.fit(self.train_X, self.train_y).predict(self.train_X)
+            self.clf = GaussianNB()
         elif self.distribution == "Complement":
-            self.cnb = ComplementNB()
-            y_pred = self.cnb.fit(self.train_X, self.train_y).predict(self.train_X)
+            self.clf = ComplementNB()
         elif self.distribution == "Bernoulli":
-            self.bnb = BernoulliNB()
-            y_pred = self.bnb.fit(self.train_X, self.train_y).predict(self.train_X)
+            self.clf = BernoulliNB()
+        self.clf.fit(self.train_X, self.train_y)
+
 
     def test(self):
         """ """
         print("=== Testing on %d papers ===" %(len(self.test_papers)))
-        if self.distribution == "Multinomial": 
-            self.mnb = MultinomialNB()
-            y_pred = self.mnb.fit(self.test_X, self.test_y).predict(self.test_X)
-        elif self.distribution == "Gaussian":
-            self.gnb = GaussianNB()
-            y_pred = self.gnb.fit(self.test_X, self.test_y).predict(self.test_X)
-        elif self.distribution == "Complement":
-            self.cnb = ComplementNB()
-            y_pred = self.cnb.fit(self.test_X, self.test_y).predict(self.test_X)
-        elif self.distribution == "Bernoulli":
-            self.bnb = BernoulliNB()
-            y_pred = self.bnb.fit(self.test_X, self.test_y).predict(self.test_X)
+        y_pred = self.clf.predict(self.test_X)
         return (self.getConfusionMatrix(self.test_y, y_pred),
             self.getPrecisionRecallF1Score(self.test_y, y_pred),
             self.getAccuracy(self.test_y, y_pred))
     
+
+    def getSummary(self, xmlfile):
+        """ """
+        summary = []
+        for sentenceID in self.features[xmlfile].keys():
+            feature = []
+            eachsentencefeature = self.features[xmlfile][sentenceID]
+            try:
+                feature.append(eachsentencefeature["Len"])
+                feature.append(self.Loc[eachsentencefeature["Loc"]])
+                feature.append(self.Par[eachsentencefeature["Par"]])
+                feature.append(self.Sec[eachsentencefeature["Sec"]])     
+                feature.append(self.Title[eachsentencefeature["Title"]])
+                feature.append(self.Head[eachsentencefeature["Head"]])
+                feature.append(self.TfIdf[eachsentencefeature["TfIdf"]])
+                feature.append(self.Cit[eachsentencefeature["Cit"]])
+                feature.append(self.Ref[eachsentencefeature["Ref"]])
+                feature.append(self.Tag[eachsentencefeature["His"]])
+                label = self.Tag[eachsentencefeature["Tag"]]
+            except KeyError:
+                continue            
+            sentenceTag = self.clf.predict([feature])[0]
+            if sentenceTag in [1, 2, 3, 5]:
+                summary.append(eachsentencefeature["Text"])
+        
+        print("=== Summary of "+str(xmlfile)+" ===")
+        for line in summary:
+            print(line)
+
 
     def plotConfusionMatrix(self, cm, classes, normalize=True, title='Confusion matrix', cmap=plt.cm.Blues):
         """
@@ -198,10 +201,21 @@ class NaiveBayes:
 
 
 if __name__ == '__main__':
+    
+    # locate corpus data
     xmlcorpora = "../data/corpora/AZ_distribution/"
+    
+    # generate gold-standard feature vectors
     featureGen = FeatureGenerator(xmlcorpora)
-    classifer = NaiveBayes(features=featureGen.features, distribution="Bernoulli", train_split=0.85)
+
+    # initialise and train NB model
+    classifer = NaiveBayes(features=featureGen.features, distribution="Bernoulli", train_split=0.8)
     classifer.train()
+
+    # Analysis
     confusionMatrix, precisionRecallF1, accuracy = classifer.test()
     classifer.plotConfusionMatrix(confusionMatrix, range(8))
     print("=== Accuracy: %f ===" %(accuracy))
+
+    # generate summary
+    classifer.getSummary('9405001.az-scixml')

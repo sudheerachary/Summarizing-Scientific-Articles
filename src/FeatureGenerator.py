@@ -330,7 +330,13 @@ class FeatureGenerator:
 
 
 if __name__ == "__main__":
+    
+    # locate corpus data 
     xmlcorpora = "../data/corpora/AZ_distribution/"
+
+    # generate gold-standard features
     featureGen = FeatureGenerator(xmlcorpora)
+    
+    # sample feature vectors
     print featureGen.features["9405001.az-scixml"]["S-8"]
     print featureGen.features["9405001.az-scixml"]["A-0"]
