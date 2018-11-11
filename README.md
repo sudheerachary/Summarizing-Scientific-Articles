@@ -102,14 +102,14 @@ In Proceedings of ICASSP, pages 1-4, Tampa, Florida. IEEE.
     - *Deep CNN Network* **(acc: 71%)**
 
 ## clean.py
-  ```
+  ```bash
   python clean.py inputFile | awk '!uniq[substr($0, 0, 10000)]++' > outFile
   ```
   - Basic cleaning of the `inputFile` and writing to `outFile`, each line in `outFile` being a sentence from the `inputFile`.
   - May have errors, ignore them or manually correct if you want.
 
 ## script.py
-  ```
+  ```bash
   python script.py inputFile outFile annotationFile
   ```
   - Send the `inputFile` (output of `clean.py`).
@@ -133,3 +133,27 @@ In Proceedings of ICASSP, pages 1-4, Tampa, Florida. IEEE.
   - ![ComplimentNB Histogram](https://github.com/sudheerachary/Summarizing-Scientific-Articles/blob/master/plots/compliment_hist.png)
   - ![MultinomialNB Histogram](https://github.com/sudheerachary/Summarizing-Scientific-Articles/blob/master/plots/multinomial_hist.png)
   - ![BernoulliNB Histogram](https://github.com/sudheerachary/Summarizing-Scientific-Articles/blob/master/plots/bernoulli_hist.png)
+
+## Dependencies
+  ```bash
+  # matplotlib
+  pip install --user matplotlib
+  
+  # numpy
+  pip install --user numpy
+  
+  # nltk
+  pip install --user nltk
+  
+  # scikit-learn
+  pip install --user scikit-learn
+  
+  # tensorflow
+  pip install --user tensorflow
+  
+  # gensim
+  pip install --user gensim
+  
+  # keras
+  pip install --user keras
+  ```
