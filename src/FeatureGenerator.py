@@ -1,6 +1,7 @@
 import os
 import numpy as np
 import xml.etree.ElementTree as ET
+from nltk.corpus import stopwords 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 class FeatureGenerator:
@@ -14,7 +15,6 @@ class FeatureGenerator:
         self.top = 30
         self.text = []
         self.features = {}
-        self.stopwords = []
         self.totalpartitions = 20
         self.location = {
             1: "A", 2: "B", 3: "C", 4: "D", 5: "E",
@@ -25,6 +25,7 @@ class FeatureGenerator:
         self.prototypes = ["Introduction", "Implementation", "Example", "Conclusion","Result",
                         "Evaluation","Solution","Discussion","Further Work","Data","Related Work",
                         "Experiment","Problems","Method","Problem Statement","Non-Prototypical"]
+        self.stopwords = stop_words = set(stopwords.words('english'))
         self.parseXML(xmlcorpora)
 
 
