@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/sudheerachary/Summarizing-Scientific-Articles.svg)](http://hits.dwyl.io/sudheerachary/Summarizing-Scientific-Articles)
+
 # Summarizing-Scientific-Articles
   - Strategy for the summarization of scientific articles that concentrates on the rhetorical status of statements in an article: Material for summaries is selected in suchway that summaries can highlight the new contribution of the source article and situate it with respect to earlier work.
 
